@@ -1,0 +1,20 @@
+/**
+ * @name Material Blue Discord
+ * @version 0.0.1
+ * @author Elisniper
+ * @source https://github.com/Elisniper/MBD
+ * @description Material Blue Discord Theme.
+ * @website
+*/
+
+/* Discord Theme import */
+@import url(https://elisniper.github.io/MBD/release/import.css);
+
+/* Theme info and version */
+.info-1VyQPT:after {
+    content: "Material Blue Discord Version 0.0.3 By Elisniper";
+    position: absolute;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+}
