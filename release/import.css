@@ -399,7 +399,7 @@
     background-color: var(--mbd-black1);
 }
 .theme-dark .form-2fGMdU:before {
-    background-color: transparent !important;
+    background: transparent;
 }
 .scroller-RmtA4e {
     background-color: var(--mbd-black2);
