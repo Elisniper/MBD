@@ -389,7 +389,7 @@
     border-radius: 0;
 }
 .members-1998pB, .members-1998pB>div {
-    background-color: var(--mbd-black3);
+    background-color: var(--mbd-black2);
 }
 .scroller-2LSbBU {
     background-color: var(--mbd-black2);
@@ -402,7 +402,7 @@
     background-color: transparent;
 }
 .scroller-RmtA4e {
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black2);
 }
 .form-2fGMdU {
     border-top: none;
@@ -411,7 +411,7 @@
     padding-right: 0;
 }
 .form-2fGMdU {
-    background-color: var(--mbd-black3);
+    background-color: var(--mbd-black2);
 }
 .channelTextArea-rNsIhG {
     padding-top: 0px;
@@ -420,7 +420,7 @@
     background-color: transparent;
 }
 .channelTextArea-2VhZ6z .scrollableContainer-2NUZem {
-    background-color: var(--mbd-black3);
+    background-color: var(--mbd-black2);
     border-radius: 4px;
 }
 .scrollableContainer-2NUZem {
@@ -431,7 +431,7 @@
     height: 65px;
 }
 .panels-j1Uci_ {
-    background-color: var(--mbd-black3);
+    background-color: var(--mbd-black2);
 }
 .theme-dark .autocomplete-1vrmpx {
     background-color: var(--mbd-black2);
@@ -449,5 +449,21 @@
 }
 .autocompleteAttached-2QfAgp {
     bottom: calc(100% + 11px);
+}
+/* DM & Friends Tab */
+.searchBar-6Kv8R2 , .searchBar-6Kv8R2 .searchBarComponent-32dTOx{
+    background-color: var(--mbd-black3);
+}
+.scroller-1JbKMe {
+    background-color: var(--mbd-black2);
+}
+.nowPlayingColumn-2sl4cE {
+    background-color: var(--mbd-black2);
+}
+.scroller-2ZPeAD {
+    border-left: 0 !important;
+}
+.peopleColumn-29fq28 {
+    background-color: var(--mbd-black1)
 }
 /* Main Tab/Server Tabs END */
