@@ -12,8 +12,8 @@
 
 /* Theme info and version */
 .info-1VyQPT:after {
-    content: "Material Blue Discord Version 0.0.3 By Elisniper";
-    position: absolute;
+    content: "Material Blue Discord 0.4";
+    position: relative;
     font-size: 12px;
     line-height: 16px;
     color: #72767d;
