@@ -4,14 +4,14 @@
  * @author Elisniper
  * @source https://github.com/Elisniper/MBD
  * @description Material Blue Discord Theme.
- * @website
+ * @website https://xbased.net
 */
 
 /* Discord Theme import */
 @import url(https://elisniper.github.io/MBD/release/import.css);
 
 /* Theme info and version */
-.info-1VyQPT:after {
+.info-3pQQBb:after {
     content: "Material Blue Discord 0.4";
     position: relative;
     font-size: 12px;
