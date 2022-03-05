@@ -85,7 +85,7 @@
 /* User Settings Menu END */
 
 /* Top bar START */
-.container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ{
+.container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
     background: var(--mbd-accent);
 }
 .children-3xh0VB:after {
@@ -342,18 +342,18 @@
 
 /*BD Settings START*/
 .monaco-editor .margin {
-    background-color: var(--mbd-black4);
+    background-color: var(--mbd-black4) !important;
 }
 .monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input {
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black1) !important;
 }
 .bd-search-wrapper {
-    background-color: var(--mbd-black3);
+    background-color: var(--mbd-black3) !important;
 }
 .bd-addon-list .bd-addon-card {
-    background: var(--mbd-black1);
+    background: var(--mbd-black1) !important;
 }
 .bd-addon-list .bd-addon-header {
-    background: var(--mbd-black3);
+    background: var(--mbd-black3) !important;
 }
 /*BD Settings END*/
