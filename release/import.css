@@ -319,6 +319,14 @@
 .jumpToPresentBar-1cEnH0 {
     background-color: var(--mbd-black1);
 }
+.spamBanner-1auiob {
+    display: flex;
+    background: var(--mbd-black4);
+    margin: 0;
+    padding: 11px;
+    border-radius: 0;
+    overflow: hidden;
+}
 /* Server Tabs MAIN END */
 /* loading circle START*/
 @keyframes loading {
@@ -352,7 +360,81 @@
 .circular-3Fmqjd {
     display: none;
 }
+.spinner-wjuo80 {
+    width: 38px !important;
+    margin-left: 14px;
+}
 /* loading circle END*/
+
+/* Add server & Discover START */
+.container-1Lk8p7 {
+    background-color: var(--mbd-black4);
+    border-radius: 4px
+}
+.subtitle-3m-md1, .text-PdAsFQ, .title-1_TkpU, .footerTitle-3Bslxi, .optionHeader-27AHfD, .title-OdeD-o, .subtitle-1cc8Nz, .skip-2hTIXL, .subtitle-bIoUVX, .title-2Giw-4, .h5-2RwDNl, .uploadIcon-2wV7s_, .input-2g-os5:hover, .input-2g-os5, .sizeMin-DfpWCE, .guidelines-FvqqF2, .closeButton-2ygCkj, .close-1mLglB, .title-1LqMUp, .sampleLink-5BWNy9, .rowText-3MQqQi {
+    color: #fff;
+}
+.lookLink-15mFoz.colorPrimary-2AuQVo {
+    color: #fff !important;
+}
+.templatesList-uohY49 {
+    border-radius: 0px;
+}
+.theme-light .footer-31IekZ {
+    background-color: var(--mbd-black4);
+    -webkit-box-shadow: inset 0 1px 0 var(--mbd-black4);
+    box-shadow: inset 0 1px 0 var(--mbd-black4);
+}
+.container-x8Y1ix {
+    background-color: var(--mbd-black2);
+}
+.container-x8Y1ix:hover {
+    background-color: var(--mbd-black1);
+}
+.container-x8Y1ix:active {
+    background-color: var(--mbd-black3);
+}
+.theme-light .lookFilled-yCfaCM.colorGrey-2iAG-B {
+    color: #fff;
+    background-color: var(--mbd-accent);
+}
+.theme-light .lookFilled-yCfaCM.colorGrey-2iAG-B:hover {
+    background-color: var(--mbd-accent);
+    opacity: .8;
+}
+.theme-light .lookFilled-yCfaCM.colorGrey-2iAG-B:active {
+    background-color: var(--mbd-accent);
+    opacity: .9;
+}
+.rowContainer-3t7486 {
+    background-color: var(--mbd-black1);
+}
+.backButton-2Ps-B8 {
+    color: #FFF;
+}
+.input-2g-os5 {
+    border: 1px solid #2f4664;
+}
+.input-m1-Y7Q {
+    background-color: var(--mbd-black4);
+    border-radius: 4px;
+}
+.sidebar-1tnWFu {
+    background: var(--mbd-black3);
+}
+.pageWrapper-2PwDoS, .scroller-RfJjkV {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .card-2TuZPZ, .theme-dark .iconMask-2fMR98, .container-1wv6C6 {
+    background-color: var(--mbd-black2);
+}
+.theme-dark .card-2TuZPZ:hover, .theme-dark .card-2TuZPZ:hover .iconMask-2fMR98, .theme-dark .iconMask-2fMR98:hover, .theme-dark .iconMask-2fMR98:hover .iconMask-2fMR98 {
+    background-color: var(--mbd-black3);
+}
+.categoryItem-Kc_HK_.selectedCategoryItem-ZjqSui .itemInner-3e_4G4 {
+    background-color: var(--mbd-accent);
+}
+/* Add server & Discover END */
 
 /*BD Settings START*/
 .monaco-editor .margin {
