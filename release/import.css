@@ -10,7 +10,7 @@
 }
 /* Theme info and version */
 .info-3pQQBb:after {
-    content: "Material Blue Discord 0.4";
+    content: "Material Blue Discord 0.5 (Beta)";
     position: relative;
     font-size: 12px;
     line-height: 16px;
@@ -176,6 +176,43 @@
 .emptyCard-KDifrB {
     background: var(--mbd-black3);
 }
+.header-1zd7se {
+    background-color: var(--mbd-black3);
+}
+.footer-C9oLp9 {
+    background-color: var(--mbd-black3);
+}
+.noResults-1ceiMB, .scroller-1Kbkqa {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .friendSelected-3cwmD7 {
+    background-color: var(--mbd-black2);
+    transition: 100ms ease;
+}
+.container-1SX9VC {
+    background-color: var(--mbd-black3);
+}
+.tag-15zcD_ {
+    background-color: var(--mbd-black1);
+}
+.header-1w9Q93 {
+    background-color: var(--mbd-black3);
+}
+.scroller-145h9c, .scroller-MIi2ab {
+    background-color: var(--mbd-black1);
+}
+.messages-23can0, .messageContainer-3VTXBC {
+    background-color: var(--mbd-black2);
+}
+.channelHeader-DFRX8q {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy {
+    background-color: var(--mbd-accent);
+}
+.primary-38Hs-h:hover:not(.disabled-184-il), .secondary-2bzKEX {
+    background-color: var(--mbd-black1);
+}
 /* Friends MAIN END */
 
 /*Nitro Main START*/
@@ -261,6 +298,12 @@
 .header-3OsQeK {
     background-color: var(--mbd-accent);
 }
+.clickable-vvKY2q .header-3OsQeK:hover {
+    background-color: var(--mbd-accent);
+}
+.selected-1GtAC5 .header-3OsQeK {
+    background-color: var(--mbd-black3) !important;
+}
 .scroller-1ox3I2 {
     background-color: var(--mbd-black3);
 }
@@ -335,7 +378,59 @@
     border-radius: 0;
     overflow: hidden;
 }
+.base-3bcbY3 {
+    position: absolute;
+    bottom: 44px;
+    left: 0px;
+    right: 9px;
+    height: 24px;
+}
+.wrapper-2SplAX {
+    position: relative;
+    z-index: 1;
+    left: -10px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 24px 0;
+    width: 724px;
+    background-color: var(--mbd-black4);
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
+    color: #f6f6f7;
+    background-color: var(--mbd-accent);
+}
+.messagesPopout-eVzQcI {
+    background-color: var(--mbd-black1);
+}
+.footer-5ji8u1 {
+    background-color: var(--mbd-black3);
+}
 /* Server Tabs MAIN END */
+
+/* Server Settings START */
+.avatarUploaderInnerSquareDisabled-3M9eJS {
+    background-color: var(--mbd-black1);
+}
+.descriptionBox-SKGNgB {
+    background-color: var(--mbd-black1);
+}
+.contentRegion-3HkfJJ {
+    background-color: var(--mbd-black2);
+}
+.theme-dark .headerClickable-zGQJz3, .theme-dark .headerDefault-1e6yjj {
+    background-color: var(--mbd-black1);
+    color: #b9bbbe;
+}
+.theme-dark .headerExpanded-1-zwDr {
+    background-color: var(--mbd-black3);
+    color: #b9bbbe;
+}
+.theme-dark .changeDetails-1kMZqI {
+    background-color: var(--mbd-black1);
+}
+/* Server Settings END */
+
 /* loading circle START*/
 @keyframes loading {
 	0% {
