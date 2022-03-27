@@ -10,11 +10,3 @@
 /* Discord Theme import */
 @import url(https://elisniper.github.io/MBD/release/import.css);
 
-/* Theme info and version */
-.info-3pQQBb:after {
-    content: "Material Blue Discord 0.4";
-    position: relative;
-    font-size: 12px;
-    line-height: 16px;
-    color: #72767d;
-}
