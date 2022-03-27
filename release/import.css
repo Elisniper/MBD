@@ -8,6 +8,14 @@
     --mbd-black3: rgba(20,20,20 ,1);
     --mbd-black4: #101010;
 }
+/* Theme info and version */
+.info-3pQQBb:after {
+    content: "Material Blue Discord 0.4";
+    position: relative;
+    font-size: 12px;
+    line-height: 16px;
+    color: #72767d;
+}
 /* Theme Developer sign */
 .avatar-2e8lTP[src*="253480609224065025"]+::after {
     content: 'Theme Developer';
