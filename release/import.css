@@ -331,18 +331,28 @@
 .form-3gdLxP:before {
     background: transparent !important;
 }
+.scrollableContainer-15eg7h .divider-2rZFJK {
+    bottom: 11px;
+}
 .scrollableContainer-15eg7h {
     background-color: var(--mbd-black4);
     scrollbar-width: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 .channelTextArea-1FufC0 {
     right: 10px;
     margin-bottom: 0;
     background-color: var(--mbd-black4);
-    padding-top: 12px;
-    padding-bottom: 12px;
     padding-right: 10px;
     border-radius: 0;
+}
+.channelAttachmentArea-HwpkuQ {
+    display: flex;
+    gap: 25px;
+    margin: 0 0 10px 6px;
+    padding: 10px 10px 10px;
+    overflow-x: auto;
 }
 .content-3spvdd {
     background: var(--mbd-black1);
@@ -393,7 +403,7 @@
     margin-bottom: 0px;
     margin-left: 0px;
     padding: 24px 0;
-    width: 724px;
+    width: 101.5%;
     background-color: var(--mbd-black4);
 }
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
@@ -404,6 +414,31 @@
     background-color: var(--mbd-black1);
 }
 .footer-5ji8u1 {
+    background-color: var(--mbd-black3);
+}
+.attachedBars-2BCP3l {
+    background: var(--mbd-black4);
+}
+.replyBar-1oi75v, .threadSuggestionBar-3ExSyc {
+    background: var(--mbd-black4);
+}
+.replying-eZ7p5z:before {
+    background-color: var(--mbd-accent);
+}
+.upload-vLbqu- {
+    background-color: var(--mbd-black1);
+}
+.content-2eQb8J {
+    background: var(--mbd-black3);
+}
+.theme-dark .footer-31IekZ {
+    background-color: var(--mbd-black1);
+}
+.checkboxWrapper-2fDzaA.checked-1pZh2h .checkbox-f1HnKB[style*="background-color: var(--brand-experiment-500);"] {
+    background-color: var(--mbd-accent) !important;
+    border-color: var(--mbd-accent) !important;
+}
+.theme-dark .root-g14mjS {
     background-color: var(--mbd-black3);
 }
 /* Server Tabs MAIN END */
@@ -446,8 +481,8 @@
     border-right: 4px solid rgba(255, 255, 255, .2);
     border-bottom: 4px solid rgba(255, 255, 255, .2);
     border-left: 4px solid #fff;
-    width: 28px;
-    height: 28px;
+    width: 26px;
+    height: 26px;
     animation: loading 1s infinite linear;
     top: 3px;
 }
@@ -466,6 +501,10 @@
 .spinner-wjuo80 {
     width: 38px !important;
     margin-left: 14px;
+}
+.spinner-3QeLKO {
+    position: relative;
+    top: calc(12% - 0px);
 }
 /* loading circle END*/
 
