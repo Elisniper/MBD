@@ -449,7 +449,10 @@
 .clickable-vvKY2q .header-3OsQeK:hover {
     background-color: var(--mbd-accent);
 }
-.selected-1GtAC5 .header-3OsQeK {
+.clickable-vvKY2q .selected-1GtAC5, .hasBanner-2IrYih .header-3OsQeK {
+    background-color: transparent !important;
+}
+.clickable-vvKY2q, .selected-1GtAC5 .header-3OsQeK {
     background-color: var(--mbd-black3) !important;
 }
 .scroller-1ox3I2 {
@@ -594,6 +597,13 @@
 }
 .wrapper-NhbLHG:hover .content-1gYQeQ {
     background-color: var(--mbd-black1);
+}
+.notice-12Koq- {
+    background-color: var(--mbd-accent);
+    border-radius: 0;
+}
+.button-3_1yil:hover {
+    background-color: var(--mbd-accent);
 }
 /* Server Tabs MAIN END */
 
@@ -970,6 +980,13 @@
 }
 .scroller-3j5xK2 {
     background: var(--mbd-black1);
+}
+.clickable-28SzVr:hover .layout-1qmrhw, .clickable-28SzVr:active .layout-1qmrhw {
+    background-color: var(--mbd-black1);
+    cursor: pointer;
+}
+.new-3EJMgr {
+    background-color: var(--mbd-black1);
 }
 /* Add server & Discover END */
 
