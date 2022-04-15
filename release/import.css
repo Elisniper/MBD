@@ -391,6 +391,10 @@
 .primary-38Hs-h:hover:not(.disabled-184-il), .secondary-2bzKEX {
     background-color: var(--mbd-black1);
 }
+.secondary-2bzKEX:hover:not(.disabled-184-il) {
+    background-color: var(--mbd-black1);
+    color: var(--interactive-active);
+}
 .localizeBadge-24ZXps {
     background-color: transparent;
 }
@@ -720,6 +724,26 @@
 }
 .clickable-28SzVr.container-1oeRFJ:hover, .clickable-28SzVr.container-1oeRFJ:hover .muted-14PyqW {
     background-color: var(--mbd-black1);
+}
+.emojiPicker-6YCk8a {
+    background-color: var(--mbd-black1);
+}
+.emptyChannelIcon-1YdEz2 {
+    background-color: var(--mbd-black1);
+}
+.icon-2yhmi8 {
+    background-color: var(--mbd-black2);
+}
+.jumpButton-1V_1FA {
+    background-color: var(--mbd-black1);
+}
+.tertiary-1e-lAP {
+    background-color: var(--mbd-black2);
+    color: var(--interactive-normal);
+}
+.tertiary-1e-lAP:hover:not(.disabled-184-il) {
+    background-color: var(--mbd-black3);
+    color: var(--interactive-active);
 }
 /* Threads */
 .container-3XgAHv {
