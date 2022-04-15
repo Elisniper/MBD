@@ -182,12 +182,12 @@
     background-color: var(--mbd-black2) !important;
 }
 .avatar-2Vndt_ {
-    border: 6px solid var(--mbd-black2);
-    background-color: var(--mbd-black2);
+    border: 6px solid transparent;
+    background-color: transparent;
 }
 .avatar-3QF_VA {
-    border: 8px solid var(--mbd-black2);
-    background-color: var(--mbd-black2);
+    border: 8px solid transparent;
+    background-color: transparent;
 }
 .pencilContainer-18TrEJ:hover {
     background-color: var(--mbd-black2);
@@ -410,6 +410,9 @@
 }
 .peopleListItem-u6dGxF.active-2UF8Zh, .peopleListItem-u6dGxF:hover {
     background: var(--mbd-black1);
+}
+.addFriendInput-1Ta-rO .input-2g-os5 {
+    background-color: transparent;
 }
 /* Friends MAIN END */
 
@@ -809,6 +812,9 @@
 }
 .icon-mJhEWn {
     background-color: var(--mbd-black2);
+}
+.container-2ebMPP {
+    background-color: var(--mbd-black1);
 }
 /* Server Tabs MAIN END */
 
