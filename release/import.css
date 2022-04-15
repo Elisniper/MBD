@@ -175,12 +175,15 @@
 .userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k {
     background-color: var(--mbd-black1);
 }
+.footer-3naVBw {
+    background-color: var(--mbd-black1);
+}
 .textarea-_59yqs {
     background-color: var(--mbd-black2) !important;
 }
 .avatar-2Vndt_ {
     border: 6px solid var(--mbd-black2);
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black2);
 }
 .avatar-3QF_VA {
     border: 8px solid var(--mbd-black2);
@@ -191,6 +194,10 @@
 }
 .body-1Ukv50, .topSection-13QKHs {
     background-color: var(--mbd-black1);
+}
+.note-Go5ZP2 {
+    margin-left: 0;
+    margin-right: 0;
 }
 /* User Settings Menu END */
 
@@ -860,7 +867,7 @@
     background-color: var(--mbd-black3);
 }
 .input-2g-os5 {
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black2);
 }
 .lookFilled-1GseHa.select-1Ia3hD {
     background-color: var(--mbd-black1);
@@ -1097,7 +1104,7 @@
     background-color: var(--mbd-black1);
 }
 .role-2TIOKu {
-    background: var(--mbd-black1);
+    background: var(--mbd-black2);
 }
 .colorDefault-CDqZdO .checkbox-hADx5o, .colorDefault-CDqZdO .radioSelection-1UHp0b {
     color: var(--mbd-accent);
@@ -1257,5 +1264,22 @@
 .bd-switch input:checked+.bd-switch-body {
     background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 30%) !important;
     transition: 100ms ease;
+}
+.bd-select {
+    background-color: var(--mbd-black1);
+    border: 1px solid var(--mbd-black1);
+}
+.bd-select .bd-select-options {
+    position: absolute;
+    background: var(--mbd-black1);
+}
+.bd-button.bd-button-danger {
+    background-color: var(--mbd-notification);
+}
+.bd-button {
+    background-color: var(--mbd-accent);
+}
+.bd-addon-views .bd-view-button.selected {
+    background-color: var(--mbd-accent);
 }
 /*BD Settings END*/
