@@ -745,7 +745,7 @@
     background-color: var(--mbd-black3);
     color: var(--interactive-active);
 }
-/* Threads */
+/* Threads & Events */
 .container-3XgAHv {
     background: var(--mbd-black2);
     border-radius: 0;
@@ -779,6 +779,20 @@
 .container-2rzKKA {
     background-color: var(--mbd-black2);
     border: 1px solid var(--mbd-black2);
+}
+.card-8UsK4b {
+    background-color: var(--mbd-black1);
+    border: 2px solid var(--mbd-black1);
+}
+.card-8UsK4b:hover {
+    background-color: var(--mbd-black1);
+    border-color: var(--mbd-accent);
+}
+.eventStatusBrand-3D-ae6 {
+    color: #2167c5;
+}
+.header-1sd0RU {
+    background-color: var(--mbd-accent);
 }
 /* Server Tabs MAIN END */
 
