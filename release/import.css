@@ -715,6 +715,12 @@
     background-color: var(--mbd-black3);
     border-color: var(--mbd-accent) !important;
 }
+.selected-1-Z6gm .layout-1qmrhw {
+    background-color: var(--mbd-black1);
+}
+.clickable-28SzVr.container-1oeRFJ:hover, .clickable-28SzVr.container-1oeRFJ:hover .muted-14PyqW {
+    background-color: var(--mbd-black1);
+}
 /* Threads */
 .container-3XgAHv {
     background: var(--mbd-black2);
