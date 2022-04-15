@@ -414,16 +414,49 @@
 .addFriendInput-1Ta-rO .input-2g-os5 {
     background-color: transparent;
 }
+.quickswitcher-pKcM9U {
+    background-color: var(--mbd-black1);
+}
+.input-3r5zZY {
+    background-color: var(--mbd-black2);
+}
+.result-u66Ywh[aria-selected=true] {
+    background: var(--mbd-black2);
+}
 /* Friends MAIN END */
 
 /*Nitro Main START*/
 .scroller-29cQFV {
     background-color: var(--mbd-black2);
 }
-.theme-dark .feature-2IUcBI {
+.theme-dark .feature-2IUcBI, .scroller-2qwVWY {
     background-color: var(--mbd-black1);
 }
 /*Nitro Main END*/
+
+/* DM/Group calls START*/
+.colorable-3rVGna.primaryDark-2UJt1G, .buttonColor-28DXIe {
+    background: var(--mbd-black1);
+}
+.colorable-3rVGna.red-3T8maV {
+    background: var(--mbd-notification);
+}
+.buttonColor-28DXIe:hover {
+    background-color: var(--mbd-black2);
+}
+.colorable-3rVGna.primaryDark-2UJt1G.active-3D763s, .colorable-3rVGna.primaryDark-2UJt1G:hover {
+    background: var(--mbd-black2);
+}
+.participantsButton-1WBdFP {
+    background: var(--mbd-black1);
+}
+.participantsButton-1WBdFP:hover {
+    background: var(--mbd-black2);
+}
+.root-3bVOP7 {
+    background-color: var(--mbd-black2);
+}
+/* DM/Group calls END*/
 
 /* Server List START */
 .scroller-3X7KbA {
