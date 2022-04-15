@@ -456,6 +456,21 @@
 .root-3bVOP7 {
     background-color: var(--mbd-black2);
 }
+.wrapper-1gVUIN.minimum-fXpVNc {
+    background-color: var(--mbd-black3);
+}
+.theme-dark .quickSelectPopout-2F0PXw {
+    background: var(--mbd-black1);
+}
+.theme-dark .quickSelectPopoutOption-2E2UmS:hover {
+    background-color: var(--mbd-black2);
+}
+.quickSelectPopoutOption-2E2UmS:focus {
+    background-color: transparent;
+}
+.status-1ZXjSF {
+    background-color: var(--mbd-notification);
+}
 /* DM/Group calls END*/
 
 /* Server List START */
