@@ -477,6 +477,9 @@
 .status-1ZXjSF {
     background-color: var(--mbd-notification);
 }
+.emptyPreview-1SMLD4 {
+    background: var(--mbd-black1);
+}
 /* DM/Group calls END*/
 
 /* Server List START */
