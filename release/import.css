@@ -483,6 +483,28 @@
 .cta-3-AFNF {
     background-color: var(--mbd-black1);
 }
+.card-m7VgZ8 {
+    border: 1px solid var(--mbd-black1);
+    background-color: var(--mbd-black1);
+}
+.selectorButtonSelected-3cQUnj {
+    background-color: var(--mbd-accent);
+}
+.theme-dark .item-2OyinQ {
+    border-color: var(--mbd-black2);
+}
+.selectorButton-3fWZ0_ {
+    background: var(--mbd-black1);
+}
+.selectorButton-3fWZ0_:not(.selectorButtonPremiumRequired-IZXhgV):hover {
+    background-color: var(--mbd-accent);
+}
+.liveQualityIndicator-2GyS_e {
+    background-color: var(--mbd-black1) !important;
+}
+.liveShapeRoundRight-1ifBrO {
+    background-color: var(--mbd-notification) !important;
+}
 /* DM/Group calls END*/
 
 /* Server List START */
