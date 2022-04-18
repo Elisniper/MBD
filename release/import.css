@@ -438,6 +438,16 @@
 .theme-dark .feature-2IUcBI, .scroller-2qwVWY {
     background-color: var(--mbd-black1);
 }
+.lookFilled-yCfaCM.colorGreen-3y-Z79 {
+    color: #fff;
+    background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 30%);
+}
+.lookFilled-yCfaCM.colorGreen-3y-Z79:hover, .lookInverted-2mDUMi.colorBrand-I6CyqQ:hover {
+    transform: translateY(-1px);
+}
+.lookFilled-yCfaCM.colorGreen-3y-Z79:active, .lookInverted-2mDUMi.colorBrand-I6CyqQ:active {
+    transform: translateY(1px);
+}
 /*Nitro Main END*/
 
 /* DM/Group calls START*/
@@ -702,6 +712,13 @@
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
     color: #f6f6f7;
     background-color: var(--mbd-accent);
+
+}
+.lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
+    transform: translateY(-1px);
+}
+.lookFilled-yCfaCM.colorPrimary-2AuQVo:active {
+    transform: translateY(1px);
 }
 .messagesPopout-eVzQcI {
     background-color: var(--mbd-black1);
@@ -825,6 +842,9 @@
 }
 .emojiPicker-6YCk8a {
     background-color: var(--mbd-black1);
+}
+.emojiItem-277VFM.emojiItemSelected-2Lg50V {
+    background-color: var(--mbd-black2);
 }
 .emptyChannelIcon-1YdEz2 {
     background-color: var(--mbd-black1);
@@ -1288,7 +1308,10 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 .disabledRemoveIcon-3upLsy {
     color: hsl(218, calc(var(--saturation-factor, 1) * 0%), 30%);
 }
-.inputWrapper-1YNMmM .input-2g-os5 {
+.children-1xdcWE .inputWrapper-1YNMmM .inputDefault-3FGxgL {
+    background-color: var(--mbd-black1);
+}
+.addMemberRow-KVhQFf.selectedRow-1SAgVL {
     background-color: var(--mbd-black1);
 }
 /* Server Settings END */
@@ -1428,7 +1451,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
     background-color: var(--mbd-black1) !important;
 }
 .bd-search-wrapper {
-    background-color: var(--mbd-black3) !important;
+    background-color: var(--mbd-black1) !important;
 }
 .bd-addon-list .bd-addon-card {
     background: var(--mbd-black1) !important;
@@ -1458,7 +1481,27 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 .bd-button {
     background-color: var(--mbd-accent);
 }
+.bd-button:hover {
+    background-color: var(--mbd-accent);
+    transform: translateY(-1px);
+}
+.bd-button:active {
+    background-color: var(--mbd-accent);
+    transform: translateY(1px);
+}
 .bd-addon-views .bd-view-button.selected {
     background-color: var(--mbd-accent);
+}
+/*BD Custom CSS Live Update Posistion FIX*/
+.checkbox-item {
+    margin-right: 5px;
+}
+.checkbox-item .checkbox-label {
+    margin-top: 2px;
+    margin-right: 5px;
+}
+.controls-section .checkbox-inner {
+    width: 18px;
+    height: 18px;
 }
 /*BD Settings END*/
