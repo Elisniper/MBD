@@ -429,6 +429,12 @@
 .result-u66Ywh[aria-selected=true] {
     background: var(--mbd-black2);
 }
+.theme-dark .applicationStreamingPreviewWrapper-7j27t8 {
+    background-color: var(--mbd-black2);
+}
+.theme-dark .separator-2OaeRP {
+    background-color: var(--mbd-black2);
+}
 /* Friends MAIN END */
 
 /*Nitro Main START*/
@@ -891,6 +897,9 @@
 }
 .role-23oyrw {
     background-color: var(--mbd-black1);
+}
+.numberBadge-3uSQY0 {
+    background-color: var(--mbd-notification);
 }
 /* Threads & Events */
 .container-3XgAHv {
@@ -1491,6 +1500,11 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 }
 .bd-addon-views .bd-view-button.selected {
     background-color: var(--mbd-accent);
+}
+.bd-number-input {
+    display: flex;
+    background-color: var(--mbd-black1);
+    border: 1px solid var(--mbd-black1);
 }
 /*BD Custom CSS Live Update Posistion FIX*/
 .checkbox-item {
