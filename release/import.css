@@ -729,6 +729,10 @@
 .messagesPopout-eVzQcI {
     background-color: var(--mbd-black1);
 }
+.messageGroupWrapper-1jf_7C {
+    background: var(--mbd-black2);
+    border: 1px solid var(--mbd-black2);
+}
 .footer-5ji8u1 {
     background-color: var(--mbd-black3);
 }
@@ -900,6 +904,24 @@
 }
 .numberBadge-3uSQY0 {
     background-color: var(--mbd-notification);
+}
+.notice-1x8lm- {
+    background-color: var(--mbd-accent);
+}
+.notice-2HEN-u {
+    border-radius: 0;
+}
+.guildSidebar-UHnQqs {
+    background-color: var(--mbd-black2);
+}
+.modal-2TOYtq {
+    background-color: var(--mbd-black1);
+}
+.formFieldWrapper-2LV3S6 {
+    background-color: var(--mbd-black2);
+}
+.formFieldWrapper-2LV3S6, .settingsFormFieldWrapper-U99c9i {
+    border: 1px solid var(--mbd-black2);
 }
 /* Threads & Events */
 .container-3XgAHv {
