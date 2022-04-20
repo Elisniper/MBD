@@ -113,6 +113,12 @@
 .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i {
     border-color: var(--mbd-black1);
 }
+.upsellContainer-3qKRln {
+    background-color: var(--mbd-black1);
+}
+.upsellContainer-3qKRln {
+    background-color: var(--mbd-black1);
+}
 .cardPrimaryOutline-1ofwVz {
     border-color: var(--mbd-black1);
     background-color: var(--mbd-black1);
@@ -983,6 +989,14 @@
 }
 .container-2ebMPP {
     background-color: var(--mbd-black1);
+}
+.root-cw9rWQ {
+    background: var(--mbd-black1);
+}
+.option-1O-Hwt:hover {
+    background: var(--mbd-black2);
+    border-bottom-color: transparent;
+    transition: 50ms ease;
 }
 /* Server Tabs MAIN END */
 
