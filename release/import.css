@@ -672,6 +672,25 @@
     padding: 10px 10px 10px;
     overflow-x: auto;
 }
+.uploadModal-2ie9O_ .inner-rBP-MS .file-163EuR.expandable-2-lrzP .description-2AJi-V {
+    padding: 16px 16px 24px;
+    position: relative;
+    left: 125px;
+    width: 75%;
+}
+.progressBar-1T6LYX.small-1bZsRQ.animating-2CraY5[style*="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%);"] {
+    background-color: var(--mbd-accent) !important;
+}
+.progress-xNqAjK {
+    background-color: var(--mbd-black2)!important;
+}
+.attachment-1PZZB2 {
+    border-color: var(--mbd-black1);
+    background-color: var(--mbd-black1);
+}
+.theme-dark .footer-VCsJQY {
+    background-color: var(--mbd-black1);
+}
 .content-3spvdd {
     background: var(--mbd-black1);
 }
