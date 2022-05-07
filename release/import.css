@@ -1510,6 +1510,25 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 }
 /* Add server & Discover END */
 
+/* Account Switch START */
+.list-3-WAYB {
+    background-color: var(--mbd-black1);
+}
+.theme-dark.authBox-1HR6Ha {
+    color: #72767d;
+    background: var(--mbd-black1);
+}
+.theme-dark.navRow-dG-XX8 {
+    background-color: var(--mbd-black3);
+}
+.errorMessage-1kMqS5 {
+    color: red;
+}
+.errorSeparator-f__rwE {
+    color: #FFF;
+}
+/* Account Switch END */
+
 /*BD Settings START*/
 .monaco-editor .margin {
     background-color: var(--mbd-black4) !important;
