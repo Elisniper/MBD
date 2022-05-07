@@ -951,6 +951,9 @@
 .formFieldWrapper-2LV3S6, .settingsFormFieldWrapper-U99c9i {
     border: 1px solid var(--mbd-black2);
 }
+.container-2Y4CWj {
+    background-color: var(--mbd-black3);
+}
 /* Threads & Events */
 .container-3XgAHv {
     background: var(--mbd-black2);
