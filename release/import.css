@@ -84,6 +84,9 @@
 /*Context Menu END*/
 
 /* User Settings Menu START */
+.theme-dark .addGamePopout-2SKNIV {
+    background-color: var(--mbd-black3);
+}
 .questionMark-3V9mGJ {
     background-color: var(--mbd-accent);
 }
@@ -530,6 +533,9 @@
 .root-22AK9z .searchBar-jGtisZ {
     background-color: var(--mbd-black3);
 }
+.overflow-W0reYu {
+    background-color: var(--mbd-black1);
+}
 /* DM/Group calls END*/
 
 /* Server List START */
@@ -953,6 +959,13 @@
 }
 .container-2Y4CWj {
     background-color: var(--mbd-black3);
+}
+.textContainer-36wgKK, .footer-GXWBBp, .modalTextContainer-1FUO2W {
+    background-color: var(--mbd-black1);
+    border: 1px solid var(--mbd-black1);
+}
+.languageSelector-2e1IuO {
+    background-color: var(--mbd-black2);
 }
 /* Threads & Events */
 .container-3XgAHv {
@@ -1531,6 +1544,22 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
     color: #FFF;
 }
 /* Account Switch END */
+
+/* Party Mode START */
+.achievementContainer-2jBIZt {
+    background-color: var(--mbd-black1);
+}
+.container-3wgZ8J {
+    background-color: var(--mbd-black1);
+}
+.container-3wgZ8J:hover {
+    background-color: var(--mbd-black3);
+    transition: 100ms ease-in-out;
+}
+.headerIcon--s7SDK {
+    background: var(--mbd-black1);
+}
+/* Party Mode END */
 
 /*BD Settings START*/
 .monaco-editor .margin {
