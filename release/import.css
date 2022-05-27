@@ -1545,6 +1545,12 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 }
 /* Account Switch END */
 
+/* Custom Status START*/
+.premiumPromo-1eKAIB {
+    background-color: var(--mbd-black1);
+}
+/* Custom Status END*/
+
 /* Party Mode START */
 .achievementContainer-2jBIZt {
     background-color: var(--mbd-black1);
