@@ -1633,4 +1633,8 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
     width: 18px;
     height: 18px;
 }
+/*BD Public button */
+#bd-pub-li {
+    display: none;
+}
 /*BD Settings END*/
