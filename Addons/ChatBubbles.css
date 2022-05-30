@@ -73,4 +73,7 @@
     background-color: var(--mbd-black2) !important;
     border: 1px solid var(--mbd-black2) !important;
 }
+.mentioned-Tre-dv.message-2CShn3.groupStart-3Mlgv1 {
+    background-color: var(--background-mentioned) !important;
+}
 /*Chat bubbles END */
