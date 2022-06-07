@@ -1344,6 +1344,22 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 .member-2cj2PI .root-jbEB5E .role-2TIOKu {
     background: var(--mbd-black1);
 }
+.theme-dark .tierHeaderUnlocked-1OpOLf {
+    background-color: var(--mbd-black1);
+}
+.wrapper-24fR1R {
+    background-color: var(--mbd-black1);
+}
+.wrapper-24fR1R:focus-within, .wrapper-24fR1R:hover {
+    background-color: var(--mbd-black3);
+}
+.previewDark-3Xp3UB {
+    background: var(--mbd-black1);
+    color: #72767d;
+}
+.emojiRow-1aPaM- .emojiAliasInput-3ZhdKx .emojiInput-B8MGXq {
+    background-color: var(--mbd-black1);
+}
 /* Channel Settings */
 .cardFolder-3H4uH4 {
     background: var(--mbd-black1);
