@@ -76,4 +76,28 @@
 .mentioned-Tre-dv.message-2CShn3.groupStart-3Mlgv1 {
     background-color: var(--background-mentioned) !important;
 }
+.button-3bklZh.selected-69H4ua {
+    color: #FFF;
+    background-color: transparent;
+}
+.button-3bklZh:active {
+    color: #FFF;
+    background-color: transparent;
+}
+.full-motion .wrapper-2vIMkT:hover, .wrapper-2vIMkT {
+    box-shadow: none;
+}
+.isHeader-2bbX-L {
+    top: 0px;
+}
+.container-2gUZhU {
+    padding: 0;
+}
+.message-2CShn3:not(.groupStart-3Mlgv1) .buttons-3dF5Kd.container-2gUZhU {
+    top: -6px;
+}
+.button-3bklZh:hover, .wrapper-2vIMkT {
+    background-color: rgb(43 43 43);
+    border-radius: 0;
+}
 /*Chat bubbles END */
