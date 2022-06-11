@@ -84,6 +84,28 @@
 /*Context Menu END*/
 
 /* User Settings Menu START */
+.contentRegionShownSidebar-fHXkEg {
+    justify-content: space-evenly;
+}
+.sidebarRegion-1VBisG {
+    flex: 1 0 0px;
+    z-index: 1;
+}
+.contentColumn-1C7as6, .customColumn-2n-oKU {
+    flex: 1 1 auto;
+    max-width: 65%;
+    min-width: 460px;
+    min-height: 100%;
+}
+.hero-1aNo0v {
+    max-width: 100%;
+}
+.featuresHeader-2bjq5B {
+    margin-left: 7%;
+}
+.selectedBackground-1t6xXq {
+    background-color: var(--mbd-accent);
+}
 .theme-dark .addGamePopout-2SKNIV {
     background-color: var(--mbd-black3);
 }
