@@ -625,7 +625,7 @@
     background-color: transparent !important;
 }
 .clickable-vvKY2q, .selected-1GtAC5 .header-3OsQeK {
-    background-color: var(--mbd-black3) !important;
+    background-color: var(--mbd-accent) !important;
 }
 .scroller-1ox3I2 {
     background-color: var(--mbd-black3);
@@ -712,9 +712,6 @@
 }
 .newMessagesBar-1hF-9G {
     background-color: var(--mbd-accent);
-}
-.wrapper-2vIMkT {
-    background-color: var(--mbd-black1);
 }
 .wrapper-3HVHpV, .wrapper-15CKyy, .scroller-3KyaqJ {
     background-color: var(--mbd-black2);
@@ -966,6 +963,16 @@
 }
 .languageSelector-2e1IuO {
     background-color: var(--mbd-black2);
+}
+.wrapper-1gVUIN.chatSidebarOpen--YCxhs .callContainer-HtHELf {
+    border-radius: 0;
+}
+.reaction-3vwAF2 {
+    background: rgb(43 43 43);
+}
+.reaction-3vwAF2.reactionMe-1PwQAc {
+    background-color: var(--mbd-accent);
+    border-color: var(--mbd-accent);
 }
 /* Threads & Events */
 .container-3XgAHv {
