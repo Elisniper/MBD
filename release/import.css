@@ -103,8 +103,12 @@
 .featuresHeader-2bjq5B {
     margin-left: 7%;
 }
+.avatar-3mTjvZ {
+    border: 7px solid var(--mbd-black3);
+    background-color: var(--mbd-black3);
+}
 .selectedBackground-1t6xXq {
-    background-color: var(--mbd-accent);
+    background-color: transparent;
 }
 .theme-dark .addGamePopout-2SKNIV {
     background-color: var(--mbd-black3);
@@ -1141,7 +1145,7 @@
     background-color: var(--mbd-black1);
 }
 .itemFilled-1cPbtg[aria-checked=true] {
-    background-color: var(--mbd-black3);
+    background-color: var(--mbd-accent);
 }
 .lookOutlined-3yKVGo.colorPrimary-2AuQVo:hover {
     background-color: var(--mbd-black1);
