@@ -1,0 +1,8 @@
+.iconWrapper-2awDjA.clickable-ZD7xvu.selected-29KTGM[aria-label="Pinned Messages"] {
+    transform: rotate(-45deg);
+    transition: 100ms ease-in-out;
+}
+
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] {
+    transition: 100ms ease-in-out;
+}
