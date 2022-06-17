@@ -1,6 +1,6 @@
 /** 
  * @name Material Blue Discord
- * @version 1.0
+ * @version 1.1
  * @author Elisniper
  * @source https://github.com/Elisniper/MBD
  * @description Material Blue Discord Theme.
@@ -10,3 +10,4 @@
 /* Discord Theme import */
 @import url(https://elisniper.github.io/MBD/release/import.css);
 @import url(https://elisniper.github.io/MBD/Addons/ChatBubbles.css);
+@import url(https://elisniper.github.io/MBD/Addons/AnimatedButtons.css);
