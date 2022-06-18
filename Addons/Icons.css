@@ -145,18 +145,77 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] path {
     display: none;
 }
-.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] {
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] .icon-2xnN2Y {
     background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh%0D%0ARE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cu%0D%0AdzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4x%0D%0AIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4%0D%0AbGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRo%0D%0APSIxMDRweCIgaGVpZ2h0PSIxMDRweCIgdmlld0JveD0iMCAwIDEwNCAxMDQiIGVuYWJsZS1iYWNr%0D%0AZ3JvdW5kPSJuZXcgMCAwIDEwNCAxMDQiIHhtbDpzcGFjZT0icHJlc2VydmUiPiAgPGltYWdlIGlk%0D%0APSJpbWFnZTAiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiB4PSIwIiB5PSIwIgogICAgeGxpbms6%0D%0AaHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFHZ0FB%0D%0AQUJvQ0FRQUFBQzNGWDBxQUFBQUJHZEJUVUVBQUxHUEMveGhCUUFBQUNCalNGSk4KQUFCNkpnQUFn%0D%0ASVFBQVBvQUFBQ0E2QUFBZFRBQUFPcGdBQUE2bUFBQUYzQ2N1bEU4QUFBQUFtSkxSMFFBLzRlUHpM%0D%0AOEFBQUFKY0VoWgpjd0FBTGlNQUFDNGpBWGlsUDNZQUFBQUhkRWxOUlFma0F3Z0xKQ0xyeU82b0FB%0D%0AQUJ3VWxFUVZSNDJ1MmI3WEhDTUF5RzVWNy9ONTJnCjJhRFpvTzRtYkZJNkNlMGtDUnQwQkRwQnU0%0D%0ASDZpK01yVUU2VzdSZmYrL0FIY2tpbjV6QllVVUpRYVl1NzJnVlFpRUkzRG9YUW9SQTYKRkVLSFF1%0D%0AaFFDQjBLb1VNaGRPNXRZV0h2dVVhSlR0Vk1ZZHJMVzFMb2dDaHZUa0lpVTJxQzVwWWNoZENoRURv%0D%0AVVFpZll0cTl3OEVxagpEUElpVVRwakZiOHl5VnErOXJkVjY4WXFhbnFjeWJWVUMwdlB5bnlYM0hQ%0D%0AQnFEUDRDblVGbzRvSUFlRHlvN0JGamQvak1Kdk9scXk1ClQ4aFJTUHZ5a1ZtRnhGNFdxQkFFbmtL%0D%0AeFFtUldJUWc4aFI0cVJHWVZHaXBFWmhXQ3dMRlQwQi83NlVONG5NbFhYU2podHFHNTVvZXQKajYr%0D%0AUXhuclJXWVJROEJQcUswWlQ2SWJ3RTBvYmRiZ05TdnlFdW9yUkZQb1hYU1EybUlNdW5JelNKNmNh%0D%0AZFRSTlRJOFpEN2RYWTJWcApRbTR5TTFMRmhYUndsdGxKRGNXRnROZFZGcGt0SysxdGxSbFBIMlQw%0D%0ASEd6TU1zbXJKWXlkQWpvVVFvZEM2RFFuWkwyOTdGUFdWNzN2ClNSWkhSejdrKzZySWpiR3k5T2Iw%0D%0AWXZaNDBnUEV2SlUxdCtRb2hBNkYwS0VRT2hSQ2gwTG9VQWdkQ3FGRElYUW9oRTV6UWg1L0tyekUK%0D%0AUnQ1UGptVEZlamtGbHVhV0hJWFFvUkE2RkVLSFF1aFFDQjBLb2ZNSDYvRVRub0VPZnFRQUFBQWxk%0D%0ARVZZZEdSaGRHVTZZM0psWVhSbApBREl3TWpBdE1ETXRNRGhVTVRFNk16WTZNelFyTURNNk1EQmd5%0D%0AZDIvQUFBQUpYUkZXSFJrWVhSbE9tMXZaR2xtZVFBeU1ESXdMVEF6CkxUQTRWREV4T2pNMk9qTTBL%0D%0AekF6T2pBd0VaUmxBd0FBQUFCSlJVNUVya0pnZ2c9PSIgLz4KPC9zdmc+Cg==);
     background-repeat: no-repeat;
     background-size: 26px;
     background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
 }
-.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Inbox"] {
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Inbox"] .icon-2xnN2Y {
     background-image: url(https://elisniper.github.io/MBD/resources/inbox.png);
     background-repeat: no-repeat;
-    background-size: 26px;
+    background-size: 40px;
     background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Inbox"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Help"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/help.png);
+    background-repeat: no-repeat;
+    background-size: 31px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Help"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="New Group DM"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/newDM.png);
+    background-repeat: no-repeat;
+    background-size: 28px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="New Group DM"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Hide Member List"] .icon-2xnN2Y, .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Show Member List"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/members.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Hide Member List"] path,  .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Show Member List"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Notification Settings"] .icon-2xnN2Y[fill="none"] {
+    background-image: url(https://elisniper.github.io/MBD/resources/bell.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Notification Settings"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/mutebell.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Notification Settings"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Threads"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/threads.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Threads"] path {
     display: none;
 }
