@@ -1096,6 +1096,15 @@
 /* Server Search Tab END*/
 
 /* Server Settings START */
+.customScroller-m1-jZn>div {
+    margin-left: 40px;
+    margin-right: 97px;
+    max-width: 65%;
+    min-width: 460px;
+}
+.contentRegion-3HkfJJ {
+    justify-content: space-evenly;
+}
 .avatarUploaderInnerSquareDisabled-3M9eJS {
     background-color: var(--mbd-black1);
 }
