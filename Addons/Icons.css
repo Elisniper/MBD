@@ -151,3 +151,9 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     background-size: 26px;
     background-position: center;
 }
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Inbox"] {
+    background-image: url(https://elisniper.github.io/MBD/resources/imbox.png);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Inbox"] path {
+    display: none;
+}
