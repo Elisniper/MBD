@@ -70,7 +70,7 @@
 .menu-1QACrS, .scroller-1bVxF5 {
     background: var(--mbd-black3);
     border-radius: 2px;
-    padding: 2px 3px;
+    padding: 0px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5) !important;
     animation: opacity 50ms ease, context-new 150ms cubic-bezier(0, 0, 0, 1);
     transform-origin: top;
@@ -435,6 +435,12 @@
 }
 .theme-dark .header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy {
     background-color: var(--mbd-accent);
+}
+.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
+    background-color: var(--mbd-black1);
+}
+.side-2ur1Qk .themed-2-lozF.item-3XjbnG:active:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:active:not(.disabled-1nofHP) {
+    background-color: var(--mbd-black1);
 }
 .primary-38Hs-h:hover:not(.disabled-184-il), .secondary-2bzKEX {
     background-color: var(--mbd-black1);
@@ -913,6 +919,9 @@
 .emojiItem-277VFM.emojiItemSelected-2Lg50V {
     background-color: var(--mbd-black2);
 }
+.upsell-3B1lnN {
+    background-color: transparent;
+}
 .emptyChannelIcon-1YdEz2 {
     background-color: var(--mbd-black1);
 }
@@ -920,6 +929,9 @@
     background-color: var(--mbd-black2);
 }
 .jumpButton-1V_1FA {
+    background-color: var(--mbd-black1);
+}
+.jumpButton-1ZwI_j {
     background-color: var(--mbd-black1);
 }
 .tertiary-1e-lAP {
@@ -1079,10 +1091,10 @@
     background: var(--mbd-black4);
 }
 .searchResult-O9NDji {
-    background-color: var(--mbd-black2);
+    background-color: var(--mbd-black1);
 }
 .button-cfOvv- {
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black2);
 }
 .searchHeader-1r_ZSh {
     background-color: var(--mbd-black1);
