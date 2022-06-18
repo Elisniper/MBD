@@ -1,0 +1,27 @@
+/* Pin Button */
+.iconWrapper-2awDjA.clickable-ZD7xvu.selected-29KTGM[aria-label="Pinned Messages"] {
+    transform: rotate(0deg);
+    transition: 100ms ease-in-out;
+}
+
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] {
+    transform: rotate(45deg);
+    transition: 100ms ease-in-out;
+}
+/* Menu Animation */
+@keyframes menu-anim {
+    from {
+        transform:scaleY(0);
+    }
+    to {
+        transform:scaleY(1);
+    }
+}
+.container-3u7RcY, .container-2ebMPP, .userPopout-2j1gM4, .browser-mnQ1T7, .messagesPopoutWrap-3zryHW, .wrapper-1NB3WY {
+    animation: menu-anim 240ms ease-in-out;
+    transform-origin: top;
+}
+.positionLayer-1cndvf .emojiPicker-6YCk8a {
+    animation: menu-anim 240ms ease-in-out;
+    transform-origin: top;
+}
