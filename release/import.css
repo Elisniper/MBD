@@ -72,7 +72,7 @@
     border-radius: 2px;
     padding: 0px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5) !important;
-    animation: opacity 50ms ease, context-new 150ms cubic-bezier(0, 0, 0, 1);
+    animation: opacity 50ms ease, context-new 240ms cubic-bezier(0, 0, 0, 1);
     transform-origin: top;
 }
 .theme-dark .tooltipPrimary-3qLMbS, .theme-light .tooltipPrimary-3qLMbS {
@@ -435,12 +435,6 @@
 }
 .theme-dark .header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy {
     background-color: var(--mbd-accent);
-}
-.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
-    background-color: var(--mbd-black1);
-}
-.side-2ur1Qk .themed-2-lozF.item-3XjbnG:active:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:active:not(.disabled-1nofHP) {
-    background-color: var(--mbd-black1);
 }
 .primary-38Hs-h:hover:not(.disabled-184-il), .secondary-2bzKEX {
     background-color: var(--mbd-black1);
