@@ -142,6 +142,9 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 }
 
 /* Server settings Icons*/
+.side-2ur1Qk .item-3XjbnG[aria-controls="overview-tab"]::before {
+    background: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTAg%0D%0AMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiAgICA8cGF0aCBkPSJNMjEgMkgzYy0xLjEgMC0yIC45%0D%0ALTIgMnYxMmMwIDEuMS45IDIgMiAyaDd2Mkg4djJoOHYtMmgtMnYtMmg3YzEuMSAwIDItLjkgMi0y%0D%0AVjRjMC0xLjEtLjktMi0yLTJ6bTAgMTRIM1Y0aDE4djEyeiIvPjwvc3ZnPg==);
+}
 .side-2ur1Qk .item-3XjbnG[aria-controls="emoji-tab"]::before {
     background: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTAg%0D%0AMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiAgICA8cGF0aCBkPSJNMTEuOTkgMkM2LjQ3IDIgMiA2%0D%0ALjQ4IDIgMTJzNC40NyAxMCA5Ljk5IDEwQzE3LjUyIDIyIDIyIDE3LjUyIDIyIDEyUzE3LjUyIDIg%0D%0AMTEuOTkgMnpNMTIgMjBjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0z%0D%0ALjU4IDgtOCA4em0zLjUtOWMuODMgMCAxLjUtLjY3IDEuNS0xLjVTMTYuMzMgOCAxNS41IDggMTQg%0D%0AOC42NyAxNCA5LjVzLjY3IDEuNSAxLjUgMS41em0tNyAwYy44MyAwIDEuNS0uNjcgMS41LTEuNVM5%0D%0ALjMzIDggOC41IDggNyA4LjY3IDcgOS41IDcuNjcgMTEgOC41IDExem0zLjUgNi41YzIuMzMgMCA0%0D%0ALjMxLTEuNDYgNS4xMS0zLjVINi44OWMuOCAyLjA0IDIuNzggMy41IDUuMTEgMy41eiIvPjwvc3Zn%0D%0APg==);
 }
@@ -211,7 +214,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="New Group DM"] .icon-2xnN2Y {
     background-image: url(https://elisniper.github.io/MBD/resources/newDM.png);
     background-repeat: no-repeat;
-    background-size: 28px;
+    background-size: 29px;
     background-position: center;
     filter: drop-shadow(2px 4px 6px black);
 }
@@ -254,4 +257,86 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Threads"] path {
     display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Add Friends to DM"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/AddtoDM.png);
+    background-repeat: no-repeat;
+    background-size: 36px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Add Friends to DM"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Start Video Call"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/Video.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Start Video Call"] path {
+    display: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Start Voice Call"] .icon-2xnN2Y {
+    background-image: url(https://elisniper.github.io/MBD/resources/Call.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Start Voice Call"] path {
+    display: none;
+}
+
+/* User controlls icons */
+.button-12Fmur[aria-label="Disconnect"] {
+    background-image: url(https://elisniper.github.io/MBD/resources/disconnect.png);
+    background-repeat: no-repeat;
+    background-size: 27px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.button-12Fmur[aria-label="Disconnect"] path {
+    display: none;
+}
+.button-12Fmur[aria-label="User Settings"] { 
+    background-image: url(https://elisniper.github.io/MBD/resources/gear.png);
+    background-repeat: no-repeat;
+    background-size: 32px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.button-12Fmur[aria-label="User Settings"] path {
+    display: none;
+}
+.button-12Fmur[aria-label="Deafen"] { 
+    background-image: url(https://elisniper.github.io/MBD/resources/headphone.png);
+    background-repeat: no-repeat;
+    background-size: 32px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.button-12Fmur[aria-label="Deafen"] path {
+    display: none;
+}
+.button-12Fmur[aria-label="Deafen"][aria-checked="true"] path {
+    display: flex;
+    d: path("M 21 4.27 L 19.73 3 L 3 19.73 L 4.27 21 L 8.46 16.82 L 9.69 15.58 L 11.35 13.92 L 14.99 10.28 L 21 4.27 Z");
+    color: var(--mbd-notification)
+}
+.button-12Fmur[aria-label="Mute"] { 
+    background-image: url(https://elisniper.github.io/MBD/resources/microphone.png);
+    background-repeat: no-repeat;
+    background-size: 32px;
+    background-position: center;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.button-12Fmur[aria-label="Mute"] path {
+    display: none;
+}
+.button-12Fmur[aria-label="Mute"][aria-checked="true"] path {
+    display: flex;
+    d: path("M 21 4.27 L 19.73 3 L 3 19.73 L 4.27 21 L 8.46 16.82 L 9.69 15.58 L 11.35 13.92 L 14.99 10.28 L 21 4.27 Z");
+    color: var(--mbd-notification)
 }
