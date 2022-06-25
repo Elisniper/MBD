@@ -3,12 +3,11 @@
     transform: rotate(0deg);
     transition: 100ms ease-in-out;
 }
-
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] {
     transform: rotate(45deg);
     transition: 100ms ease-in-out;
 }
-/* Menu Animation */
+/* Menus Animation */
 @keyframes menu-anim {
     from {
         transform:scaleY(0);
@@ -24,4 +23,30 @@
 .positionLayer-1cndvf .emojiPicker-6YCk8a {
     animation: menu-anim 240ms ease-in-out;
     transform-origin: top;
+}
+/*Context Menu START*/
+@keyframes context-new {
+    0% {
+        transform: scale(1, 0.8); 
+    } 
+}
+.menu-1QACrS, .scroller-1bVxF5 {
+    background: var(--mbd-black3);
+    border-radius: 2px;
+    padding: 0px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5) !important;
+    animation: opacity 50ms ease, context-new 240ms cubic-bezier(0, 0, 0, 1);
+    transform-origin: top;
+}
+.theme-dark .tooltipPrimary-3qLMbS, .theme-light .tooltipPrimary-3qLMbS {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb, .theme-light .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb {
+    border-top-color: var(--mbd-black1);
+}
+
+/* Server menu */
+.menu-1QACrS[aria-label="Server Actions"] .scroller-1bVxF5 {
+    transform-origin: top;
+    background: var(--mbd-black1);
 }
