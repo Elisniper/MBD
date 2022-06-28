@@ -46,7 +46,7 @@
 }
 
 /* Server menu */
-.menu-1QACrS[aria-label="Server Actions"] .scroller-1bVxF5 {
+#guild-header-popout .scroller-1bVxF5 {
     transform-origin: top;
-    background: var(--mbd-black1);
+    box-shadow: 0 2px 15px rgb(0 0 0) !important;
 }
