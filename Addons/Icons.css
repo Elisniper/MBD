@@ -179,7 +179,30 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     height: 34px;
     left: -3px;
 }
-
+.side-2ur1Qk .item-3XjbnG[aria-controls="moderation-tab"]::before {
+    background-image: url(https://elisniper.github.io/MBD/resources/Moderation.png);
+    width: 32px;
+    top: 15px;
+    height: 32px;
+    left: -3px;
+}
+.side-2ur1Qk .item-3XjbnG[aria-controls="bans-tab"]::before {
+    background-image: url(https://elisniper.github.io/MBD/resources/BannedMember.png);
+    width: 32px;
+    top: 15px;
+    height: 32px;
+    left: -3px;
+}
+.side-2ur1Qk .item-3XjbnG[aria-controls="delete-tab"]::before {
+    background-image: url(https://elisniper.github.io/MBD/resources/Bin.png);
+    width: 32px;
+    top: 15px;
+    height: 32px;
+    left: -3px;
+}
+.tabBarItemContainer-2HdIlr path {
+    display: none;
+}
 /* Top Bar Icons */
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"] path {
     display: none;
