@@ -368,7 +368,7 @@
 .theme-dark .separator-2lLxgC {
     box-shadow: var(--elevation-low);
 }
-.inviteBannerUpsell-1t_LYM {
+.inviteBannerUpsell-1t_LYM, .theme-dark .inviteBannerUpsell-1t_LYM {
     background-color: var(--mbd-black2);
 }
 .header-oub2Vc {
