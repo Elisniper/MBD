@@ -30,7 +30,7 @@
     background: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTEy%0D%0AIDEyYzIuMjEgMCA0LTEuNzkgNC00cy0xLjc5LTQtNC00LTQgMS43OS00IDQgMS43OSA0IDQgNHpt%0D%0AMCAyYy0yLjY3IDAtOCAxLjM0LTggNHYyaDE2di0yYzAtMi42Ni01LjMzLTQtOC00eiIvPiAgICA8%0D%0AcGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PC9zdmc+);
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="profile-customization-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/profile.png);
+    background-image: url(/MBD/resources/profile.png);
     width: 18px;
     height: 22px;
     left: 3px;
@@ -58,16 +58,16 @@
     left: 5px;
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="subscriptions-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/subscriptions.png);
+    background-image: url(/MBD/resources/subscriptions.png);
     width: 36px;
     height: 36px;
     left: -6px;
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="library-inventory-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/giftinventory.png);
-    width: 32px;
-    height: 32px;
-    left: -4px;
+    background-image: url(/MBD/resources/Gift.png);
+    width: 51px;
+    height: 51px;
+    left: -13px;
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="billing-tab"]::before {
     background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0%0D%0APSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTExLjggMTAu%0D%0AOWMtMi4yNy0uNTktMy0xLjItMy0yLjE1IDAtMS4wOSAxLjAxLTEuODUgMi43LTEuODUgMS43OCAw%0D%0AIDIuNDQuODUgMi41IDIuMWgyLjIxYy0uMDctMS43Mi0xLjEyLTMuMy0zLjIxLTMuODFWM2gtM3Yy%0D%0ALjE2Yy0xLjk0LjQyLTMuNSAxLjY4LTMuNSAzLjYxIDAgMi4zMSAxLjkxIDMuNDYgNC43IDQuMTMg%0D%0AMi41LjYgMyAxLjQ4IDMgMi40MSAwIC42OS0uNDkgMS43OS0yLjcgMS43OS0yLjA2IDAtMi44Ny0u%0D%0AOTItMi45OC0yLjFoLTIuMmMuMTIgMi4xOSAxLjc2IDMuNDIgMy42OCAzLjgzVjIxaDN2LTIuMTVj%0D%0AMS45NS0uMzcgMy41LTEuNSAzLjUtMy41NSAwLTIuODQtMi40My0zLjgxLTQuNy00LjR6Ii8+PHBh%0D%0AdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==);
@@ -77,7 +77,7 @@
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAGsGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDggNzkuMTY0MDM2LCAyMDE5LzA4LzEzLTAxOjA2OjU3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMCAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDIyLTA2LTE3VDIwOjIwOjQzKzEwOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMi0wNi0xN1QyMDoyNDowOCsxMDowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAyMi0wNi0xN1QyMDoyNDowOCsxMDowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpiYzZmNmVjZC1lZmY4LTFkNGItOTI3Zi1lMWY1OTgzMzY2YjUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODRjNmFhMDMtOTBiNy1kYTQzLWIyNWQtNGZhZDlkNTEwNWNkIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6ODRjNmFhMDMtOTBiNy1kYTQzLWIyNWQtNGZhZDlkNTEwNWNkIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDo4NGM2YWEwMy05MGI3LWRhNDMtYjI1ZC00ZmFkOWQ1MTA1Y2QiIHN0RXZ0OndoZW49IjIwMjItMDYtMTdUMjA6MjA6NDMrMTA6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMS4wIChXaW5kb3dzKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6YTgwMTA2Y2MtYWFlMC02ZDRjLWFjMzAtN2U4NDE4YWZiZGJlIiBzdEV2dDp3aGVuPSIyMDIyLTA2LTE3VDIwOjIzOjUwKzEwOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMCAoV2luZG93cykiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmJjNmY2ZWNkLWVmZjgtMWQ0Yi05MjdmLWUxZjU5ODMzNjZiNSIgc3RFdnQ6d2hlbj0iMjAyMi0wNi0xN1QyMDoyNDowOCsxMDowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIDIxLjAgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PhIThvQAAAZISURBVHic7d29jiRFFoDRW2gM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);
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="accessibility-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/accessibility.png);
+    background-image: url(/MBD/resources/accessibility.png);
     width: 48px;
     height: 48px;
     left: -11px;
@@ -104,7 +104,7 @@
     background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh%0D%0ARE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cu%0D%0AdzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4x%0D%0AIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4%0D%0AbGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRo%0D%0APSI2NHB4IiBoZWlnaHQ9IjY0cHgiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZW5hYmxlLWJhY2tncm91%0D%0AbmQ9Im5ldyAwIDAgNjQgNjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPiAgPGltYWdlIGlkPSJpbWFn%0D%0AZTAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgeD0iMCIgeT0iMCIKICAgIHhsaW5rOmhyZWY9ImRh%0D%0AdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBRUFBQUFCQUNBUUFB%0D%0AQUFBWUxsVkFBQUFCR2RCVFVFQUFMR1BDL3hoQlFBQUFDQmpTRkpOCkFBQjZKZ0FBZ0lRQUFQb0FB%0D%0AQUNBNkFBQWRUQUFBT3BnQUFBNm1BQUFGM0NjdWxFOEFBQUFBbUpMUjBRQS80ZVB6TDhBQUFBSmNF%0D%0AaFoKY3dBQUN4TUFBQXNUQVFDYW5CZ0FBQUFIZEVsTlJRZmpDeEFFSGk4RFZBOVlBQUFDa1VsRVFW%0D%0AUm8zdTJadjJzVVFSVEhQMlBpUlNQeApkNkhFV2hFRkt4RzAwbGlrOWc4SWlDaFlpRVFTSTBaRVVJ%0D%0ATmNUckdRbkdDamhXQmxZU201Q0tKZ2JhRUJMWUpsaUVURVF6MlZ0ZG5iCm5kbloyWnY5amJKdm01%0D%0AbDViK2I3blRkdjM5eStFdzdseXBxUzhTc0M5SWVNN1dVOFo5UnZYT2cyUlVnUVBtSXM5NDBMTTRF%0D%0AYXF3em0KRFArWjdkMm1IZ01uY29kWFJDZHdxa2g0L1FpMnNTTDFYbkxIUDYwTXBNa09RRGtDSFBX%0D%0AWmNHU1pjOGowZWVldXUrS1BCWS9ndE5MYgpsTEcvYS9xUVNtQS91ek9HN0NrcWdmTkZ3d2NKakpa%0D%0ATjRFZlpCUDZVVGFBRTZVODRiNENkQUFpK3NLcG8rdGlGQUFSdGxpMVdVaExGCm9xUEtZMk5LT2VU%0D%0AWjFBT2FZVS96VEp2MXNYY2lzaFYvbnRtSGErTXRGRS84Y08xb0x2M3R0cXplcWRLRHNDSlFFYWdJ%0D%0AVkFTU0VoQVIKSzNTVGMxK2VCUHc4UHhUUStMQ2JiUlpLZWgyLzVianJpYVdBWnBrUjl6cTJ1WXdU%0D%0ARS9oS3k2RDV5WUp4VmtjZktqWUl0NVJMWU43OQpNSk5ET1BFUnhKY0ZqbnJ0cmNWN29DWEJ3KzJp%0D%0AQ2N4elRPck5NbEVzZ1JZalV1OG1GMlZsL2dSYXl1NnZjMFZWUnhQb2tGWlU1MS9qCmF0QWcraTFZ%0D%0AenpwdFRQREwrOTNidFFxdjl3N3hSSUdmWmtZM1VrczBpK3dKZUtBZFVxSzVURlBxUGVkZ0tMekRJ%0D%0AQU5TZjRwNm1GbTAKQjJwaE5RM2xrbm5OWVd4a2trYTRJa2tpK2g0YmZweTdKbFdhVEdnTGY0NTda%0D%0AbVVTQXJWWThHZTVINlZPUXVBOThNb1MvZ3dQb2cxVQpBblpwYVpnbVI2d3NUL0t3cDQzeS9kNTJz%0D%0AcFF4bStLbG1nZEcyV2hJS3RNY01PNmh5UXR0VFBDSk4xWmVzaXl5UGpYdTgxYTY4cTN0ClpiVEJN%0D%0ATjdna3VVS0JrbDNHemFZVEFlZmprQTlQWHdhQW5XbTBzTmpIWVFmQXFFM205Vi9DTGFaY0k1OTNn%0D%0Ac3FXT0pHSnJzbi9HKzcKUXVXZi9Uei9md2o4QllLYjl1TFBXL3RHQUFBQUpYUkZXSFJrWVhSbE9t%0D%0ATnlaV0YwWlFBeU1ERTVMVEV4TFRFMlZEQTBPak13T2pRMwpLekF6T2pBd3VLT1h1d0FBQUNWMFJW%0D%0AaDBaR0YwWlRwdGIyUnBabmtBTWpBeE9TMHhNUzB4TmxRd05Eb3pNRG8wTnlzd016b3dNTW4rCkx3%0D%0AY0FBQUFBU1VWT1JLNUNZSUk9IiAvPgo8L3N2Zz4K);
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="advanced-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/advanced.png);
+    background-image: url(/MBD/resources/advanced.png);
     width: 42px;
     height: 42px;
     left: -7px;
@@ -148,8 +148,15 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .side-2ur1Qk .item-3XjbnG[aria-controls="emoji-tab"]::before {
     background: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTAg%0D%0AMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiAgICA8cGF0aCBkPSJNMTEuOTkgMkM2LjQ3IDIgMiA2%0D%0ALjQ4IDIgMTJzNC40NyAxMCA5Ljk5IDEwQzE3LjUyIDIyIDIyIDE3LjUyIDIyIDEyUzE3LjUyIDIg%0D%0AMTEuOTkgMnpNMTIgMjBjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0z%0D%0ALjU4IDgtOCA4em0zLjUtOWMuODMgMCAxLjUtLjY3IDEuNS0xLjVTMTYuMzMgOCAxNS41IDggMTQg%0D%0AOC42NyAxNCA5LjVzLjY3IDEuNSAxLjUgMS41em0tNyAwYy44MyAwIDEuNS0uNjcgMS41LTEuNVM5%0D%0ALjMzIDggOC41IDggNyA4LjY3IDcgOS41IDcuNjcgMTEgOC41IDExem0zLjUgNi41YzIuMzMgMCA0%0D%0ALjMxLTEuNDYgNS4xMS0zLjVINi44OWMuOCAyLjA0IDIuNzggMy41IDUuMTEgMy41eiIvPjwvc3Zn%0D%0APg==);
 }
+.side-2ur1Qk .item-3XjbnG[aria-controls="stickers-tab"]::before {
+    background-image: url(/MBD/resources/Sticker.png);
+    width: 31px;
+    top: 15px;
+    height: 31px;
+    left: -3px;
+}
 .side-2ur1Qk .item-3XjbnG[aria-controls="members-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/members.png);
+    background-image: url(/MBD/resources/members.png);
     width: 24px;
     height: 24px;
 }
@@ -173,28 +180,28 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     background: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTEy%0D%0AIDEyYzIuMjEgMCA0LTEuNzkgNC00cy0xLjc5LTQtNC00LTQgMS43OS00IDQgMS43OSA0IDQgNHpt%0D%0AMCAyYy0yLjY3IDAtOCAxLjM0LTggNHYyaDE2di0yYzAtMi42Ni01LjMzLTQtOC00eiIvPiAgICA8%0D%0AcGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PC9zdmc+);
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="instant_invites-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/inbox.png);
+    background-image: url(/MBD/resources/inbox.png);
     width: 34px;
     top: 15px;
     height: 34px;
     left: -3px;
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="moderation-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/Moderation.png);
+    background-image: url(/MBD/resources/Moderation.png);
     width: 32px;
     top: 15px;
     height: 32px;
     left: -3px;
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="bans-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/BannedMember.png);
+    background-image: url(/MBD/resources/BannedMember.png);
     width: 32px;
     top: 15px;
     height: 32px;
     left: -3px;
 }
 .side-2ur1Qk .item-3XjbnG[aria-controls="delete-tab"]::before {
-    background-image: url(https://elisniper.github.io/MBD/resources/Bin.png);
+    background-image: url(/MBD/resources/Bin.png);
     width: 32px;
     top: 15px;
     height: 32px;
@@ -215,7 +222,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     filter: drop-shadow(2px 4px 6px black);
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Inbox"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/inbox.png);
+    background-image: url(/MBD/resources/inbox.png);
     background-repeat: no-repeat;
     background-size: 40px;
     background-position: center;
@@ -225,7 +232,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Help"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/help.png);
+    background-image: url(/MBD/resources/help.png);
     background-repeat: no-repeat;
     background-size: 31px;
     background-position: center;
@@ -235,7 +242,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="New Group DM"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/newDM.png);
+    background-image: url(/MBD/resources/newDM.png);
     background-repeat: no-repeat;
     background-size: 29px;
     background-position: center;
@@ -245,7 +252,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Hide Member List"] .icon-2xnN2Y, .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Show Member List"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/members.png);
+    background-image: url(/MBD/resources/members.png);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
@@ -255,14 +262,14 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Notification Settings"] .icon-2xnN2Y[fill="none"] {
-    background-image: url(https://elisniper.github.io/MBD/resources/bell.png);
+    background-image: url(/MBD/resources/bell.png);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
     filter: drop-shadow(2px 4px 6px black);
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Notification Settings"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/mutebell.png);
+    background-image: url(/MBD/resources/mutebell.png);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
@@ -272,7 +279,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Threads"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/threads.png);
+    background-image: url(/MBD/resources/threads.png);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
@@ -282,7 +289,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Add Friends to DM"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/AddtoDM.png);
+    background-image: url(/MBD/resources/AddtoDM.png);
     background-repeat: no-repeat;
     background-size: 36px;
     background-position: center;
@@ -292,7 +299,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Start Video Call"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/Video.png);
+    background-image: url(/MBD/resources/Video.png);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
@@ -302,7 +309,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Start Voice Call"] .icon-2xnN2Y {
-    background-image: url(https://elisniper.github.io/MBD/resources/Call.png);
+    background-image: url(/MBD/resources/Call.png);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
@@ -314,7 +321,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 
 /* User controlls icons */
 .button-12Fmur[aria-label="Disconnect"] {
-    background-image: url(https://elisniper.github.io/MBD/resources/disconnect.png);
+    background-image: url(/MBD/resources/disconnect.png);
     background-repeat: no-repeat;
     background-size: 27px;
     background-position: center;
@@ -324,7 +331,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .button-12Fmur[aria-label="User Settings"] { 
-    background-image: url(https://elisniper.github.io/MBD/resources/gear.png);
+    background-image: url(/MBD/resources/gear.png);
     background-repeat: no-repeat;
     background-size: 32px;
     background-position: center;
@@ -334,7 +341,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 .button-12Fmur[aria-label="Deafen"] { 
-    background-image: url(https://elisniper.github.io/MBD/resources/headphone.png);
+    background-image: url(/MBD/resources/headphone.png);
     background-repeat: no-repeat;
     background-size: 32px;
     background-position: center;
@@ -349,7 +356,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     color: var(--mbd-notification)
 }
 .button-12Fmur[aria-label="Mute"] { 
-    background-image: url(https://elisniper.github.io/MBD/resources/microphone.png);
+    background-image: url(/MBD/resources/microphone.png);
     background-repeat: no-repeat;
     background-size: 32px;
     background-position: center;
@@ -362,4 +369,64 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: flex;
     d: path("M 21 4.27 L 19.73 3 L 3 19.73 L 4.27 21 L 8.46 16.82 L 9.69 15.58 L 11.35 13.92 L 14.99 10.28 L 21 4.27 Z");
     color: var(--mbd-notification)
+}
+/* Textbar Icons */
+.button-3BaQ4X {
+    padding: 4px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.webkit-QgSAqd .buttons-uaqb-5 {
+    margin-right: -4px;
+}
+/*emote_icon*/
+.sprite-2lxwfc {
+    background: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTAg%0D%0AMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiAgICA8cGF0aCBkPSJNMTEuOTkgMkM2LjQ3IDIgMiA2%0D%0ALjQ4IDIgMTJzNC40NyAxMCA5Ljk5IDEwQzE3LjUyIDIyIDIyIDE3LjUyIDIyIDEyUzE3LjUyIDIg%0D%0AMTEuOTkgMnpNMTIgMjBjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0z%0D%0ALjU4IDgtOCA4em0zLjUtOWMuODMgMCAxLjUtLjY3IDEuNS0xLjVTMTYuMzMgOCAxNS41IDggMTQg%0D%0AOC42NyAxNCA5LjVzLjY3IDEuNSAxLjUgMS41em0tNyAwYy44MyAwIDEuNS0uNjcgMS41LTEuNVM5%0D%0ALjMzIDggOC41IDggNyA4LjY3IDcgOS41IDcuNjcgMTEgOC41IDExem0zLjUgNi41YzIuMzMgMCA0%0D%0ALjMxLTEuNDYgNS4xMS0zLjVINi44OWMuOCAyLjA0IDIuNzggMy41IDUuMTEgMy41eiIvPjwvc3Zn%0D%0APg==);
+    background-position: 50% !important;
+    background-size: 100% !important;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    display: block;
+}
+.stickerIcon-3Jx5SE path {
+    display: none;
+}
+.stickerIcon-3Jx5SE {
+    width: 24px!important;
+    height: 24px!important;
+}
+.stickerIcon-3Jx5SE {
+    background: url(/MBD/resources/Sticker.png);
+    background-size: 140%;
+    background-position: 50% !important;
+    background-repeat: no-repeat;
+    top: 1px;
+    position: relative;
+}
+.icon-1d5zch path {
+    display: none;
+}
+.icon-1d5zch {
+    background: url(/MBD/resources/GIF.png);
+    background-size: 140%;
+    background-position: 50% !important;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    position: relative;
+}
+.button-f2h6uQ[aria-label="Send a gift"] path {
+    display: none;
+}
+.button-f2h6uQ[aria-label="Send a gift"] svg {
+    background: url(/MBD/resources/Gift.png);
+    background-size: 250%;
+    background-position: 50% !important;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    position: relative;
 }
