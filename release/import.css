@@ -280,6 +280,9 @@
     color: #fff;
     background-color: var(--mbd-black4);
 }
+.messagesPopoutWrap-3zryHW {
+    border-radius: 4px 4px 0 0;
+}
 /* Top bar END */
 
 /* Friends MAIN START */
@@ -790,6 +793,7 @@
 }
 .theme-dark .root-g14mjS, .spinner-3QeLKO {
     background-color: var(--mbd-black3);
+    border-radius: 4px 4px 0 0;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
     background-color: var(--mbd-black1);
@@ -1039,6 +1043,7 @@
 }
 .container-2ebMPP {
     background-color: var(--mbd-black1);
+    border-radius: 4px 4px 0 0;
 }
 .root-cw9rWQ {
     background: var(--mbd-black1);
