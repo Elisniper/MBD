@@ -464,6 +464,9 @@
 .lookFilled-yCfaCM.colorGreen-3y-Z79:active, .lookInverted-2mDUMi.colorBrand-I6CyqQ:active {
     transform: translateY(1px);
 }
+.modalHeader-gQTY3L {
+    background-image: linear-gradient(var(--mbd-black3),var(--mbd-black3));
+}
 /*Nitro Main END*/
 
 /* DM/Group calls START*/
