@@ -50,7 +50,7 @@
     background-color: rgba(225, 225, 225, 0.1) !important;
     display: initial;
 }
-.auto-2K3UW5::-webkit-scrollbar-track {
+.auto-2K3UW5::-webkit-scrollbar-track, .scroller-2qwVWY::-webkit-scrollbar-track {
     background-color: transparent;
 }
 /* Scroll bars END */
@@ -1469,6 +1469,19 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT {
 }
 .addMemberRow-KVhQFf.selectedRow-1SAgVL {
     background-color: var(--mbd-black1);
+}
+textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dyz.scrollbar-3vVt8d {
+    background: var(--mbd-black1);
+}
+.cardHeader-3d6H8N {
+    background-color: var(--mbd-black3);
+    border-radius: 4px 4px 0 0;
+}
+.item-14XeNr {
+    background-color: var(--mbd-black2);
+}
+.group-1-kPpw {
+    border: 1px solid var(--mbd-black1);
 }
 /* Server Settings END */
 
