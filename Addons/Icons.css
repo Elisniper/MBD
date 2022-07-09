@@ -439,6 +439,12 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 .icon-2xnN2Y path {
     fill: none;
 }
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Close"] .icon-2xnN2Y {
+    background-image: none;
+}
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Close"] path {
+    fill: currentColor;
+}
 /* User controlls icons */
 .button-12Fmur[aria-label="Noise Suppression powered by Krisp"], .button-12Fmur {
     color: #fff !important;
