@@ -209,6 +209,9 @@
     margin-left: 0;
     margin-right: 0;
 }
+.accountBtn-3pgcgr .accountBtnInner-3ttD-i {
+    background-color: var(--mbd-black2);
+}
 /* User Settings Menu END */
 
 /* Top bar START */
@@ -1090,6 +1093,9 @@
 .modal-ZdazA8.root-g14mjS.fullscreenOnMobile-ixj0e3 {
     background-color: var(--mbd-black1) !important;
     border-radius: 8px 8px 0 0;
+}
+.chatHeaderBar-2fUORh {
+    background-color: var(--mbd-black3);
 }
 /* Server Tabs MAIN END */
 
