@@ -1087,6 +1087,10 @@
 .container-2rzKKA:hover {
     border-color: var(--mbd-black1);
 }
+.modal-ZdazA8.root-g14mjS.fullscreenOnMobile-ixj0e3 {
+    background-color: var(--mbd-black1) !important;
+    border-radius: 8px 8px 0 0;
+}
 /* Server Tabs MAIN END */
 
 /* Server Search Tab START*/
