@@ -622,6 +622,10 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.carouselModal-1eUFoq.zoomedCarouselModalRoot-1tAxiu.root-g14mjS.fullscreenOnMobile-ixj0e3 {
+    background-color: transparent;
+    box-shadow: 0 0 0 1px transparent;
+}
 .theme-dark .invite-3uuHYQ {
     background: var(--mbd-black2);
     border-color: rgba(47,49,54,.9);
