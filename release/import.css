@@ -622,6 +622,9 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.connectedAccountContainer-SlCC-S {
+    background-color: var(--mbd-black2);
+}
 .carouselModal-1eUFoq.zoomedCarouselModalRoot-1tAxiu.root-g14mjS.fullscreenOnMobile-ixj0e3 {
     background-color: transparent;
     box-shadow: 0 0 0 1px transparent;
