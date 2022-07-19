@@ -212,6 +212,13 @@
 .accountBtn-3pgcgr .accountBtnInner-3ttD-i {
     background-color: var(--mbd-black2);
 }
+.promotionCard-mo7ClH {
+    background-color: var(--mbd-black1);
+}
+.guildSubscriptionSlots-1i_C21 {
+    padding: 16px;
+    background-color: var(--mbd-black1);
+}
 /* User Settings Menu END */
 
 /* Top bar START */
@@ -254,10 +261,10 @@
 .resultsGroup-cfY57t:before {
     border-top: 1px solid var(--mbd-black1);
 }
-.theme-dark .dim-2Uxgxb span {
+.theme-dark .dim-2Uxgxb span, .theme-dark .dim-2Uxgxb .key-N5VmHN {
     background-color: var(--mbd-black1);
 }
-.theme-dark .keybindShortcut-3zF1P9 span {
+.theme-dark .keybindShortcut-3zF1P9 span, .theme-dark .dim-2Uxgxb .key-N5VmHN {
     box-shadow: inset 0 -4px 0 rgb(30 30 30);
 }
 .keybindShortcut-3zF1P9 span {
@@ -478,6 +485,9 @@
 }
 .detailsBlock-24pLFz {
     background-color: var(--mbd-black3);
+}
+.banner-oA34U0 {
+    max-width: inherit;
 }
 /*Nitro Main END*/
 
@@ -1112,6 +1122,11 @@
 }
 .chatHeaderBar-2fUORh {
     background-color: var(--mbd-black3);
+}
+.jump-1vIlrw {
+    background-color: var(--mbd-black2);
+    right: 8px;
+    top: 3px;
 }
 /* Server Tabs MAIN END */
 

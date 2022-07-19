@@ -10,10 +10,10 @@
 .cozy-VmLDNB.wrapper-30-Nkg:after {
     content: '';
     position: absolute;
-    width: 0;
+    width: 0 !important;
     height: 0;
-    top: 0px;
-    left: -6px;
+    top: 0px !important;
+    left: -6px !important;
     margin: -6px 0 0 0;
     border: 6px solid transparent;
     border-color: transparent;
