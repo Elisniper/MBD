@@ -299,6 +299,30 @@
 /* Top bar END */
 
 /* Friends MAIN START */
+/* Friends and nitro buttons start */
+.container-32HW5s[aria-posinset="1"], .container-32HW5s[aria-posinset="2"] {
+    display: inline-block;
+    width: 108px;
+}
+.container-32HW5s[aria-posinset="1"] .content-66wMin {
+    position: absolute;
+    top: 31px;
+    left: 29px;
+}
+.container-32HW5s[aria-posinset="1"] .interactive-iyXY_x, .container-32HW5s[aria-posinset="2"] .interactive-iyXY_x {
+    padding-bottom: 12px;
+}
+.container-32HW5s[aria-posinset="1"] .avatar-1HDIsL, .container-32HW5s[aria-posinset="2"] .avatar-1HDIsL {
+    left: 27px;
+    top: -5px;
+    position: relative;
+}
+.container-32HW5s[aria-posinset="2"] .content-66wMin {
+    position: absolute;
+    top: 31px;
+    left: 36px;
+}
+/* Friends and nitro buttons end */
 .peopleColumn-1wMU14, .searchBar-2aylmZ {
     background-color: var(--mbd-black2);
 }
