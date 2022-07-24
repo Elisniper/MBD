@@ -38,13 +38,6 @@
     animation: opacity 50ms ease, context-new 240ms cubic-bezier(0, 0, 0, 1);
     transform-origin: top;
 }
-.theme-dark .tooltipPrimary-3qLMbS, .theme-light .tooltipPrimary-3qLMbS {
-    background-color: var(--mbd-black1);
-}
-.theme-dark .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb, .theme-light .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb {
-    border-top-color: var(--mbd-black1);
-}
-
 /* Server menu */
 #guild-header-popout .scroller-1bVxF5 {
     transform-origin: top;
