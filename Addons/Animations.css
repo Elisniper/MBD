@@ -37,8 +37,8 @@
 .menu-1QACrS, .scroller-1bVxF5 {
     background: var(--mbd-black3);
     border-radius: 2px;
-    padding: 0px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5) !important;
+    padding: 0px 2px;
+    box-shadow: 0 2px 10px rgb(20 20 20 / 50%) !important;
 }
 /* Server menu */
 #guild-header-popout .scroller-1bVxF5 {
