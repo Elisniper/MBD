@@ -60,6 +60,7 @@
     left: 0;
     bottom: -64px;
     transform: none;
+    transition: 180ms ease;
     z-index: 10;
 }
 .menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-online"] .status-2DiCMd {
