@@ -353,7 +353,7 @@
 .wrapper-2RrXDg {
     background-color: var(--mbd-black1);
     border: none;
-    transition: 100ms ease;
+    transition: 200ms ease-in-out;
 }
 .theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover {
     background-color: var(--mbd-black3);
@@ -379,7 +379,7 @@
 }
 .interactiveSelected-29CP8y, .interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover, .interactive-1vLZ_I:active {
     background-color: var(--mbd-black1);
-    transition: 100ms ease;
+    transition: 150ms ease-out;
 }
 .addFriendInputWrapper-kkoSV9:focus-within {
     border-color: var(--mbd-accent);
@@ -1015,7 +1015,7 @@
     color: #fff;
 }
 .wrapper-1HIH0j {
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black2);
 }
 .theme-dark .wrapper-1ZcZW- {
     background: var(--mbd-accent);
@@ -1066,6 +1066,20 @@
 .reaction-3vwAF2.reactionMe-1PwQAc {
     background-color: var(--mbd-accent);
     border-color: var(--mbd-accent);
+}
+/* Sticker popout */
+.containerBackground-Ang24O {
+    background-color: var(--mbd-black1);
+    border: 1px solid var(--mbd-black1);
+}
+.containerBackground-Ang24O:after {
+    border-top: 7px solid var(--mbd-black1);
+}
+.stickerInspected-mwnU6w .inspectedIndicator-27zwNZ {
+    background-color: var(--mbd-black2);
+}
+.maskBackground-F7QD-A {
+    background-color: var(--mbd-black2);
 }
 /* Threads & Events */
 .container-3XgAHv {
