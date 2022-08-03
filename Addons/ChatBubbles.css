@@ -104,4 +104,13 @@
 .recentMentionsPopout-2bI1ZN .cozy-VmLDNB.wrapper-30-Nkg .avatar-2e8lTP, .messagesPopoutWrap-3zryHW .cozy-VmLDNB.wrapper-30-Nkg .avatar-2e8lTP {
     left: 6px;
 }
+.theme-dark .scroller-2GkvCq {
+    background: var(--mbd-black2);
+}
+.theme-dark .container-KM8BU6, .theme-dark .reactors-1VXca7 {
+    background-color: var(--mbd-black1);
+}
+.button-3bklZh.dangerous-Y36ifs {
+    color: var(--mbd-notification);
+}
 /*Chat bubbles END */
