@@ -108,7 +108,7 @@ background-color: #FAA61A !important;
     color: #FFF !important;
     opacity: 0.6;
 }
-.statusItem-2hiCNB[aria-label="Switch Accounts"]:hover {
+.colorDefault-CDqZdO.focused-3qFvc8 .statusItem-2hiCNB[aria-label="Switch Accounts"] {
     opacity: 1;
     transition: 200ms ease;
 }
