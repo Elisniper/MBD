@@ -1067,6 +1067,12 @@
     background-color: var(--mbd-accent);
     border-color: var(--mbd-accent);
 }
+.popout-TdhJ6Z {
+    background-color: var(--mbd-black3);
+}
+.row-1qtctT:hover {
+    background-color: var(--mbd-accent);
+}
 /* Sticker popout */
 .containerBackground-Ang24O {
     background-color: var(--mbd-black1);
