@@ -374,6 +374,13 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     background-size: 24px;
     background-position: center;
 }
+.modeMuted-2T4MDZ .icon-2W8DHg, .modeMuted-2T4MDZ .name-28HaxV, 
+.modeMuted-2T4MDZ .iconContainer-21RCa3[aria-label="Text"] .icon-2W8DHg, 
+.modeMuted-2T4MDZ .iconContainer-21RCa3[aria-label="Text (Limited)"] .icon-2W8DHg, 
+.modeMuted-2T4MDZ .iconContainer-21RCa3[aria-label="Text (Active Threads)"] .icon-2W8DHg {
+    opacity: 0.6;
+    color: var(--channels-default);
+}
 .iconContainer-21RCa3[aria-label="Text"] path {
     fill: none;
 }
