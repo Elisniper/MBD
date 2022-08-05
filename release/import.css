@@ -231,6 +231,13 @@
     padding: 16px;
     background-color: var(--mbd-black1);
 }
+.profileBannerPreview-3mLIdO {
+    background-color: var(--mbd-black1);
+}
+.avatarUploaderInner-p38nm2 {
+    border: 6px solid var(--mbd-black1);
+    background-color: var(--mbd-black1);
+}
 /* User Settings Menu END */
 
 /* Top bar START */
@@ -671,6 +678,9 @@
     height: 67px;
 }
 .badge-370Op6 {
+    background-color: var(--mbd-black1);
+}
+.withTagAsButton-OsgQ9L:hover, .withTagless-10ooWt:hover {
     background-color: var(--mbd-black1);
 }
 /* User Controlls END */
