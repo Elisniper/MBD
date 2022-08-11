@@ -49,3 +49,9 @@
 .separator-1So4YB {
     display: none;
 }
+.menu-2-eHMB[aria-label="Set Status"] .bodyInnerWrapper-2bQs1k {
+    background-color: transparent;
+}
+.menu-2-eHMB[aria-label="Set Status"] .profileGroup-1yKk23 {
+    background-color: var(--mbd-black4);
+}
