@@ -247,6 +247,12 @@
 /* User Settings Menu END */
 
 /* Top bar START */
+.notice-2HEN-u {
+    position: absolute;
+    top: 48px;
+    right: 0px;
+    width: 995px;
+}
 .container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
     background: var(--mbd-accent);
 }
@@ -693,6 +699,9 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.users-2JoyGL {
+    background-color: var(--mbd-black1);
+}
 .connectedAccountContainer-SlCC-S {
     background-color: var(--mbd-black2);
 }
