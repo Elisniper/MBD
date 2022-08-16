@@ -394,6 +394,7 @@
     color: #fff;
 }
 .interactiveSelected-29CP8y{
+    color: var(--interactive-active) !important;
     transition: 100ms ease;
 }
 .interactiveSelected-29CP8y, .interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover, .interactive-1vLZ_I:active {
@@ -893,6 +894,10 @@
 .theme-dark .root-g14mjS, .spinner-3QeLKO {
     background-color: var(--mbd-black3);
     border-radius: 4px 4px 0 0;
+}
+.focusLock-2tveLW .zoomedCarouselModalRoot-beLNhM {
+    background-color: transparent;
+    box-shadow: none;
 }
 .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
     background-color: var(--mbd-black1);
