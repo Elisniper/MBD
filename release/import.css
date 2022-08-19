@@ -251,7 +251,26 @@
     position: absolute;
     top: 48px;
     right: 0px;
-    width: 995px;
+    width: -webkit-fill-available;
+}
+.notice-2olXi7 {
+    background-color: var(--mbd-notification);
+}
+.button-YGmtzG:hover {
+    background-color: #fff;
+    color: black;
+    border-color: #fff;
+}
+.lookOutlined-3yKVGo.colorWhite-1H92hK:active {
+    background-color: #d0d0d0;
+    color: black;
+    border-color: #d0d0d0;
+}
+.container-3ssFyj {
+    background-color: var(--mbd-black3);
+}
+.selected-22ukbQ {
+    background-color: var(--mbd-black1);
 }
 .container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
     background: var(--mbd-accent);
