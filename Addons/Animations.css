@@ -45,7 +45,3 @@
     transform-origin: top;
     box-shadow: 0 2px 15px rgb(0 0 0) !important;
 }
-/* Top bar options */
-.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
-    transition: 100ms ease-out;
-}
