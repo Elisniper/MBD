@@ -1757,6 +1757,9 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     position: relative;
     top: calc(12% - 0px);
 }
+.loadingPopout-1feYe_ {
+    background-color: transparent;
+}
 /* loading circle END*/
 
 /* Add server & Discover START */
