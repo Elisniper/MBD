@@ -248,17 +248,27 @@
 .contentCircle-15IFyT {
     background-color: var(--mbd-accent);
 }
+.textBadge-1fdDPJ[style="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%);"] {
+    background-color: var(--mbd-accent) !important;
+}
 /* User Settings Menu END */
 
 /* Top bar START */
 .notice-2HEN-u {
-    position: absolute;
-    top: 48px;
-    right: 0px;
-    width: -webkit-fill-available;
+    height: 48px;
+    box-shadow: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .notice-2olXi7 {
     background-color: var(--mbd-notification);
+}
+.button-1iHNQ2 {
+    top: 0;
+}
+.closeButton-30b1gR {
+    top: 5px;
 }
 .button-YGmtzG:hover {
     background-color: #fff;
@@ -437,6 +447,16 @@
     left: 36px;
 }
 /* Friends and nitro buttons end */
+.container-3tKtM_ {
+    border: 1px solid var(--mbd-black1);
+    background-color: var(--mbd-black1);
+    transition: 200ms ease;
+}
+.container-3tKtM_:hover, .container-3tKtM_:active {
+    background-color: var(--mbd-black3);
+    border-color: var(--mbd-black3);
+    transition: 100ms ease-out;
+}
 .peopleColumn-1wMU14, .searchBar-2aylmZ {
     background-color: var(--mbd-black2);
 }
@@ -1188,6 +1208,13 @@
 }
 .row-1qtctT:hover {
     background-color: var(--mbd-accent);
+}
+.optionContainer-yOpaLq {
+    background: var(--mbd-black1);
+}
+.optionContainer-yOpaLq:hover {
+    background: var(--mbd-black2);
+    cursor: pointer;
 }
 /* Sticker popout */
 .containerBackground-Ang24O {
