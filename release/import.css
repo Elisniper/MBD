@@ -434,6 +434,7 @@
     left: 29px;
 }
 .container-32HW5s[aria-posinset="1"] .interactive-iyXY_x, .container-32HW5s[aria-posinset="2"] .interactive-iyXY_x {
+    transition: 150ms ease;
     padding-bottom: 12px;
 }
 .container-32HW5s[aria-posinset="1"] .avatar-1HDIsL, .container-32HW5s[aria-posinset="2"] .avatar-1HDIsL {
@@ -1337,6 +1338,23 @@
     right: 8px;
     top: 3px;
 }
+/* Server user list popout */
+.userPopoutInner-PA9zkU {
+    background: var(--mbd-black1) !important;
+}
+.overlayBackground-arbZMT {
+    background-color: var(--mbd-black2);
+}
+.profileBadges-31rDHI {
+    background-color: var(--mbd-black2);
+}
+.avatar-2OC07D {
+    border: 6px solid transparent;
+    background-color: transparent;
+}
+.buttonColor-XIRMbp {
+    background-color: var(--mbd-accent);
+}
 /* Server Tabs MAIN END */
 
 /* Server Search Tab START*/
@@ -1646,7 +1664,7 @@
     background-color: var(--mbd-black1);
 }
 .role-2TIOKu {
-    background: var(--mbd-black2);
+    background: var(--mbd-black1);
 }
 .colorDefault-CDqZdO .checkbox-hADx5o, .colorDefault-CDqZdO .radioSelection-1UHp0b {
     color: #006cff;
