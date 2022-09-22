@@ -1979,34 +1979,43 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 /* Discord forum channels END */
 
-/* Memver Since Start */
-.connectedAccounts-fvr7-7 .discordMemberCreatedAtText-18ZCAV {
-    display: flex;
-    flex-direction: row;
+/* Member Since Start */
+.connectedAccountContainer-3aLMHJ {
+    margin-top: 20px;
+    padding: 8px;
+    width: 252px;
+    background-color: var(--mbd-black2);
+    border-radius: 4px;
     height: 24px;
+}
+.discordMemberCreatedAtText-15sN5q .text-sm-normal-3Zj3Iv {
+    display: none;
+}
+.discordMemberCreatedAtText-15sN5q:before {
+    content: "Member since:";
     position: relative;
-}
-.discordMemberCreatedAt-3htTfn {
-    height: 24px;
-}
-.discordMemberCreatedAtIconContainer-2NS-8S {
-    background-color: transparent;
-    padding: 0;
-}
-.discordMemberCreatedAt-3htTfn .text-sm-normal-3Zj3Iv {
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 25px;
-}
-.discordMemberCreatedAt-3htTfn .heading-lg-medium-3gUJeM {
-    font-size: 14px;
-    position: relative;
-    left: 10px;
-    top: 1px;
-    font-weight: 600;
     font-family: var(--font-primary);
+    font-size: 14px;
+    line-height: 18px;
+    top: 3px;
+    font-weight: 600;
+    color: var(--header-primary);
 }
-/* Memver Since End */
+.discordMemberCreatedAtText-15sN5q .heading-lg-medium-3gUJeM.defaultColor-HXu-5n {
+    font-size: 14px;
+    position: relative;
+    top: -18px;
+    left: 108%;
+    font-weight: 600;
+}
+.discordMemberCreatedAtIconContainer-2oMHqL {
+    padding: 5px;
+}
+.connectedAccountContainer-3aLMHJ .iconSizeMedium-2vzSua {
+    width: 34px;
+    height: 34px;
+}
+/* Member Since End */
 
 /*BD Settings START*/
 .monaco-editor .margin {
