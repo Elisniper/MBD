@@ -127,6 +127,9 @@
 .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i {
     border-color: var(--mbd-black1);
 }
+.preview-3k9WhO .avatar-2e8lTP {
+    left: -55px;
+}
 .upsellContainer-3qKRln {
     background-color: var(--mbd-black1);
 }
@@ -177,6 +180,27 @@
 .theme-dark .codeRedemptionRedirect-2hYMSQ {
     background-color: var(--mbd-black1);
     border-color: var(--mbd-black1);
+}
+.theme-dark .paymentPane-ut5qKZ {
+    background-color: var(--mbd-black3);
+}
+.theme-dark .payment-2bOh4k {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .hoverablePayment-lE1s4t:hover, .theme-dark .expandedInfo-1W31i3 {
+    background-color: var(--mbd-black2);
+}
+.theme-dark .defaultIndicator-2ndWks {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .premiumIndicator-22GgcZ {
+    background-color: var(--mbd-accent);
+}
+.addressSection-3-7v_3 .children-1xdcWE .inputWrapper-1YNMmM .inputDefault-3FGxgL, .addressSection-3-7v_3 .lookFilled-1GseHa.select-1Ia3hD {
+    background-color: var(--mbd-black2);
+}
+.theme-dark .paginator-1eqD2g {
+    background: var(--mbd-black1);
 }
 .cardInput-33x7OF {
     background-color: var(--mbd-black1);
@@ -1945,7 +1969,13 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     background-color: var(--mbd-black1);
 }
 .header-1Uy0p6:hover:not(.headerBorder-jrk0Ic) {
-    border: 1px solid var(--mbd-black1);
+    border: none;
+}
+.matchingPostsRow-2IiEQ1 {
+    background-color: var(--mbd-black1);
+}
+.guidelinesButton-3Vrz0u { 
+    background-color: var(--mbd-black2);
 }
 .headerBorder-jrk0Ic {
     box-shadow: 0 0 0 2px var(--mbd-black1);
