@@ -45,3 +45,14 @@
     transform-origin: top;
     box-shadow: 0 2px 15px rgb(0 0 0) !important;
 }
+/*Add friend Animation */
+@keyframes add-friend {
+    from {
+        transform: translate(0, -230px); 
+    } 
+}
+.header-30YxSJ {
+    border-bottom: 0;
+    background-color: var(--mbd-black3);
+    animation: 150ms ease, add-friend 250ms cubic-bezier(0,0,0,1);
+}
