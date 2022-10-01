@@ -58,8 +58,8 @@
     background-size: 100% !important;
     background-repeat: no-repeat;
 }
-.submenu-1apzyU .scroller-1bVxF5 {
-    background: var(--mbd-black3);
+.submenu-1apzyU, .submenu-1apzyU .scroller-1bVxF5 {
+    background: var(--mbd-black3) !important;
 }
 .menu-1QACrS[aria-label="Set Status"] .scroller-1bVxF5, .menu-1QACrS[aria-label="Set Status"] {
     background: var(--mbd-black2);
