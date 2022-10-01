@@ -1218,7 +1218,7 @@
     top: 3px;
 }
 /* Server user list popout */
-.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .userProfileInnerNonPremium-1XjSjn {
+.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .userProfileInnerNonPremium-1XjSjn, .userProfileInnerPremiumWithoutBanner-37uB4Q {
     background: var(--mbd-black1);
 }
 .userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
