@@ -1218,10 +1218,10 @@
     top: 3px;
 }
 /* Server user list popout */
-.userPopoutInner-PA9zkU {
-    background: var(--mbd-black1) !important;
+.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .userProfileInnerNonPremium-1XjSjn {
+    background: var(--mbd-black1);
 }
-.overlayBackground-arbZMT {
+.userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
     background-color: var(--mbd-black2);
 }
 .profileBadges-31rDHI {
