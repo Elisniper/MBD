@@ -35,15 +35,15 @@
     transform-origin: top;
 }
 .menu-1QACrS, .scroller-1bVxF5 {
-    background: var(--mbd-black3);
+    background: rgb(40 40 40);
     border-radius: 2px;
     padding: 0px 2px;
-    box-shadow: 0 2px 10px rgb(20 20 20 / 50%) !important;
+    box-shadow: 0 2px 8px rgb(38 38 38 / 50%) !important;
 }
 /* Server menu */
 #guild-header-popout .scroller-1bVxF5 {
     transform-origin: top;
-    box-shadow: 0 2px 15px rgb(0 0 0) !important;
+    box-shadow: 0 2px 8px rgb(38 38 38 / 50%) !important;
 }
 /*Add friend Animation */
 @keyframes add-friend {
