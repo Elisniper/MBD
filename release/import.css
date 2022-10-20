@@ -219,6 +219,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
+    width: 98.5%;
 }
 .notice-2olXi7 {
     background-color: var(--mbd-notification);
@@ -535,9 +537,21 @@
 .banner-oA34U0 {
     max-width: inherit;
 }
+.subscription-1wJwQk {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .tierPill-l7DvKo {
+    background-color: var(--mbd-black2);
+}
+.guildHeader-1EPPBS {
+    background-color: var(--mbd-black3);
+}
 /*Nitro Main END*/
 
 /* DM/Group calls START*/
+.root-1e2tfc {
+    background: var(--mbd-black4);
+}
 .colorable-3rVGna.primaryDark-2UJt1G, .buttonColor-28DXIe {
     background: var(--mbd-black1);
 }
@@ -690,6 +704,12 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.communityInfoPill-2Mll66 {
+    background: var(--mbd-black1);
+}
+.communityInfoVisible-3zc5_s .communityInfoContainer-1dMVpU {
+    top: 50px;
+}
 .users-2JoyGL {
     background-color: var(--mbd-black1);
 }
@@ -1645,6 +1665,45 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .group-1-kPpw {
     border: 1px solid var(--mbd-black1);
+}
+/* Server App Directory */
+.theme-dark .directoryModal-YJsOMv {
+    background-color: var(--mbd-black1);
+}
+.search-2RHhW6, .theme-dark .searchBox-pyIJJj {
+    background-color: var(--mbd-black2);
+}
+.category-2OvQ93 {
+    background-color: var(--mbd-black2);
+    transition: 80ms ease-out;
+}
+.category-2OvQ93:hover {
+    background-color: var(--mbd-black3);
+    transition: 100ms ease-in-out;
+}
+.card-2xymMp {
+    background-color: var(--mbd-black2);
+}
+.container-2NdZr9 {
+    background-color: var(--mbd-black2);
+    transition: 80ms ease-in-out;
+}
+.clickable-O5xo4T.container-2NdZr9:hover {
+    background-color: var(--mbd-black3);
+    transition: 100ms ease-in-out;
+}
+.container-SidGiM {
+    background-color: var(--mbd-black2);
+}
+.category-qFAw-K.activeCategory-1iqXig, .clickable-WBCFI5:hover, .category-qFAw-K:hover, .list-1bztb-, .category-3LanTP, .card-sX105p, .list-3ykg7W {
+    background-color: var(--mbd-black2);
+}
+.commandName-SDgdgz {
+    background-color: var(--mbd-black1);
+    border: 1px solid var(--mbd-black1);
+}
+.cardHeader-3tWAak, .priceAndButtonContainer-2g2UBN {
+    background-color: var(--mbd-black2);
 }
 /* Server Settings END */
 
