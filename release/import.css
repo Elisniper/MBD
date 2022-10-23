@@ -764,6 +764,16 @@
     padding-left: 10px;
     padding-right: 0;
 }
+.theme-dark .wrapperAudio-1Bzv_Z {
+    border-color: var(--mbd-black2);
+    background-color: var(--mbd-black2);
+}
+.mediaBarGrabber-FvJKJg, .mediaBarProgress-38I317, .mediaBarProgress-38I317:after, .mediaBarProgress-38I317:before, .mediaBarInteraction-tUE5dq:hover .mediaBarGrabber-FvJKJg {
+    background-color: var(--mbd-accent);
+}
+.buffer-3eVqKK, .buffer-3eVqKK:after, .buffer-3eVqKK:before {
+    background-color: var(--mbd-black1);
+}
 .form-3gdLxP {
     background-color: var(--mbd-black2);
 }
