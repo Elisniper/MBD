@@ -38,6 +38,13 @@
     padding: 2px 4px;
     transform: translateY(20%);
 }
+/* Title Bar */
+.appMount-2yBXZl, body, .titleBar-1it3bQ, .bg-1QIAus {
+    background-color: var(--mbd-black2);
+}
+.titleBar-1it3bQ {
+    z-index: 1000;
+}
 /* Scroll bars */
 ::-webkit-scrollbar-track-piece {
     border: 4px solid transparent !important;
@@ -842,6 +849,7 @@
     left: 0px;
     right: 9px;
     height: 24px;
+    top: 0;
 }
 .wrapper-2SplAX {
     position: relative;
@@ -1259,7 +1267,7 @@
     background-color: var(--mbd-accent);
 }
 .member-48YF_l, .members-3WRCEx {
-    background-color: transparent;
+    background-color: var(--mbd-black2);
 }
 /* Server Tabs MAIN END */
 
@@ -1892,7 +1900,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     background-color: var(--mbd-black1);
 }
 .guidelinesButton-3Vrz0u { 
-    background-color: var(--mbd-black2);
+    background-color: var(--mbd-black1);
 }
 .headerBorder-jrk0Ic {
     box-shadow: 0 0 0 2px var(--mbd-black1);
@@ -1922,6 +1930,21 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .addReactButton-3bSQb6, .buttonInner-3aRbcx, .addReactButton-3bSQb6:hover, .buttonInner-3aRbcx:hover {
     background-color: var(--mbd-black2);
+}
+.box-2iMsQm:after {
+    border: transparent;
+}
+.box-2iMsQm {
+    background-color: transparent;
+}
+.uploadInput-3fblkw {
+    background-color: var(--mbd-black2);
+}
+.channelTextAreaInner-2_mflx.scrollableContainer-15eg7h.webkit-QgSAqd {
+    background-color: transparent;
+}
+.footer-3dzxcR .typing-2J1mQU.base-3bcbY3 {
+    position: inherit;
 }
 /* Discord forum channels END */
 
