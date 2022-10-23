@@ -1242,10 +1242,10 @@
     top: 3px;
 }
 /* Server user list popout */
-.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .userProfileInnerNonPremium-1XjSjn, .userProfileInnerPremiumWithoutBanner-37uB4Q {
+.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .userProfileInnerNonPremium-1XjSjn, .userProfileInnerPremiumWithoutBanner-37uB4Q, .userProfileInnerWithBanner-3CJ1Og {
     background: var(--mbd-black1);
 }
-.userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
+.userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi, .overlayBackground-1KgwVi {
     background-color: var(--mbd-black2);
 }
 .profileBadges-31rDHI {
@@ -1928,7 +1928,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 /* Member Since Start */
 .connectedAccountContainer-3aLMHJ {
     margin-top: 20px;
-    padding: 8px;
+    padding: 8px 5px 8px 5px;
     width: 252px;
     background-color: var(--mbd-black2);
     border-radius: 4px;
