@@ -75,6 +75,12 @@
     background: transparent;
     box-shadow: none;
 }
+.accountProfilePopoutWrapper-3GskID .userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterThemed-3EfHmv.profileColors-3Y0XaR.theme-dark {
+    position: relative;
+    width: 232px;
+    left: 22px;
+    box-shadow: none;
+}
 .accountProfilePopoutWrapper-3GskID .userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .accountProfilePopoutWrapper-3GskID .userProfileInnerNonPremium-1XjSjn, .accountProfilePopoutWrapper-3GskID .userProfileInnerPremiumWithoutBanner-37uB4Q {
     background: var(--mbd-black4);
 }
