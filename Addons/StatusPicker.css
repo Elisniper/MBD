@@ -65,6 +65,9 @@
     background: var(--mbd-black4);
     box-shadow: none !important;
 }
+.accountProfilePopoutWrapper-3GskID .menu-1QACrS {
+    background: transparent;
+}
 .accountProfilePopoutWrapper-3GskID .userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR.theme-dark {
     position: relative;
     width: 240px;
