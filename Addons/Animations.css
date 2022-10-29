@@ -1,10 +1,10 @@
 /* Pin Button */
-.iconWrapper-2awDjA.clickable-ZD7xvu.selected-29KTGM[aria-label="Pinned Messages"], .iconWrapper-2awDjA.clickable-ZD7xvu:nth-child(3).selected-29KTGM .icon-2xnN2Y {
+.iconWrapper-2awDjA.clickable-ZD7xvu.selected-29KTGM[aria-label="Pinned Messages"], .iconWrapper-2awDjA.clickable-ZD7xvu:nth-child(3).selected-29KTGM {
     transform: rotate(0deg);
     transition: 100ms ease-in-out;
 }
-.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"], .iconWrapper-2awDjA.clickable-ZD7xvu:nth-child(3) .icon-2xnN2Y {
-    transform: rotate(22deg);
+.iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="Pinned Messages"], .iconWrapper-2awDjA.clickable-ZD7xvu:nth-child(3) {
+    transform: rotate(45deg);
     transition: 100ms ease-in-out;
 }
 /* Menus Animation */
