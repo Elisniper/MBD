@@ -461,7 +461,7 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
     display: none;
 }
 /* Top Bar Icons */
-.iconWrapper-2awDjA.clickable-ZD7xvu .icon-2xnN2Y {
+.iconWrapper-2awDjA.clickable-ZD7xvu {
     filter: drop-shadow(2px 4px 6px black);
 }
 .iconWrapper-2awDjA.clickable-ZD7xvu[aria-label="More"] .icon-2xnN2Y {
