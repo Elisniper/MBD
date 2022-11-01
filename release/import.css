@@ -645,6 +645,21 @@
 .overflow-W0reYu {
     background-color: var(--mbd-black1);
 }
+.modalHeader-3X0A4K {
+    background-color: var(--mbd-black3);
+}
+.scrollTierBackground-BnWR8k {
+    background-color: var(--mbd-black1);
+}
+.activityItem-1Z9CTr {
+    background: var(--mbd-black2);
+}
+.activityItem-1Z9CTr:hover {
+    background: var(--mbd-black3);
+}
+.activityTag-3C3YK5 {
+    background-color: var(--mbd-black1);
+}
 /* DM/Group calls END*/
 
 /* Server List START */
