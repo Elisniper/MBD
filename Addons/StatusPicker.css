@@ -62,7 +62,7 @@
     background: rgb(40 40 40) !important;
 }
 .accountProfilePopoutWrapper-3GskID .scroller-1bVxF5, .menu-1QACrS[aria-label="Set Status"] {
-    background: var(--mbd-black4);
+    background: transparent;
     box-shadow: none !important;
 }
 .accountProfilePopoutWrapper-3GskID .menu-1QACrS {
