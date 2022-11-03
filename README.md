@@ -2,9 +2,11 @@
 
 ## Installation
 
-1. Download the theme [here](https://github.com/Elisniper/MBD/archive/refs/heads/main.zip)
-2. Place the Material Blue Discord.theme.css file (located in the release folder) into the BetterDiscord themes folder.
+1. Download the theme [here](https://betterdiscord.app/Download?id=746)
+2. Place the Material Blue Discord.theme.css file into the BetterDiscord themes folder.
 3. Enable the theme in the themes tab.
+
+## Previews
 
 ![](https://github.com/Elisniper/MBD/blob/main/resources/Image%201.PNG?raw=true)
 
