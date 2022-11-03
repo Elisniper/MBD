@@ -876,6 +876,9 @@
 .jumpToPresentBar-1cEnH0 {
     background-color: var(--mbd-black1);
 }
+.theme-dark .spoilerText-27bIiA.hidden-3B-Rum {
+    background-color: var(--mbd-black2);
+}
 .spamBanner-1auiob {
     display: flex;
     background: var(--mbd-black4);
@@ -889,6 +892,7 @@
     right: 9px;
     height: 24px;
     top: -3px;
+    left: 0;
 }
 .clipContainer-31nYlH {
     padding-top: 13px;
@@ -1899,6 +1903,9 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .theme-dark .contentWrapper-3oy4Xo {
     background: var(--mbd-black1);
+}
+.fieldBackground-3nYcw0, .fieldBackground-3nYcw0:hover:not(:focus) {
+    background-color: var(--mbd-black2);
 }
 /* Add server & Discover END */
 
