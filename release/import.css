@@ -1291,10 +1291,10 @@
     top: 3px;
 }
 /* Server user list popout */
-.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .userProfileInnerNonPremium-1XjSjn, .userProfileInnerPremiumWithoutBanner-37uB4Q, .userProfileInnerWithBanner-3CJ1Og {
+.userProfileInnerThemedNonPremium-1gT-zY {
     background: var(--mbd-black1);
 }
-.userProfileInnerNonPremium-1XjSjn .overlayBackground-1KgwVi {
+.userProfileInnerThemedNonPremium-1gT-zY .overlayBackground-1KgwVi {
     background-color: var(--mbd-black2);
 }
 .profileBadges-31rDHI {
@@ -1310,15 +1310,17 @@
 .member-48YF_l, .members-3WRCEx {
     background-color: var(--mbd-black2);
 }
-.userProfileInnerNonPremium-1XjSjn .role-2TIOKu {
+.userProfileInnerThemedNonPremium-1gT-zY .role-2TIOKu {
     background: var(--mbd-black1);
 }
-.userProfileInnerWithBanner-3CJ1Og .textarea-_59yqs, .userProfileInnerPremiumWithoutBanner-37uB4Q .textarea-_59yqs,
-.userProfileInnerWithBanner-3CJ1Og .note-6O4w9y ::placeholder, .userProfileInnerPremiumWithoutBanner-37uB4Q .note-6O4w9y ::placeholder, 
-.userProfileInnerWithBanner-3CJ1Og .input-2g-os5, .userProfileInnerPremiumWithoutBanner-37uB4Q .input-2g-os5,
-.userProfileInnerWithBanner-3CJ1Og .inputWrapper-1YNMmM ::placeholder, .userProfileInnerWithBanner-3CJ1Og .inputWrapper-1YNMmM ::placeholder,
-.userProfileInnerWithBanner-3CJ1Og .note-3TX9O7 ::placeholder, .userProfileInnerPremiumWithoutBanner-37uB4Q .note-3TX9O7 ::placeholder {
-    background-color: var(--mbd-black2) !important;
+.userProfileInnerThemedWithBanner-2624Yx .input-2g-os5, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .input-2g-os5, .theme-light ::placeholder  {
+    background-color: transparent !important;
+}
+.userProfileInnerThemedWithBanner-2624Yx .connectedAccountContainer-3aLMHJ, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .connectedAccountContainer-3aLMHJ {
+    background-color: transparent;
+}
+.theme-light textarea, .theme-light textarea:hover {
+    color: var(--text-normal);
 }
 /* Server Tabs MAIN END */
 
