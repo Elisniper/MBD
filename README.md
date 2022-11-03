@@ -1,5 +1,7 @@
 <h1 align="center">Material Blue Discord</h1>
 
+A dark blue material theme for Discord
+
 ## Installation
 
 1. Download the theme [here](https://betterdiscord.app/Download?id=746)
