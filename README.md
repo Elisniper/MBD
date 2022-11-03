@@ -1,4 +1,4 @@
-<h1 align="center">Material Blue Discord</h1>
+<h1>Material Blue Discord</h1>
 
 A dark blue material theme for Discord
 
