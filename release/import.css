@@ -1954,7 +1954,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 /* Party Mode END */
 
 /* Discord forum channels START */
-.header-1Uy0p6, .mainCard-3KBsBI, .tag-19iIl1, .container-2nXUah, .loadingCard-3pIp9h, .iconWrapper-3FqQ75 {
+.header-1Uy0p6, .mainCard-3KBsBI, .tag-19iIl1, .container-2nXUah, .loadingCard-3pIp9h, .iconWrapper-3FqQ75, .tag-19iIl1, .tagsButton-4pwOKH {
     background-color: var(--mbd-black1);
 }
 .header-1Uy0p6:hover:not(.headerBorder-jrk0Ic) {
@@ -2017,6 +2017,27 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 .descriptionContainer-2ylKGk {
     margin-top: 12px;
     background-color: var(--mbd-black2);
+}
+.container-3kfp0r {
+    background-color: var(--mbd-black3);
+}
+.container-3kfp0r .pill-3pRQlO {
+    background-color: var(--mbd-black1);
+}
+.pill-3pRQlO.clickable-3YTfAq.tag-3T_qsl:hover {
+    background-color: var(--mbd-black2);
+}
+.countContainer-3DOo5v, .countContainer-3uQ087 {
+    background-color: var(--mbd-accent);
+}
+.container-2qVG6q .pill-3pRQlO {
+    background-color: var(--mbd-black2);
+}
+.container-2qVG6q.mainCard-3KBsBI:hover .pill-3pRQlO {
+    background-color: var(--mbd-black2);
+}
+.container-2qVG6q.mainCard-3KBsBI .pill-3pRQlO:hover {
+    background-color: var(--mbd-black1);
 }
 /* Discord forum channels END */
 
