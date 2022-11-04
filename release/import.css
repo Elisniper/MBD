@@ -15,7 +15,7 @@
 }
 /* Theme info and version */
 .info-3pQQBb:after {
-    content: "Material Blue Discord 2.0";
+    content: "Material Blue Discord 2.0.1";
     position: relative;
     font-size: 12px;
     line-height: 16px;
@@ -250,6 +250,7 @@
 }
 .container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
     background: var(--mbd-accent);
+    box-shadow: 1px 0px 8px var(--mbd-black3);
 }
 .children-3xh0VB:after {
     background: transparent !important;
@@ -728,6 +729,7 @@
 /* User Controlls START */
 .panels-3wFtMD {
     background-color: var(--mbd-black4);
+    box-shadow: 0 1px 8px #101010;
 }
 .container-YkUktl {
     height: 67px;
@@ -767,6 +769,7 @@
 }
 .header-3OsQeK {
     background-color: var(--mbd-accent);
+    box-shadow: 1px 0px 8px var(--mbd-black3);
 }
 .clickable-vvKY2q .header-3OsQeK:hover {
     background-color: var(--mbd-accent);
@@ -782,6 +785,9 @@
 }
 .container-2o3qEW, .membersWrap-3NUR2t, .membersWrap-3NUR2t {
     background-color: var(--mbd-black2);
+}
+.container-2o3qEW {
+    z-index: 0;
 }
 .theme-dark .children-19S4PO:after {
     background: transparent;
@@ -830,6 +836,7 @@
     background-color: var(--mbd-black4);
     padding-right: 10px;
     border-radius: 0;
+    box-shadow: 0 1px 8px #101010;
 }
 .channelAttachmentArea-HwpkuQ {
     display: flex;
@@ -905,8 +912,10 @@
     margin-bottom: 0px;
     margin-left: 0px;
     padding: 24px 0;
-    width: 101.5%;
+    padding-left: 10px;
     background-color: var(--mbd-black4);
+    box-shadow: 0 1px 8px #101010;
+    z-index: 0;
 }
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
     color: #f6f6f7;
