@@ -3,7 +3,7 @@
     position: relative;
     margin: 16px 5px 0 70px;
     padding: 8px 10px;
-    padding-bottom: 4px;
+    padding-bottom: 3px;
     background-color: var(--mbd-black1);
     border-bottom: none !important;
     overflow: visible !important;
@@ -35,7 +35,11 @@
 }
 .message-2CShn3:not(.groupStart-3Mlgv1).cozy-VmLDNB.wrapper-30-Nkg {
     padding-left: 10px;
-    padding-top: 0;
+    padding-top: 1px;
+    padding-bottom: 3px;
+}
+.message-2CShn3:not(.groupStart-3Mlgv1).mentioned-Tre-dv {
+    background-color: var(--background-mentioned) !important;
 }
 .message-2CShn3.selected-2LX7Jy, .mouse-mode.full-motion .message-2CShn3:hover {
     background-color: var(--mbd-black1);
@@ -48,11 +52,7 @@
 .message-2CShn3:not(.groupStart-3Mlgv1):before {
     position: absolute;
     content: " ";
-    width: 100%;
-    height: 4px;
-    top: -4px;
     left: 0;
-    background: transparent;
     pointer-events: none;
 }
 .cozy-VmLDNB .timestamp-p1Df1m.alt-1dvXnH {
@@ -82,6 +82,9 @@
 .mentioned-Tre-dv.message-2CShn3.groupStart-3Mlgv1 {
     background-color: var(--background-mentioned) !important;
 }
+.button-3bklZh {
+    height: 18px;
+}
 .button-3bklZh.selected-69H4ua {
     color: #FFF;
     background-color: transparent;
@@ -93,12 +96,15 @@
 .full-motion .wrapper-2vIMkT:hover, .wrapper-2vIMkT {
     box-shadow: none;
 }
+.wrapper-2vIMkT {
+    height: 26px;
+}
 .container-2gUZhU {
     padding: 0;
     top: 0px;
 }
 .message-2CShn3:not(.groupStart-3Mlgv1) .buttons-3dF5Kd.container-2gUZhU {
-    top: -6px;
+    top: 0;
 }
 .button-3bklZh:hover, .wrapper-2vIMkT {
     background-color: rgb(43 43 43);
