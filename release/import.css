@@ -762,6 +762,9 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.chat-2ZfjoI {
+    background: var(--mbd-black2);
+}
 .communityInfoPill-2Mll66 {
     background: var(--mbd-black1);
 }
@@ -1527,8 +1530,8 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
     margin-top: -9px;
     border-radius: 50%;
 }
-.theme-dark .notches-2w7UZJ.gray-3wP137 {
-    background-image: none;
+.theme-dark .notches-2w7UZJ.gray-3wP137 rect {
+    fill: none;
 }
 .cameraWrapper-3a7Ngv {
     background-color: var(--mbd-black1);
@@ -2032,6 +2035,15 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     display: flex;
     background-color: var(--mbd-black1);
     border: 1px solid var(--mbd-black1);
+}
+.bd-filled-checkmark {
+    background: #2a6f40;
+}
+.bd-empty-updates svg {
+    fill: #2a6f40;
+}
+.bd-toast {
+    background-color: var(--mbd-black1);
 }
 /*BD Custom CSS Live Update Posistion FIX*/
 .checkbox-item {
