@@ -197,7 +197,7 @@
 .contentCircle-15IFyT {
     background-color: var(--mbd-accent);
 }
-.textBadge-1fdDPJ[style="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%);"] {
+.textBadge-1fdDPJ[style="background-color: var(--brand-500);"] {
     background-color: var(--mbd-accent) !important;
 }
 /* User Settings Menu END */
@@ -1453,8 +1453,9 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .container-20TyK0 {
     background: var(--mbd-black1) !important;
 }
-.itemFilled-1cPbtg:hover:not([aria-checked=true]), .itemFilled-1cPbtg:active:not([aria-checked=true]) {
+.itemFilled-1cPbtg:hover:not([aria-checked=true]):not(.disabled-3tqE8r), .itemFilled-1cPbtg:active:not([aria-checked=true]):not(.disabled-3tqE8r) {
     background-color: var(--mbd-black1);
+    transition: 100ms ease-out;
 }
 .itemFilled-1cPbtg[aria-checked=true] {
     background-color: var(--mbd-accent);
