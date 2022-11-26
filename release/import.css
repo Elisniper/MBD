@@ -1454,7 +1454,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
     background: var(--mbd-black1) !important;
 }
 .itemFilled-1cPbtg:hover:not([aria-checked=true]):not(.disabled-3tqE8r), .itemFilled-1cPbtg:active:not([aria-checked=true]):not(.disabled-3tqE8r) {
-    background-color: var(--mbd-black2);
+    background-color: var(--mbd-black3);
     transition: 100ms ease-out;
 }
 .itemFilled-1cPbtg[aria-checked=true] {
