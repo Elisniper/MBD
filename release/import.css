@@ -398,7 +398,7 @@
 /*
 */
 /* Friends, Nitro and Public server buttons start */
-.container-32HW5s[aria-posinset="1"], .container-32HW5s[aria-posinset="2"] {
+.container-32HW5s[aria-posinset="1"], .container-32HW5s[aria-posinset="3"] {
     display: inline-block;
     width: 108px;
 }
@@ -407,16 +407,16 @@
     top: 31px;
     left: 29px;
 }
-.container-32HW5s[aria-posinset="1"] .interactive-iyXY_x, .container-32HW5s[aria-posinset="2"] .interactive-iyXY_x {
+.container-32HW5s[aria-posinset="1"] .interactive-iyXY_x, .container-32HW5s[aria-posinset="3"] .interactive-iyXY_x {
     transition: 150ms ease;
     padding-bottom: 12px;
 }
-.container-32HW5s[aria-posinset="1"] .avatar-1HDIsL, .container-32HW5s[aria-posinset="2"] .avatar-1HDIsL {
+.container-32HW5s[aria-posinset="1"] .avatar-1HDIsL, .container-32HW5s[aria-posinset="3"] .avatar-1HDIsL {
     left: 27px;
     top: -5px;
     position: relative;
 }
-.container-32HW5s[aria-posinset="2"] .content-66wMin {
+.container-32HW5s[aria-posinset="3"] .content-66wMin {
     position: absolute;
     top: 31px;
     left: 36px;
@@ -588,6 +588,9 @@
 }
 .guildHeader-1EPPBS {
     background-color: var(--mbd-black3);
+}
+.tag-3Upstw {
+    background-color: var(--mbd-accent);
 }
 /*Nitro Main END*/
 
