@@ -128,4 +128,21 @@
 .button-3bklZh.dangerous-Y36ifs {
     color: var(--mbd-notification);
 }
+/* Automod Messages */
+.embedCard-bDyD5S {
+    background-color: var(--mbd-black2);
+}
+.iconContainer-3WHKMP {
+    left: -76px;
+    top: 0;
+}
+.embedCard-bDyD5S .cozy-VmLDNB.wrapper-30-Nkg {
+    position: relative;
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    background-color: var(--mbd-black1);
+    border-bottom: none !important;
+    overflow: visible !important;
+}
 /*Chat bubbles END */
