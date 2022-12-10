@@ -25,7 +25,7 @@
 .message-2CShn3.systemMessage-1H1Z20.groupStart-3Mlgv1:after, .message-2CShn3:not(.groupStart-3Mlgv1):after {
     display: none;
 }
-.message-2CShn3.groupStart-3Mlgv1 .avatar-2e8lTP {
+.message-2CShn3.groupStart-3Mlgv1 .avatar-2e8lTP, .systemMessage-1H1Z20.message-2CShn3:not(.groupStart-3Mlgv1) .avatar-2e8lTP {
     top: 0px;
     left: -50px;
 }
@@ -135,6 +135,9 @@
 .iconContainer-3WHKMP {
     left: -76px;
     top: 0;
+}
+.automodMessage-265YwJ:before, .shieldIcon-2QHlhC {
+    background-color: var(--mbd-notification);
 }
 .embedCard-bDyD5S .cozy-VmLDNB.wrapper-30-Nkg {
     position: relative;
