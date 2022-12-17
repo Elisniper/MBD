@@ -1,4 +1,4 @@
-<h1>Material Blue Discord</h1> <style>align='center'</style>
+<h1 align="center">Material Blue Discord</h1>
 
 # About MBD
 
