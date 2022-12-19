@@ -1267,6 +1267,13 @@
     background: var(--mbd-black2);
     cursor: pointer;
 }
+.popoutContainer-2wbmiM {
+    background-color: var(--mbd-black3);
+    box-shadow: 0 0 5px #101010;
+}
+.guildSection-2Zyzy8 {
+    background-color: var(--mbd-black1);
+}
 /* Sticker popout */
 .containerBackground-Ang24O {
     background-color: var(--mbd-black1);
