@@ -512,7 +512,7 @@
 .interactive-iyXY_x {
     transition: 150ms ease;
 }
-.interactiveSelected-29CP8y, .interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover, .interactive-1vLZ_I:active {
+.interactiveSelected-29CP8y, .interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover, .interactive-1vLZ_I:active, .interactive-26HRN_:focus-within, .interactive-26HRN_:hover {
     background-color: var(--mbd-black1);
     transition: 150ms ease-out;
 }
