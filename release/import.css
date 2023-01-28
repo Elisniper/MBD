@@ -836,7 +836,7 @@
 /* Server List END */
 
 /* User Controlls START */
-.panels-3wFtMD .container-YkUktl {
+.panels-3wFtMD .container-YkUktl, .panels-3wFtMD .container-1zzFcN, .panels-3wFtMD .activityPanel-9icbyU {
     background-color: var(--mbd-black4);
     box-shadow: 0 1px 8px #101010;
 }
