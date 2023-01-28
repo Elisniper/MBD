@@ -80,7 +80,8 @@
 .theme-dark .noItemsIcon-1rZlXZ, .theme-dark .noItemsIcon-2OeOld, .theme-dark .payment-2bOh4k, .cardInput-33x7OF, .phoneField-3NAPDv .inputField-1iYysB, .footer-3naVBw,
 .userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .body-1Ukv50, .topSection-13QKHs, .promotionCard-mo7ClH, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer-35U-On, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
-.decorationGridItem-3CoeNN, .popout-15UxD6, .customizationSection-IGy2fS .inputWrapper-2K8ds1 .input-3O04eu, .theme-dark .customColorPicker-C_jddW, .itemFilled-2Fo7lr {
+.decorationGridItem-3CoeNN, .popout-15UxD6, .customizationSection-IGy2fS .inputWrapper-2K8ds1 .input-3O04eu, .theme-dark .customColorPicker-C_jddW, .itemFilled-2Fo7lr,
+.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -217,6 +218,29 @@
 }
 .textBadge-1fdDPJ[style="background-color: var(--brand-500);"] {
     background-color: var(--mbd-accent) !important;
+}
+/* Sliders */
+.container-1QtPKm.default-colors {
+    /*full off*/
+    background-color: rgb(70 70 70) !important;
+}
+.container-1QtPKm.default-colors.checked-16gMAN{
+    /*full on*/
+    background-color: #27693c !important;
+}
+.slider-HJFN2i path {
+    fill: transparent;
+}
+
+.itemFilled-2Fo7lr:hover:not([aria-checked=true]):not(.disabled-WBmOu_) {
+    background-color: rgb(45 45 45);
+}
+.itemFilled-2Fo7lr:active:not([aria-checked=true]):not(.disabled-WBmOu_) {
+    background-color: rgb(50 50 50);
+}
+.container-1_EVMa .input-3MU9bJ, .container-1_EVMa .layout-1XOMLV, .theme-dark .container-30qY7E {
+    background-color: var(--mbd-black1);
+    border-color: var(--mbd-black1);
 }
 /* User Settings Menu END */
 
@@ -410,7 +434,7 @@
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
-.scroller-WSmht3, .footer-C9oLp9, .container-1SX9VC, .header-1w9Q93, .theme-dark .bd-server-card:hover, .theme-dark .bd-server-card:focus {
+.privateChannels-oVe7HL .scroller-WSmht3, .footer-C9oLp9, .container-1SX9VC, .header-1w9Q93, .theme-dark .bd-server-card:hover, .theme-dark .bd-server-card:focus {
     background-color: var(--mbd-black3);
 }
 /*
@@ -749,7 +773,7 @@
 /* DM/Group calls END*/
 
 /* Server List START */
-.scroller-3X7KbA {
+.guilds-2JjMmN .scroller-3X7KbA {
     background-color: var(--mbd-black1);
 }
 /* Home Icon */
@@ -812,7 +836,7 @@
 /* Server List END */
 
 /* User Controlls START */
-.panels-3wFtMD {
+.panels-3wFtMD .container-YkUktl {
     background-color: var(--mbd-black4);
     box-shadow: 0 1px 8px #101010;
 }
@@ -916,7 +940,7 @@
 .scrollableContainer-15eg7h .divider-2rZFJK {
     bottom: 11px;
 }
-.scrollableContainer-15eg7h {
+.channelTextArea-1FufC0 .scrollableContainer-15eg7h {
     background-color: var(--mbd-black4);
     scrollbar-width: none;
     padding-top: 12px;
@@ -2189,6 +2213,12 @@ button.sortButton-n-cIAH.button-f2h6uQ.lookFilled-yCfaCM.sizeMin-DfpWCE.grow-2sR
 }
 .bd-toast {
     background-color: var(--mbd-black1);
+}
+.floating-window-titlebar {
+    background: var(--mbd-black2);
+}
+.floating-window #bd-editor-controls, #bd-editor-controls {
+    background: var(--mbd-black4);
 }
 /*BD Custom CSS Live Update Posistion FIX*/
 .checkbox-item {
