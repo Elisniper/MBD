@@ -1507,7 +1507,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .member-2cj2PI .root-jbEB5E .role-2TIOKu, .previewContainer-1GxmBJ, .content-lgVC-G, .footer-1voAYT, .exampleTextSingleLine-1V7Brj, .exampleContainer-3KBk_U,
 .clickableContainer-3YtEIY, .editCard-K9Q9mb, .editCard-K9Q9mb.toggled-35JcVc.active-Xi2rnV, .editCard-K9Q9mb.active-Xi2rnV, .resultsList-2Bp-2_, .stepperContainer-i-z0pP,
 .collapseable-DdnHFl.toggled-3yp8ip .keywordsTextArea-3QkFoG, .collapseable-DdnHFl.toggled-3yp8ip .textArea-3KjrTT, .card-2CLwV2, .howItWorksImageContainer-3ZJ-AE, .creatorBenefitCard-2WaJRz,
-.guildCard-3JHk9F {
+.guildCard-3JHk9F, .marginBottom20-315RVT .input-3O04eu, .modalBody-3-seO3 {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -1516,14 +1516,14 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .theme-dark .perk-19D_HN, .header-JUTO-g, .titleContainer-3fPic2, .circleIconButton-1VxDrg, .exampleModal-3D7ypH, .clickableContainer-3YtEIY.groupCollapsedRow-2CgoFk, .actionContainer-2krsiT,
 .editCard-K9Q9mb.toggled-35JcVc .inputDefault-3FGxgL, .stepCountIcon-1A2Rxd, .channelRowLabel-2yYGtY, .mentionLimitContainer-zBzr5i, .actionContainer-EzNGrb, .keywordListContainer-9ux8nU,
 .collapseable-DdnHFl, .collapseable-DdnHFl.toggled-3yp8ip:active, .triggerMainContainer-274ue5 .keywordsTextArea-3QkFoG, .ruleIconContainer-dXW56-, .guildSidebar-25nAoF, .formFieldWrapper-3IiCRS,
-.howItWorksContainer-2zbci6, .avatarCard-1fqGQ0 {
+.howItWorksContainer-2zbci6, .avatarCard-1fqGQ0, .cardPrimaryEditable-2mz_3i .role-2TIOKu {
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
 .upsellFooter-3M1V33, .checklistHeader-3liG7E, .header-Wl8ec-, .enableContainer-H2cRts, .theme-dark .tierHeaderLocked-30MLlO, .theme-dark .tierHeaderLocked-3ItHYn, 
 .wrapper-24fR1R:focus-within, .wrapper-24fR1R:hover, .backgroundModifierContainer-WjXgb2:hover:not(.disabled-3Q7kTN):not(.noAction-3PygTY),
 .collapseable-DdnHFl.toggled-3yp8ip .clickableContainer-3YtEIY.groupHeaderRow-19NZvU, .backgroundModifierContainer-WjXgb2.selected-2f8_FP, 
-.backgroundModifierContainer-WjXgb2:active:not(.disabled-3Q7kTN):not(.noAction-3PygTY), .collapseable-DdnHFl:active {
+.backgroundModifierContainer-WjXgb2:active:not(.disabled-3Q7kTN):not(.noAction-3PygTY), .collapseable-DdnHFl:active, .modalHeader-1hF3w- {
     background-color: var(--mbd-black3);
 }
 .fakeButton-2eEUpc, .viewServerButton-2-uqle {
@@ -1793,6 +1793,22 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .cardHeader-3tWAak, .priceAndButtonContainer-2g2UBN {
     background-color: var(--mbd-black2);
+}
+/* Server Intergration */
+.permissionList-3BbqRp {
+    padding: 0 0 5px 10px;
+}
+.item-2rTrrd:hover {
+    background-color: rgb(40 40 40);
+}
+.card-2b4UFN {
+    padding: 20px 10px;
+}
+.medium-1ywRMv .modalFooter-Ywt9Jo {
+    background-color: var(--mbd-black2) !important;
+}
+.lookFilled-yCfaCM.colorRed-rQXKgM {
+    background-color: var(--mbd-notification);
 }
 /* Server Settings END */
 
