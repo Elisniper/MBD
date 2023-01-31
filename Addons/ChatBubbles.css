@@ -152,3 +152,16 @@
     overflow: visible !important;
 }
 /*Chat bubbles END */
+
+
+/* Compact view */
+.compact-2Nkcau.wrapper-30-Nkg {
+    padding-left: 15px;
+}
+.message-2CShn3:not(.groupStart-3Mlgv1).compact-2Nkcau .timestamp-p1Df1m, .message-2CShn3.groupStart-3Mlgv1.compact-2Nkcau .timestamp-p1Df1m {
+    position: relative;
+    left: -5px;
+}
+.compact-2Nkcau.message-2CShn3.groupStart-3Mlgv1 {
+    padding: 8px 14px;
+}
