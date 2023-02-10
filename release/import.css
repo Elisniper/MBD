@@ -1520,7 +1520,8 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .theme-dark .perk-19D_HN, .header-JUTO-g, .titleContainer-3fPic2, .circleIconButton-1VxDrg, .exampleModal-3D7ypH, .clickableContainer-3YtEIY.groupCollapsedRow-2CgoFk, .actionContainer-2krsiT,
 .editCard-K9Q9mb.toggled-35JcVc .inputDefault-3FGxgL, .stepCountIcon-1A2Rxd, .channelRowLabel-2yYGtY, .mentionLimitContainer-zBzr5i, .actionContainer-EzNGrb, .keywordListContainer-9ux8nU,
 .collapseable-DdnHFl, .collapseable-DdnHFl.toggled-3yp8ip:active, .triggerMainContainer-274ue5 .keywordsTextArea-3QkFoG, .ruleIconContainer-dXW56-, .guildSidebar-25nAoF, .formFieldWrapper-3IiCRS,
-.howItWorksContainer-2zbci6, .avatarCard-1fqGQ0, .cardPrimaryEditable-2mz_3i .role-2TIOKu, .viewServerButton-29xbQE, .subscriberCountText-2UmR-T, .subscriberCountValue-LI_0MN {
+.howItWorksContainer-2zbci6, .avatarCard-1fqGQ0, .cardPrimaryEditable-2mz_3i .role-2TIOKu, .viewServerButton-29xbQE, .subscriberCountText-2UmR-T, .subscriberCountValue-LI_0MN,
+.intentsContainer-FHJBSg {
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
@@ -1799,6 +1800,12 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 .cardHeader-3tWAak, .priceAndButtonContainer-2g2UBN {
     background-color: var(--mbd-black2);
 }
+.container-29HCg7 .searchBox-pyIJJj .searchBoxInput-P0mWHW, .content-19Pm_9 .searchBox-pyIJJj .searchBoxInput-P0mWHW {
+    background-color: var(--mbd-black2);
+}
+.searchBox-pyIJJj:focus, .searchBox-pyIJJj:focus-within {
+    border-color: var(--mbd-accent);
+}
 /* Server Intergration */
 .permissionList-3BbqRp {
     padding: 0 0 5px 10px;
@@ -1814,6 +1821,16 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .lookFilled-yCfaCM.colorRed-rQXKgM {
     background-color: var(--mbd-notification);
+}
+.cardPrimaryEditable-2mz_3i .inputDefault-Ciwd-S {
+    background-color: var(--mbd-black2);
+}
+.cardPrimaryEditable-2mz_3i .lookFilled-GPyucw.select-Zz0IcO {
+    background-color: var(--mbd-black2);
+    border-color: var(--mbd-black2);
+}
+.lookLink-15mFoz.colorRed-rQXKgM, .lookLink-15mFoz.colorRed-rQXKgM:hover .contents-3ca1mk {
+    color: var(--mbd-notification);
 }
 /* Server Settings END */
 
