@@ -16,7 +16,7 @@
         transform:scaleY(1);
     }
 }
-.container-3u7RcY, .container-2ebMPP, .userPopout-2j1gM4, .browser-mnQ1T7, .messagesPopoutWrap-3zryHW, .wrapper-1NB3WY {
+.container-_dQaft, .container-2ebMPP, .userPopout-2j1gM4, .browser-mnQ1T7, .messagesPopoutWrap-3zryHW, .wrapper-1NB3WY, .recentMentionsPopout-2bI1ZN {
     animation: menu-anim 240ms ease-in-out;
     transform-origin: top;
 }
