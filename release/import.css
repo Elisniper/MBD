@@ -81,7 +81,7 @@
 .userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .body-1Ukv50, .topSection-13QKHs, .promotionCard-mo7ClH, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer-35U-On, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout-15UxD6, .customizationSection-IGy2fS .inputWrapper-2K8ds1 .input-3O04eu, .theme-dark .customColorPicker-C_jddW, .itemFilled-2Fo7lr,
-.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu {
+.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu, .premiumTrialAcknowledgedBadge-2QxbU_ {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -429,7 +429,7 @@
 /* Black 1*/
 .section-3G9aLW, .noResults-1ceiMB, .scroller-1Kbkqa, .tag-15zcD_, .scroller-145h9c, .scroller-MIi2ab, .channelHeader-DFRX8q, .primary-38Hs-h:hover:not(.disabled-184-il),
 .secondary-2bzKEX, .quickswitcher-pKcM9U, .theme-dark .bd-server-card, .bd-placeholder-card, .snowsgivingLink-1TZi3c:hover, .container-_dQaft, .friendRequestsButton-77veU7,
-.expandedTabSection-vWhH8- .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
+.expandedTabSection-vWhH8- .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .bigPerkCard-1uwmWV, .smallPerkCard-2sX_-- {
     background-color: var(--mbd-black1);
 }
 
@@ -457,6 +457,7 @@
 .container-32HW5s[aria-posinset="1"] .interactive-iyXY_x, .container-32HW5s[aria-posinset="2"] .interactive-iyXY_x {
     transition: 150ms ease;
     padding-bottom: 12px;
+    padding-right: 0;
 }
 .container-32HW5s[aria-posinset="1"] .avatar-1HDIsL, .container-32HW5s[aria-posinset="2"] .avatar-1HDIsL {
     left: 27px;
@@ -472,6 +473,28 @@
     position: absolute;
     top: 31px;
     left: 36px;
+}
+/* Nitro Promotion/Trial badge */
+.container-32HW5s[aria-posinset="2"] .interactive-iyXY_x .premiumTrialBadge-pEqntF {
+    position: relative;
+    left: -11px;
+    bottom: 5px;
+    color: #989aa2;
+}
+.container-32HW5s[aria-posinset="2"] .interactive-iyXY_x .premiumTrialAcknowledgedBadge-2QxbU_ {
+    width: 88%;
+    left: -18px;
+    background-color: var(--mbd-black3);
+    transition: 150ms ease;
+}
+.container-32HW5s[aria-posinset="2"] .interactive-iyXY_x:hover .premiumTrialAcknowledgedBadge-2QxbU_ {
+    background-color: var(--mbd-black1);
+    transition: 150ms ease-out;
+    color: #eeeff0;
+}
+.container-32HW5s[aria-posinset="2"] .interactive-iyXY_x .premiumTrialBadgeSelected-3NVwA4 {
+    background-color: var(--mbd-black1);
+    color: #eeeff0;
 }
 /* Snowgiving button */
 .snowsgivingLink-1TZi3c {
@@ -642,10 +665,10 @@
     color: #fff;
     background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 30%);
 }
-.lookFilled-yCfaCM.colorGreen-3y-Z79:hover, .lookInverted-2mDUMi.colorBrand-I6CyqQ:hover {
+.lookInverted-2GrLaB.colorBrand-2M3O3N:hover, .lookOutlined-3RTC7c.hoverBrand-20zQAE.hasHover-3y7IPU:hover {
     transform: translateY(-1px);
 }
-.lookFilled-yCfaCM.colorGreen-3y-Z79:active, .lookInverted-2mDUMi.colorBrand-I6CyqQ:active {
+.lookInverted-2GrLaB.colorBrand-2M3O3N:active, .lookOutlined-3RTC7c.hoverBrand-20zQAE.hasHover-3y7IPU:active {
     transform: translateY(1px);
 }
 .modalHeader-gQTY3L {
@@ -822,6 +845,10 @@
     background-color: var(--mbd-accent);
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
     z-index: 1;
+}
+.scroller-3X7KbA:not(.foldercontent) > .tutorialContainer-1pL9QS .lowerBadge-3WTshO {
+    bottom: 28px;
+    right: 0px;
 }
 .platform-osx .scroller-3X7KbA, .platform-win .scroller-3X7KbA {
     padding-top: 0px;
