@@ -1020,6 +1020,9 @@
 .animatedContainer-2laTjx, .bannerImage-ubW8K- {
     z-index: 2;
 }
+.theme-dark .progressBarContainer-1efroK {
+    background-color: var(--mbd-black1);
+}
 .markup-eYLPri code {
     background: var(--mbd-black1);
     border: 1px solid var(--mbd-black1);
