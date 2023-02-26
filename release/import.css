@@ -81,7 +81,7 @@
 .userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .body-1Ukv50, .topSection-13QKHs, .promotionCard-mo7ClH, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer-35U-On, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout-15UxD6, .customizationSection-IGy2fS .inputWrapper-2K8ds1 .input-3O04eu, .theme-dark .customColorPicker-C_jddW, .itemFilled-2Fo7lr,
-.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu, .premiumTrialAcknowledgedBadge-2QxbU_ {
+.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu, .premiumTrialAcknowledgedBadge-2QxbU_, .card-2guEcY:not(.outline-3kFzf8) {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -94,7 +94,7 @@
 }
 /* Black 3*/
 .theme-dark .addGamePopout-2SKNIV, .accountProfileCard-lbN7n-, .sidebarRegionScroller-FXiQOh, .connectionHeader-Ixbb1s, .theme-dark .paymentPane-ut5qKZ, 
-.itemFilled-2Fo7lr[aria-checked=true] {
+.itemFilled-2Fo7lr[aria-checked=true], .preview-QJ3OG3 {
     background-color: var(--mbd-black3);
 }
 /*
@@ -150,7 +150,7 @@
 .preview-3k9WhO .avatar-2e8lTP {
     left: -55px;
 }
-.cardPrimaryOutline-1ofwVz {
+.cardPrimary-pAe8Ed.outline-3kFzf8 {
     border-color: var(--mbd-black1);
     background-color: var(--mbd-black2);
 }
@@ -242,6 +242,16 @@
 .container-1_EVMa .input-3MU9bJ, .container-1_EVMa .layout-1XOMLV, .theme-dark .container-30qY7E {
     background-color: var(--mbd-black1);
     border-color: var(--mbd-black1);
+}
+.selectionCircle-3s5Uex {
+    box-shadow: inset 0 0 0 4px var(--mbd-accent);
+}
+.checkmarkCircle-2LCcdI .checkmark-1RtODZ {
+    color: var(--mbd-accent);
+}
+.themeEditor-1Ebyfp {
+    background: var(--mbd-black1);
+    border-left: 5px solid var(--mbd-accent);
 }
 /* User Settings Menu END */
 
@@ -1906,6 +1916,11 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     animation: loading 1s infinite linear;
     top: 3px;
 }
+.searchResultsWrap-5RVOkx .inner-MGEKwh:not(.pulsingEllipsis-3YiXRF) {
+    width: 8px;
+    height: 8px;
+    top: 0;
+}
 .inner-MGEKwh {
     border-radius: 50px;
 }
@@ -1919,7 +1934,6 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     display: none;
 }
 .spinner-2ID8f1 {
-    width: 38px !important;
     margin-left: 14px;
 }
 .spinner-2ID8f1 {
