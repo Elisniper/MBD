@@ -1564,8 +1564,8 @@
 .upsellContainer-2a5eMP, .backgroundAccent-2YeFtZ, .developerPortalCtaWrapper-2PniQs, .checklistContainer-12xGp5, .container-13pE3E, .exampleContainer-hz7EUM, .optionContainer-32r7Dj,
 .emojiButtonContainer-1n1BNw, .previewContainer-29oeA6, .editCircle-2aQAUC, .avatarUploaderInnerSquareDisabled-3M9eJS, .descriptionBox-SKGNgB, .theme-dark .changeDetails-1kMZqI,
 .lookOutlined-3yKVGo.colorPrimary-2AuQVo:hover, .itemFilled-1cPbtg, .guildFeatureAvailabilityIndicator-34eQAP, .lookOutlined-3yKVGo.colorPrimary-2AuQVo:active, 
-.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .side-1lrxIh .themed-qqoYp3.item-2GWPIy:hover:not(.disabled-1nofHP), 
-.side-1lrxIh .themed-qqoYp3.item-2GWPIy:active:not(.disabled-1nofHP), .container-3EtAkD, .container-3EtAkD:hover, .roleRow-230vCm:hover:not(.roleRowDisableHover-3En0vy),
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .side-1lrxIh .themed-qqoYp3.item-2GWPIy:hover:not(.disabled-2G98Nl), 
+.side-1lrxIh .themed-qqoYp3.item-2GWPIy:active:not(.disabled-2G98Nl), .container-3EtAkD, .container-3EtAkD:hover, .roleRow-230vCm:hover:not(.roleRowDisableHover-3En0vy),
 .container-2oNtJn, .roleRow-3LoHQ6:hover:not(.roleRowDisableHover-2TXfy-), .theme-dark .tierBody-1d3UiS, .upsellFooter-1H_OCF, .perksList-34peAu, .theme-dark .iconWrapper-2_MXbk,
 .theme-dark .tierInProgress-1vFUnw, .theme-dark .perksModal-CLcR1c, .theme-dark .tierMarkerBackground-G8FoN4, .copyInput-3AbKWB, .featureCard-3XHbjy, .css-xpql1x-control,
 .css-3vaxre-menu, .theme-dark .progress-1S-TDF, .backgroundOptionInner-SSz19O, .keybindShortcut-3zF1P9 span, .theme-dark .notDetected-M3Ghh2, .theme-light .notDetected-M3Ghh2,
@@ -1751,7 +1751,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .top-K_jibn .brand-2EKq3J.item-2GWPIy:hover {
     border-bottom-color: var(--mbd-accent);
 }
-.disabled-1nofHP.item-2GWPIy, .disabled-1nofHP.item-2GWPIy:hover {
+.disabled-2G98Nl.item-2GWPIy, .disabled-2G98Nl.item-2GWPIy:hover {
     color: var(--mbd-black1);
 }
 .colorDefault-CDqZdO .checkbox-hADx5o, .colorDefault-CDqZdO .radioSelection-1UHp0b {
