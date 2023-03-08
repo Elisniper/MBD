@@ -69,8 +69,11 @@
     background: var(--mbd-black2) !important;
 }
 .attachment-1PZZB2 {
-    border-color: var(--mbd-black1) !important;
-    background-color: var(--mbd-black1) !important;
+    border-color: var(--mbd-black1);
+    background-color: var(--mbd-black1);
+}
+.attachment-1PZZB2.newMosaicStyle-35X6XO, .hoverButtonGroup-2yZIzC {
+    background-color: var(--mbd-black2); 
 }
 .hljs {
     background: var(--mbd-black2);
