@@ -1561,6 +1561,9 @@
 .userProfileInnerThemedWithBanner-2624Yx .connectedAccountContainer-3aLMHJ, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .connectedAccountContainer-3aLMHJ {
     background-color: transparent;
 }
+.userProfileInnerThemedWithBanner-2624Yx .messageInputContainer-2rGDH8 .input-3O04eu, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .messageInputContainer-2rGDH8 .input-3O04eu {
+    background-color: transparent;
+}
 .theme-light textarea, .theme-light textarea:hover {
     color: var(--text-normal);
 }
