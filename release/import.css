@@ -1930,6 +1930,45 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 .lookLink-15mFoz.colorRed-rQXKgM, .lookLink-15mFoz.colorRed-rQXKgM:hover .contents-3ca1mk {
     color: var(--mbd-notification);
 }
+/* Onboarding */
+.progressBarCurrent-ea4YDg {
+    background-color: var(--mbd-accent);
+}
+.progressBarContainer-3nSoms .text-xs-medium-311pdh[style*="color: var(--text-brand);"], .addPrompt-2GYVpI .plusIcon-2tuYHJ, .addPrompt-2GYVpI .text-md-medium-2n7Vn5[style*="color: var(--text-brand);"] {
+    color: #FFF !important;
+}
+.channelList-3INSQO, .header-1ug_s9, .container-mJQ_O9, .channelRow-3V1FiH, .channelCoverage-Ix9axP, .channelCoverageDetails-3JBcxT, .container-3cFp_V, .pillItemSelected-1o_C0R,
+.actionItem-2aVT03, .resourceChannel-26Ed-C, .badExampleIcon-33kC6N, .suggestedChannels-1mEoi7, .addActionItem-2IwCLo:hover, .onboardingStepContainer-a8QN2X, .chatHeaderBar-31g1mU,
+.sidebarCardWrapper-34oCuK, .testimonialHeroContainer-18HL2a {
+    background-color: var(--mbd-black1);
+}
+.actionItemEmojiWrapper-1B2uqj, .resourceChannelIcon-EreZiJ, .addActionItem-2IwCLo:active {
+    background: var(--mbd-black2);
+}
+.formGroup-2tDVkh .lookFilled-GPyucw.select-Zz0IcO, .theme-dark .container-2IKOsH, .theme-dark .header-3xB4vB, .theme-dark .emptyPage-2TGR7j, .theme-dark .scrollerContainer-y16Rs9 {
+    background-color: var(--mbd-black2);
+}
+.channelRow-3V1FiH:hover:not(.disabled-47pull), .pillContainer-2LYUah, .reviewHeader-SY3Ueh {
+    background-color: var(--mbd-black3);
+}
+.header-29lbwR .text-xs-semibold-GgBYxI[style*="color: var(--status-danger);"] {
+    color: var(--mbd-notification) !important;
+}
+.progress-24WBU3 .progressBar-1T6LYX.xsmall-14LPsL.animating-2CraY5[style*="background-color: var(--status-danger);"] {
+    background-color: var(--mbd-notification) !important;
+}
+.divider-2rZFJK {
+    border-top: thin solid var(--mbd-black2);
+}
+.notice-2HEN-u .button-29sJG8.backButton-3I5R-E.button-ejjZWC.lookOutlined-3RTC7c.colorWhite-Eshn2o.grow-2T4nbg {
+    left: 8px;
+}
+.top-Ktfr_T .brand-2EKq3J.item-2GWPIy:hover {
+    border-bottom-color: rgb(255 255 255 / 30%);
+}
+.top-Ktfr_T .brand-2EKq3J.item-2GWPIy:active, .top-Ktfr_T .brand-2EKq3J.selected-1sf9UK.item-2GWPIy {
+    border-bottom-color: #FFF;
+}
 /* Server Settings END */
 
 /* loading circle START*/
