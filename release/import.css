@@ -323,7 +323,7 @@
     color: black;
     border-color: #d0d0d0;
 }
-.container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
+.theme-dark .container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
     background: var(--mbd-accent);
     box-shadow: 0px -1px 8px #101010;
 }
