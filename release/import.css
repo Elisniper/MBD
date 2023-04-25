@@ -224,11 +224,11 @@
     background-color: var(--mbd-accent) !important;
 }
 /* Sliders */
-.container-1QtPKm.default-colors {
+.container-1QtPKm {
     /*full off*/
     background-color: rgb(70 70 70) !important;
 }
-.container-1QtPKm.default-colors.checked-16gMAN{
+.container-1QtPKm.checked-16gMAN{
     /*full on*/
     background-color: #27693c !important;
 }
@@ -1027,7 +1027,7 @@
     left: 125px;
     width: 75%;
 }
-.progressBar-1T6LYX.small-1bZsRQ.animating-2CraY5[style*="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%);"] {
+.progressBar-3fV-Dd.small-1bZsRQ.animating-2CraY5[style*="background-color: hsl(235, calc(var(--saturation-factor, 1) * 85.6%), 64.7%);"] {
     background-color: var(--mbd-accent) !important;
 }
 .progress-xNqAjK {
@@ -1962,7 +1962,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 .header-29lbwR .text-xs-semibold-GgBYxI[style*="color: var(--status-danger);"] {
     color: var(--mbd-notification) !important;
 }
-.progress-24WBU3 .progressBar-1T6LYX.xsmall-14LPsL.animating-2CraY5[style*="background-color: var(--status-danger);"] {
+.progress-24WBU3 .progressBar-3fV-Dd.xsmall-14LPsL.animating-2CraY5[style*="background-color: var(--status-danger);"] {
     background-color: var(--mbd-notification) !important;
 }
 .notice-2HEN-u .button-29sJG8.backButton-3I5R-E.button-ejjZWC.lookOutlined-3RTC7c.colorWhite-Eshn2o.grow-2T4nbg {
@@ -2354,6 +2354,9 @@ button.sortButton-n-cIAH.button-f2h6uQ.lookFilled-yCfaCM.sizeMin-DfpWCE.grow-2sR
 .bd-switch input:checked+.bd-switch-body {
     background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 30%) !important;
     transition: 100ms ease;
+}
+.bd-switch-symbol path {
+    display: none;
 }
 .bd-select {
     background-color: var(--mbd-black1);
