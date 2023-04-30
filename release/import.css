@@ -1634,7 +1634,8 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .creatorBenefitCard-174D7Q, .emojisContainer-2aGjbS, .container-2kTWmC, .previewListItem-2VAZ-Y.selected-3KWlIC {
     background-color: var(--mbd-black3);
 }
-.fakeButton-2eEUpc, .viewServerButton-2-uqle, .checkboxCircle-C8Xapb, .editWelcomeButton-3FhsDj {
+/* Accent */
+.fakeButton-2eEUpc, .viewServerButton-2-uqle, .checkboxCircle-C8Xapb, .editWelcomeButton-3FhsDj, .colorDefault-2_rLdz .checkbox-397WsK, .colorDefault-2_rLdz .radioSelection-3PDNAQ {
     background-color: var(--mbd-accent);
 }
 .customScroller-m1-jZn>div {
