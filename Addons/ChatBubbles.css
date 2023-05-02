@@ -49,7 +49,7 @@
     margin-top: -3px;
 }
 .message-2CShn3:not(.groupStart-3Mlgv1).mentioned-Tre-dv {
-    background-color: var(--background-mentioned) !important;
+    background-color: rgb(51 45 32) !important;
 }
 .message-2CShn3.selected-2LX7Jy, .mouse-mode.full-motion .message-2CShn3:hover {
     background-color: var(--mbd-black1);
@@ -95,7 +95,7 @@
     border: 1px solid var(--mbd-black2) !important;
 }
 .mentioned-Tre-dv.message-2CShn3.groupStart-3Mlgv1 {
-    background-color: var(--background-mentioned) !important;
+    background-color: rgb(51 45 32) !important;
 }
 .button-3bklZh {
     height: 18px;
