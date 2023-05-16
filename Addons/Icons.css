@@ -1204,6 +1204,10 @@ background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm
 }
 
 /* Top Bar Icons */
+.icon-2xnN2Y, .parentChannelName-R4UlaT, .text-md-normal-304U3g.count-vTKEhF[style*="color: var(--interactive-normal);"], .caret-1le2LN, .icon-18rqoe {
+    color: #fff !important;
+}
+
 .iconWrapper-2awDjA.clickable-ZD7xvu {
     filter: drop-shadow(2px 4px 6px black);
 }
