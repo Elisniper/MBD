@@ -81,7 +81,8 @@
 .userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .topSection-13QKHs, .promotionCard-mo7ClH, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer-35U-On, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout-15UxD6, .customizationSection-IGy2fS .inputWrapper-2K8ds1 .input-3O04eu, .theme-dark .customColorPicker-C_jddW, .itemFilled-2Fo7lr,
-.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu, .premiumTrialAcknowledgedBadge-2QxbU_, .card-2guEcY:not(.outline-3kFzf8) {
+.profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu, .premiumTrialAcknowledgedBadge-2QxbU_, .card-2guEcY:not(.outline-3kFzf8), 
+.dropCriteria-UN2xbq {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -94,7 +95,7 @@
 }
 /* Black 3*/
 .theme-dark .addGamePopout-2SKNIV, .accountProfileCard-lbN7n-, .sidebarRegionScroller-FXiQOh, .connectionHeader-Ixbb1s, .theme-dark .paymentPane-ut5qKZ, 
-.itemFilled-2Fo7lr[aria-checked=true], .preview-QJ3OG3 {
+.itemFilled-2Fo7lr[aria-checked=true], .preview-QJ3OG3, .dropCard-1Mom-l {
     background-color: var(--mbd-black3);
 }
 /*
@@ -326,6 +327,9 @@
 .theme-dark .container-ZMc96U.themed-Hp1KC_, .searchBar-3TnChZ {
     background: var(--mbd-accent);
     box-shadow: 0px -1px 8px #101010;
+}
+.theme-dark .outerContainer-2qLQSo .container-ZMc96U.themed-Hp1KC_ {
+    z-index: 0;
 }
 .children-3xh0VB:after {
     background: transparent !important;
@@ -1612,7 +1616,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .collapseable-DdnHFl.toggled-3yp8ip .keywordsTextArea-3QkFoG, .collapseable-DdnHFl.toggled-3yp8ip .textArea-3KjrTT, .card-2CLwV2, .howItWorksImageContainer-3ZJ-AE, .creatorBenefitCard-2WaJRz,
 .guildCard-3JHk9F, .modalBody-3-seO3, .backgroundAccent-1MMH1o, .card-ErWTld, .formContainer-1zrOWf .inputWrapper-2K8ds1 .input-3O04eu, .howItWorksImageContainer-3U9Rdq, 
 .avatarCard-1N47yx, .guildCard-1jXMTG, .focused-3v9Ulm, .item-1Mjtru:hover:not(.disabled-Lzz-qs), .changelog-2zmJ4c, .safetyChecklist-3kgSZf, .simpleItemWrapper-1Zwc4I,
-.upsellPreview-zfsyzm {
+.upsellPreview-zfsyzm, .marginBottom20-315RVT .inputDefault-Ciwd-S.input-3O04eu {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -1929,10 +1933,10 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 .lookFilled-yCfaCM.colorRed-rQXKgM {
     background-color: var(--mbd-notification);
 }
-.cardPrimaryEditable-2mz_3i .inputDefault-Ciwd-S {
+.cardPrimary-pAe8Ed.editable-2xfXMr .inputDefault-Ciwd-S {
     background-color: var(--mbd-black2);
 }
-.cardPrimaryEditable-2mz_3i .lookFilled-GPyucw.select-Zz0IcO {
+.cardPrimary-pAe8Ed.editable-2xfXMr .lookFilled-GPyucw.select-Zz0IcO {
     background-color: var(--mbd-black2);
     border-color: var(--mbd-black2);
 }
