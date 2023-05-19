@@ -1318,6 +1318,9 @@
 .isUnread-3Lojb- {
     border-color: var(--mbd-notification);
 }
+.group-spacing-16 .divider-IqmEqJ {
+    margin: -1px 5px 0 70px;
+}
 .unreadPillCapStroke-1nE1Q8 {
     color: var(--mbd-notification);
     fill: var(--mbd-notification);
