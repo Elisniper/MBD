@@ -1179,9 +1179,16 @@
     background-color: var(--mbd-black3);
     border-radius: 0;
 }
+.temporaryMembershipContainerBackground-3PZykd, .input-3O04eu {
+    background-color: var(--mbd-black1);
+    border-radius: 0;
+}
 .checkboxWrapper-2fDzaA.checked-1pZh2h .checkbox-f1HnKB[style*="background-color: var(--brand-experiment-500);"] {
     background-color: var(--mbd-accent) !important;
     border-color: var(--mbd-accent) !important;
+}
+.body-2qXItL, .wrapper-wOVKdL, .paymentNote-3dcb-Z, .spinner-1HUPsi {
+    background-color: transparent;
 }
 .theme-dark .root-1CAIjD {
     background-color: var(--mbd-black1);
