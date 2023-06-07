@@ -948,6 +948,10 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.message-2CShn3 .select-1tJVq6 {
+    background-color: var(--mbd-black2);
+    border-color: var(--mbd-black2);
+}
 .root-1CAIjD {
     background-color: var(--mbd-black1);
 }
@@ -1307,6 +1311,9 @@
 .emojiPicker-6YCk8a {
     background-color: var(--mbd-black1);
     border-radius: 8px 0 8px 8px;
+}
+.contentWrapper-2f9yME {
+    background-color: var(--mbd-black1);
 }
 .header-11eigE {
     background-color: var(--mbd-black3);
@@ -2081,7 +2088,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
     border-radius: 0 0 6px 6px;
 }
 .subtitle-3m-md1, .text-PdAsFQ, .title-1_TkpU, .footerTitle-3Bslxi, .colorHeaderSecondary-g5teka, .title-OdeD-o, .subtitle-1cc8Nz, .skip-2hTIXL, .subtitle-bIoUVX, .title-2Giw-4, 
-.h5-2RwDNl, .uploadIcon-2wV7s_, .input-2g-os5:hover, .input-2g-os5, .sizeMin-DfpWCE, .guidelines-FvqqF2, .closeButton-2ygCkj, .close-1mLglB, .title-1LqMUp, .sampleLink-5BWNy9, 
+.h5-2RwDNl, .uploadIcon-2wV7s_, .input-2g-os5:hover, .input-2g-os5, .sizeMin-DfpWCE, .guidelines-FvqqF2, .closeButton-2ygCkj, .close-A4ZfTI:hover, .close-1mLglB, .title-1LqMUp, .sampleLink-5BWNy9, 
 .rowText-3MQqQi, .content-1OG56Q .formTitle-2YQyhj, .createGuild-2m1V10 .input-3O04eu, .createGuild-2m1V10 .label-7akf7-, .theme-dark .footer-IubaaS .button-ejjZWC .contents-3NembX {
     color: #fff;
 }
