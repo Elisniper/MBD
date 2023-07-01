@@ -95,6 +95,12 @@
 */
 
 /* New User settings update START */
+@keyframes popout {
+    from {
+    transform: scale(0.8);
+    opacity: 0; 
+    } 
+}
 .layers-1YQhyW .layer-86YKbF.baseLayer-W6S8cY {
     opacity: 1 !important;
     transform: none !important;
@@ -116,6 +122,8 @@
     background: var(--black-500);
     z-index: 1000;
     transition: 150ms ease-in-out;
+    animation: popout 300ms cubic-bezier(0.4, 0, 0, 1), opacity 100ms ease 100ms backwards;
+
 }
 .layer-86YKbF .standardSidebarView-E9Pc3j {
     top: 0;
@@ -1329,7 +1337,7 @@
     background-color: var(--mbd-black3);
     border-radius: 0;
 }
-.temporaryMembershipContainerBackground-3PZykd, .input-3O04eu {
+.footer-Ql9fbL .input-3O04eu {
     background-color: var(--mbd-black1);
     border-radius: 0;
 }
@@ -1607,6 +1615,10 @@
 .guildSection-2Zyzy8 {
     background-color: var(--mbd-black1);
 }
+.guestBody-1S2A2E .lookFilled-GPyucw.select-Zz0IcO, .settingsContent-1BWQwf .lookFilled-GPyucw.select-Zz0IcO {
+    background-color: var(--mbd-black2);
+    border-color: var(--mbd-black2);
+}
 /* Sticker popout */
 .containerBackground-Ang24O {
     background-color: var(--mbd-black1);
@@ -1853,6 +1865,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .scroller-3u_s5m {
     overflow: hidden overlay !important;
     border-radius: 5px;
+    animation: popout 300ms cubic-bezier(0.4, 0, 0, 1), opacity 100ms ease 100ms backwards;
 }
 .stop-animations .title-31SJ6t {
     -webkit-app-region: unset;
@@ -1871,6 +1884,18 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 }
 .wrapper-2r1p30, .innerWrapper-MqFL7z, .topPerksCard-1znJI8 {
     background-color: var(--mbd-black2);
+}
+.root-2zfUH6.enter-1dUUmT {
+    opacity: 1;
+}
+.root-2zfUH6:has(.scroller-3u_s5m) {
+    opacity: 0;
+}
+.root-2zfUH6.enterDone-menWZ8 {
+    opacity: 1;
+}
+.bodyWave-wQyWfY path[d="M0,1619c507-247.2,1154.7-241,1512-194.7V548.5c-150.9,56.4-400.3,51.2-691-222.6C506.6,29.9,186.8-16.5,0,4.3 V1619z"] {
+    fill: transparent !important;
 }
 /* Server Boost page END */
 
