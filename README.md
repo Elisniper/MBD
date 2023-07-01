@@ -21,3 +21,7 @@ MBD does not actively support all plugins and does not seek out theme fixes for 
 ![](https://github.com/Elisniper/MBD/blob/main/resources/Image%202.PNG?raw=true)
 ## User Setting
 ![](https://github.com/Elisniper/MBD/blob/main/resources/Image%203.PNG?raw=true)
+## Server Discovery
+![](https://github.com/Elisniper/MBD/blob/main/resources/Image%204.PNG?raw=true)
+## Server Forums
+![](https://github.com/Elisniper/MBD/blob/main/resources/Image%205.PNG?raw=true)
