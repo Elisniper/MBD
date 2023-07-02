@@ -145,7 +145,8 @@
 .tools-kIrEGr .closeButton-PCZcma {
     transform: none;
 }
-.layers-OrUESM .layer-86YKbF:not(.baseLayer-W6S8cY) .closeButton-PCZcma, .layers-OrUESM .layer-86YKbF:not(.baseLayer-W6S8cY) .tools-kIrEGr {
+.layers-OrUESM .layer-86YKbF:not(.baseLayer-W6S8cY) .closeButton-PCZcma, .layers-OrUESM .layer-86YKbF:not(.baseLayer-W6S8cY) .tools-kIrEGr,
+.layers-OrUESM .layer-86YKbF:not(.baseLayer-W6S8cY) .tools-kIrEGr .keybind-13vtq8 {
     z-index: -1;
 }
 .contentRegionScroller-2_GT_N .toolsContainer-25FL6V {
