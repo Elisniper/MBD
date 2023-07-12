@@ -75,7 +75,7 @@
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer-35U-On, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout-15UxD6, .customizationSection-IGy2fS .inputWrapper-2K8ds1 .input-3O04eu, .theme-dark .customColorPicker-C_jddW, .itemFilled-2Fo7lr,
 .profileCustomizationSection-53kreU .bioTextArea-dDGOeC, .children-2C96Ex .input-3O04eu, .premiumTrialAcknowledgedBadge-2QxbU_, .card-2guEcY:not(.outline-3kFzf8), 
-.dropCriteria-UN2xbq {
+.dropCriteria-UN2xbq, .container-2WMFjc, .container-jV-A82, .container-1iKw09, .box-3QCU9H, .enableCard-707m1C {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -83,7 +83,7 @@
 .addressSection-3-7v_3 .children-1xdcWE .inputWrapper-1YNMmM .inputDefault-3FGxgL, .addressSection-3-7v_3 .lookFilled-1GseHa.select-1Ia3hD, 
 .theme-dark .hoverablePayment-lE1s4t:hover, .theme-dark .expandedInfo-1W31i3, .accountBtn-3pgcgr .accountBtnInner-3ttD-i, .pencilContainer-18TrEJ:hover, 
 .option-Uc12mm[aria-selected=true]:not(.option-Uc12mm.multi-2vPqc4), .option-Uc12mm.focused-10mbp-, .option-Uc12mm:focus, .option-Uc12mm:hover, 
-.customColorPicker-C_jddW .input-3O04eu {
+.customColorPicker-C_jddW .input-3O04eu, .row-XYkFDK, .stepNumber-1OYCPJ {
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
@@ -498,8 +498,8 @@
     top: 0;
 }
 .closeButton-30b1gR {
-    top: 5px;
-    right: 24px;
+    top: 8px;
+    right: 110px;
 }
 .button-YGmtzG:hover {
     background-color: #fff;
@@ -739,6 +739,10 @@
 }
 .container-32HW5s[aria-posinset="2"]:nth-child(4) .interactive-iyXY_x {
     padding-bottom: 0;
+}
+/* Family Center */
+.contentPanel-2uDEUG {
+    background-color: var(--mbd-black2);
 }
 /* Friends, Nitro and Public server buttons END */
 .container-3tKtM_ {
