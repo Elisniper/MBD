@@ -679,11 +679,10 @@
     left: 36px;
 }
 /* Nitro Promotion/Trial badge */
-.container-32HW5s[aria-posinset="2"] .interactive-iyXY_x .premiumTrialBadge-pEqntF {
+.container-32HW5s[aria-posinset="2"] .interactive-iyXY_x .nitroTabBadgeContainer-1EIXgy {
     position: relative;
-    left: -11px;
-    bottom: 5px;
-    color: #989aa2;
+    left: -3px;
+    bottom: 3px;
 }
 .container-32HW5s[aria-posinset="2"] .interactive-iyXY_x .premiumTrialAcknowledgedBadge-2QxbU_ {
     width: 88%;
