@@ -178,7 +178,6 @@
 .contentTransitionWrap-1YD530 {
     flex: 1;
     position: absolute;
-    padding-left: 55px;
     height: 100%;
     width: 100%;
 }
@@ -1914,6 +1913,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 }
 .contentRegion-3HkfJJ {
     justify-content: space-evenly;
+    padding-left: 95px;
 }
 .theme-dark .headerClickable-zGQJz3, .theme-dark .headerDefault-1e6yjj {
     background-color: var(--mbd-black1);
