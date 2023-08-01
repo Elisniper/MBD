@@ -452,6 +452,9 @@
     /* top bar controlls while in DM/Group call */
     height: 52px;
 }
+.headerWrapper-1ULEPv .subtitleContainer-2rgtRP {
+    height: inherit;
+}
 .headerWrapper-1ULEPv .container-ZMc96U.transparent-1lUmft {
     height: inherit;
 }
