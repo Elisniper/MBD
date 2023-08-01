@@ -306,9 +306,23 @@
 .checkmarkCircle-2LCcdI .checkmark-1RtODZ {
     color: var(--mbd-accent);
 }
+/* Nitro Theme Preview */
 .themeEditor-1Ebyfp {
     background: var(--mbd-black1);
     border-left: 5px solid var(--mbd-accent);
+}
+.themeEditor-1Ebyfp .editorHeader-2JoQo4 {
+    width: fit-content;
+    position: relative;
+    top: -3px;
+    padding: 0 0 0 8px;
+}
+.themeEditor-1Ebyfp .closeCircleButton-32v2CJ {
+    right: -27px;
+    top: 3px;
+}
+.themeEditor-1Ebyfp .editorBody-1rnOXH {
+    padding: 0 16px !important;
 }
 /* User Settings Menu END */
 
@@ -439,6 +453,14 @@
 .videoControls-353CsJ .title-31SJ6t .toolbar-3_r2xA {
     /* top toolbar controlls while in DM/Group call */
     margin-right: 80px;
+}
+.appAsidePanelWrapper-ev4hlp:has(.themeEditor-1Ebyfp) .toolbar-3_r2xA {
+    /* top toolbar controlls while Nitro Theme preview window is open */
+    margin-right: 0;
+}
+.appMount-2yBXZl:not(:has(.titleBar-1it3bQ)) .toolbar-3_r2xA, .appMount-2yBXZl:not(:has(.titleBar-1it3bQ)) .chatButton-10jXXp:has(path[d="M4.79805 3C3.80445 3 2.99805 3.8055 2.99805 4.8V15.6C2.99805 16.5936 3.80445 17.4 4.79805 17.4H7.49805V21L11.098 17.4H19.198C20.1925 17.4 20.998 16.5936 20.998 15.6V4.8C20.998 3.8055 20.1925 3 19.198 3H4.79805Z"]) {
+    /* top toolbar controlls while fullscreen mode */
+    margin-right: 0;
 }
 .toolbar-3_r2xA .divider-q3P9HC {
     /* top toolbar divider */
