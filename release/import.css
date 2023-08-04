@@ -2238,16 +2238,17 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .channelList-3INSQO, .header-1ug_s9, .container-mJQ_O9, .channelRow-3V1FiH, .channelCoverage-Ix9axP, .channelCoverageDetails-3JBcxT, .container-3cFp_V, .pillItemSelected-1o_C0R,
 .actionItem-2aVT03, .resourceChannel-26Ed-C, .badExampleIcon-33kC6N, .suggestedChannels-1mEoi7, .addActionItem-2IwCLo:hover, .onboardingStepContainer-a8QN2X, .chatHeaderBar-31g1mU,
-.sidebarCardWrapper-34oCuK, .testimonialHeroContainer-18HL2a {
+.sidebarCardWrapper-34oCuK, .testimonialHeroContainer-18HL2a, .row--LCpto, .prompt-R8SyL4, .userCardInner-3c42YR, .clickableAction-2q3H52:hover .action-3oG-si {
     background-color: var(--mbd-black1);
 }
 .actionItemEmojiWrapper-1B2uqj, .resourceChannelIcon-EreZiJ, .addActionItem-2IwCLo:active {
     background: var(--mbd-black2);
 }
-.formGroup-2tDVkh .lookFilled-GPyucw.select-Zz0IcO, .theme-dark .container-2IKOsH, .theme-dark .header-3xB4vB, .theme-dark .emptyPage-2TGR7j, .theme-dark .scrollerContainer-y16Rs9 {
+.formGroup-2tDVkh .lookFilled-GPyucw.select-Zz0IcO, .theme-dark .container-2IKOsH, .theme-dark .header-3xB4vB, .theme-dark .emptyPage-2TGR7j, .theme-dark .scrollerContainer-y16Rs9,
+.termsFieldBody-2nQ2cD, .navButtons-R_NSvX {
     background-color: var(--mbd-black2);
 }
-.channelRow-3V1FiH:hover:not(.disabled-47pull), .pillContainer-2LYUah, .reviewHeader-SY3Ueh {
+.channelRow-3V1FiH:hover:not(.disabled-47pull), .pillContainer-2LYUah, .reviewHeader-SY3Ueh, .row--LCpto:hover {
     background-color: var(--mbd-black3);
 }
 .header-29lbwR .text-xs-semibold-GgBYxI[style*="color: var(--status-danger);"] {
@@ -2264,6 +2265,13 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 }
 .top-Ktfr_T .brand-2EKq3J.item-2GWPIy:active, .top-Ktfr_T .brand-2EKq3J.selected-1sf9UK.item-2GWPIy {
     border-bottom-color: #FFF;
+}
+.optionButtonWrapper-2lbogO.selected-KQBgNS {
+    background-color: var(--mbd-black2);
+    border-color: var(--mbd-black2);
+}
+.optionButtonWrapper-2lbogO .checkIcon-3eAeN_ {
+    background-color: var(--mbd-accent);
 }
 /* Server Settings END */
 
@@ -2595,11 +2603,11 @@ button.sortButton-n-cIAH.button-f2h6uQ.lookFilled-yCfaCM.sizeMin-DfpWCE.grow-2sR
 }
 /* Discord forum channels END */
 
-/* Discord Browse Channels START*/
-.container-27tlK1, .channelRow-4X_3fi {
+/* Discord Browse Channels & Roles START */
+.container-27tlK1, .channelRow-4X_3fi, .profileCard-2gVmvm, .prompt-1sE27N {
     background-color: var(--mbd-black1);
 }
-.theme-dark .container-1um7CU {
+.theme-dark .container-1um7CU, .role-3uAPnQ {
     background-color: var(--mbd-black2);
 }
 .channelRow-4X_3fi:hover:not(.disabled-3cfocy) {
@@ -2626,7 +2634,7 @@ button.sortButton-n-cIAH.button-f2h6uQ.lookFilled-yCfaCM.sizeMin-DfpWCE.grow-2sR
     background-color: var(--mbd-accent) !important;
     border-color: var(--mbd-accent) !important;
 }
-/* Discord Browse Channels END*/
+/* Discord Browse Channels & Roles END */
 
 /*BD Settings START*/
 .monaco-editor .margin {
