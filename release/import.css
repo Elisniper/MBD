@@ -667,7 +667,7 @@
 }
 /* Black 3*/
 .privateChannels-oVe7HL .scroller-WSmht3, .footer-C9oLp9, .container-1SX9VC, .header-1w9Q93, .theme-dark .bd-server-card:hover, .theme-dark .bd-server-card:focus,
-.birthdayExplanationWrapper-c5wg5T {
+.birthdayExplanationWrapper-c5wg5T, .selected-5uRER3 {
     background-color: var(--mbd-black3);
 }
 /*
@@ -1137,6 +1137,12 @@
 .message-2CShn3 .select-1tJVq6 {
     background-color: var(--mbd-black2);
     border-color: var(--mbd-black2);
+}
+.compactButton-3hG-bs {
+    background-color: var(--mbd-black1);
+}
+.hamBanner-2jDGhV {
+    background-color: var(--mbd-black1);
 }
 .root-1CAIjD {
     background-color: var(--mbd-black1);
