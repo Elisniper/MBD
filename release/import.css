@@ -1858,6 +1858,47 @@
 }
 /* Server Search Tab END*/
 
+/* Server Members channel START */
+.sidebar-2rB69-, .theme-dark .container-2qjEOK, .theme-dark .page-2dwf_i, .theme-dark .sidebar-2rB69- {
+    background-color: var(--mbd-black2);
+}
+.mainTableContainer-3Nxvkd {
+    background-color: var(--mbd-black1);
+}
+.pageSizeSelection--FwCJx .lookFilled-GPyucw.select-Zz0IcO {
+    background-color: var(--mbd-black2);
+    border-color: var(--mbd-black2);
+}
+.pageButton-uta6J3:hover {
+    background-color: var(--mbd-black2);
+}
+.theme-dark .activeButton-2K2Fwx, .theme-dark .activeButton-2K2Fwx:hover {
+    background-color: var(--mbd-accent);
+}
+.button-2XiUpU {
+    background-color: var(--mbd-black2);
+}
+.button-2XiUpU:hover {
+    background-color: var(--mbd-black1);
+}
+.memberRowContainer-ZDlmmA:hover td {
+    background-color: var(--mbd-black2);
+}
+.otherRoles-LMys1u {
+    background-color: var(--mbd-black2);
+}
+.memberRowContainer-ZDlmmA:hover td .otherRoles-LMys1u {
+    background-color: var(--mbd-black1);
+    transition: 80ms ease-in-out;
+}
+.lookOutlined-3RTC7c.colorRed-2VFhM4 {
+    border-color: var(--mbd-notification);
+}
+.memberRowContainer-ZDlmmA {
+    background-color: transparent !important;
+}
+/* Server Members channel END */
+
 /* Server Settings START */
 /*COLOR CHANGES*/
 /* Black 1*/
