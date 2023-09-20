@@ -1918,7 +1918,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .collapseable-DdnHFl.toggled-3yp8ip .keywordsTextArea-3QkFoG, .collapseable-DdnHFl.toggled-3yp8ip .textArea-3KjrTT, .card-2CLwV2, .howItWorksImageContainer-3ZJ-AE, .creatorBenefitCard-2WaJRz,
 .guildCard-3JHk9F, .modalBody-3-seO3, .backgroundAccent-1MMH1o, .card-ErWTld, .formContainer-1zrOWf .inputWrapper-2K8ds1 .input-3O04eu, .howItWorksImageContainer-3U9Rdq, 
 .avatarCard-1N47yx, .guildCard-1jXMTG, .focused-3v9Ulm, .item-1Mjtru:hover:not(.disabled-Lzz-qs), .changelog-2zmJ4c, .safetyChecklist-3kgSZf, .simpleItemWrapper-1Zwc4I,
-.upsellPreview-zfsyzm, .marginBottom20-315RVT .inputDefault-Ciwd-S.input-3O04eu {
+.upsellPreview-zfsyzm, .contentColumnDefault-3eyv5o .inputDefault-Ciwd-S.input-3O04eu {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -2512,7 +2512,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dy
 
 /* Account Switch START */
 .list-3-WAYB {
-    background-color: var(--mbd-black1);
+    background-color: var(--mbd-black2);
 }
 .theme-dark.authBox-1HR6Ha {
     color: #72767d;
