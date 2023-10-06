@@ -1932,7 +1932,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .collapseable-DdnHFl, .collapseable-DdnHFl.toggled-3yp8ip:active, .triggerMainContainer-274ue5 .keywordsTextArea-3QkFoG, .ruleIconContainer-dXW56-, .guildSidebar-25nAoF, .formFieldWrapper-3IiCRS,
 .howItWorksContainer-2zbci6, .avatarCard-1fqGQ0, .cardPrimaryEditable-2mz_3i .role-2TIOKu, .viewServerButton-29xbQE, .subscriberCountText-2UmR-T, .subscriberCountValue-LI_0MN,
 .intentsContainer-FHJBSg, .theme-dark .footer-1KGV6y .inputWrapper-2K8ds1 .inputDefault-Ciwd-S, .content-1OG56Q .input-3O04eu, .marginBottom20-315RVT .input-3O04eul,
-.previewListItem-2VAZ-Y, .action-3oG-si, .titleInput-2MGOZZ {
+.previewListItem-2VAZ-Y, .action-3oG-si, .titleInput-2MGOZZ, .bannedUser-1IrKtC:hover {
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
@@ -1940,7 +1940,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .wrapper-24fR1R:focus-within, .wrapper-24fR1R:hover, .backgroundModifierContainer-WjXgb2:hover:not(.disabled-3Q7kTN):not(.noAction-3PygTY),
 .collapseable-DdnHFl.toggled-3yp8ip .clickableContainer-3YtEIY.groupHeaderRow-19NZvU, .backgroundModifierContainer-WjXgb2.selected-2f8_FP, 
 .backgroundModifierContainer-WjXgb2:active:not(.disabled-3Q7kTN):not(.noAction-3PygTY), .collapseable-DdnHFl:active, .modalHeader-1hF3w-, .howItWorksContainer-3ZDRIG, 
-.creatorBenefitCard-174D7Q, .emojisContainer-2aGjbS, .container-2kTWmC, .previewListItem-2VAZ-Y.selected-3KWlIC {
+.creatorBenefitCard-174D7Q, .emojisContainer-2aGjbS, .container-2kTWmC, .previewListItem-2VAZ-Y.selected-3KWlIC, .scrollerContainer-20PD88, .bannedUser-1IrKtC {
     background-color: var(--mbd-black3);
 }
 /* Accent */
