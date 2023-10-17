@@ -327,10 +327,10 @@
 /* User Settings Menu END */
 
 /* Title bar START */
-.appMount-2yBXZl, body, .titleBar-1it3bQ, .bg-1QIAus {
+.appMount-2yBXZl, body, .titleBar-3AIemB, .bg-1QIAus {
     background-color: var(--mbd-black2);
 }
-.titleBar-1it3bQ {
+.titleBar-3AIemB {
     z-index: 10000;
     position: absolute;
     margin: 0;
@@ -338,12 +338,12 @@
     height: 15px;
     background-color: transparent;
 }
-.wordmarkWindows-2dq6rw {
+.wordmarkWindows-1rsity {
     /* Hide Discord watermark */
     display: none;
 }
 /* Title bar control buttons */
-.winButton-3UMjdg {
+.winButton-3SigSb {
     position: relative;
     top: 12px;
     border-radius: 50%;
@@ -355,7 +355,7 @@
     transition: 100ms ease-in-out;
     color: #FFF;
 }
-.titleBar-1it3bQ:after {
+.titleBar-3AIemB:after {
     content: '';
     position: absolute;
     right: 0;
@@ -363,7 +363,7 @@
     height: 52px;
     z-index: 5;
 }
-.titleBar-1it3bQ:before {
+.titleBar-3AIemB:before {
     content: '';
     position: absolute;
     right: 87px;
@@ -374,47 +374,47 @@
     z-index: 5;
 }
 /* Close */
-.winButtonClose-3Q8ZH5 svg {
+.winButtonClose-23zAIt svg {
     stroke-width: 1px;
     stroke: #FFF;
     transition: 100ms ease-in-out;
 }
-.winButtonClose-3Q8ZH5:hover {
+.winButtonClose-23zAIt:hover {
     background-color: rgb(181 181 181 / 20%);
     transition: 100ms ease-in-out;
     color: transparent;
 }
-.winButtonClose-3Q8ZH5:active {
+.winButtonClose-23zAIt:active {
     background: rgb(181 181 181 / 25%);
 }
-.winButtonClose-3Q8ZH5:hover svg {
+.winButtonClose-23zAIt:hover svg {
     stroke: rgb(250 0 32);
     transition: 100ms ease-in-out;
 }
-.winButtonClose-3Q8ZH5:active svg {
+.winButtonClose-23zAIt:active svg {
     stroke: rgb(250 0 32);
 }
 /* Maximaze */
-.titleBar-1it3bQ .winButtonMinMax-3RsPUg:nth-child(3) svg {
+.titleBar-3AIemB .winButtonMinMax-nT2Irc:nth-child(3) svg {
     width: 6px;
     height: 6px;
     border: 1px solid;
     border-width: 2px;
     border-radius: 0px;
 }
-.winButtonMinMax-3RsPUg:hover {
+.winButtonMinMax-nT2Irc:hover {
     background: rgb(181 181 181 / 20%);
     color: #FFF;
     transition: 100ms ease-in-out;
 }
-.winButtonMinMax-3RsPUg:active {
+.winButtonMinMax-nT2Irc:active {
     background: rgb(181 181 181 / 25%);
 }
-.titleBar-1it3bQ .winButtonMinMax-3RsPUg:nth-child(3) rect {
+.titleBar-3AIemB .winButtonMinMax-nT2Irc:nth-child(3) rect {
     display: none;
 }
 /* Minamize* */
-.titleBar-1it3bQ .winButtonMinMax-3RsPUg:nth-child(4) rect {
+.titleBar-3AIemB .winButtonMinMax-nT2Irc:nth-child(4) rect {
     height: 2px;
 }
 /* Tittle bar END */
@@ -450,15 +450,15 @@
     /* top toolbar voice/video chat button */
     margin-right: 80px;
 }
-.videoControls-353CsJ .title-31SJ6t .toolbar-3_r2xA {
+.videoControls-353CsJ .title-5wgnIa .toolbar-3_r2xA {
     /* top toolbar controlls while in DM/Group call */
     margin-right: 80px;
 }
-.appAsidePanelWrapper-ev4hlp:has(.themeEditor-1Ebyfp) .toolbar-3_r2xA {
+.appAsidePanelWrapper-VeklAl:has(.themeEditor-1Ebyfp) .toolbar-3_r2xA {
     /* top toolbar controlls while Nitro Theme preview window is open */
     margin-right: 0;
 }
-.appMount-2yBXZl:not(:has(.titleBar-1it3bQ)) .toolbar-3_r2xA, .appMount-2yBXZl:not(:has(.titleBar-1it3bQ)) .chatButton-10jXXp:has(path[d="M4.79805 3C3.80445 3 2.99805 3.8055 2.99805 4.8V15.6C2.99805 16.5936 3.80445 17.4 4.79805 17.4H7.49805V21L11.098 17.4H19.198C20.1925 17.4 20.998 16.5936 20.998 15.6V4.8C20.998 3.8055 20.1925 3 19.198 3H4.79805Z"]) {
+.appMount-2yBXZl:not(:has(.titleBar-3AIemB)) .toolbar-3_r2xA, .appMount-2yBXZl:not(:has(.titleBar-3AIemB)) .chatButton-10jXXp:has(path[d="M4.79805 3C3.80445 3 2.99805 3.8055 2.99805 4.8V15.6C2.99805 16.5936 3.80445 17.4 4.79805 17.4H7.49805V21L11.098 17.4H19.198C20.1925 17.4 20.998 16.5936 20.998 15.6V4.8C20.998 3.8055 20.1925 3 19.198 3H4.79805Z"]) {
     /* top toolbar controlls while fullscreen mode */
     margin-right: 0;
 }
@@ -941,10 +941,10 @@
 /*Nitro Main END*/
 
 /* DM/Group calls START*/
-.content-1jQy2l .userProfileInner-1ngKnf:before {
+.content-18rAwf .userProfileInner-1ngKnf:before {
     background-color: var(--mbd-black4);
 }
-.content-1jQy2l .overlayBackground-2aa7wt {
+.content-18rAwf .overlayBackground-2aa7wt {
     background-color: var(--mbd-black1);
 }
 .profilePanel-2PWEok {
@@ -1116,21 +1116,21 @@
 /* Server List END */
 
 /* User Controlls START */
-.panels-3wFtMD .container-YkUktl, .panels-3wFtMD .container-1zzFcN, .panels-3wFtMD .activityPanel-9icbyU {
+.panels-3wFtMD .container-1CH86i, .panels-3wFtMD .container-2NLBJg, .panels-3wFtMD .activityPanel-9icbyU {
     background-color: var(--mbd-black4);
     box-shadow: 0 1px 8px #101010;
 }
-.container-YkUktl {
+.container-1CH86i {
     height: 67px;
 }
 .badge-370Op6 {
     background-color: var(--mbd-black1);
 }
-.withTagAsButton-OsgQ9L:hover, .withTagless-10ooWt:hover {
+.withTagAsButton-2_JkHX:hover, .withTagless-Lx3LMo:hover {
     background-color: var(--mbd-black1);
 }
-.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx, 
-.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx:hover {
+.button-2gNyE9.buttonColor-1PCuWq.buttonActive-1YQBrb, .button-2gNyE9 .buttonColor-1PCuWq.buttonActive-1YQBrb, 
+.button-2gNyE9.buttonColor-1PCuWq.buttonActive-1YQBrb:hover, .button-2gNyE9 .buttonColor-1PCuWq.buttonActive-1YQBrb:hover {
     background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 30%);
 }
 /* User Controlls END */
@@ -1150,7 +1150,7 @@
 .root-1CAIjD {
     background-color: var(--mbd-black1);
 }
-.chat-2ZfjoI {
+.chat-9g_3Xj {
     background: var(--mbd-black2);
 }
 .communityInfoPill-2Mll66 {
@@ -1198,11 +1198,11 @@
 .scroller-1ox3I2 {
     background-color: var(--mbd-black3);
 }
-.container-2o3qEW, .membersWrap-3NUR2t, .membersWrap-3NUR2t {
+.container-2vWgD2, .membersWrap-3GwLFp, .membersWrap-3GwLFp {
     background-color: var(--mbd-black4);
     box-shadow: 0 1px 8px #101010;
 }
-.container-2o3qEW {
+.container-2vWgD2 {
     z-index: 0;
 }
 .theme-dark .children-19S4PO:after {
@@ -1211,7 +1211,7 @@
 .scroller-kQBbkU {
     background-color: var(--mbd-black2);
 }
-.form-3gdLxP {
+.form-3qe0Ni {
     border-top: none;
     margin: 0;
     padding-left: 10px;
@@ -1227,26 +1227,26 @@
 .buffer-3eVqKK, .buffer-3eVqKK:after, .buffer-3eVqKK:before {
     background-color: var(--mbd-black1);
 }
-.form-3gdLxP {
+.form-3qe0Ni {
     background-color: var(--mbd-black2);
 }
-.form-3gdLxP {
+.form-3qe0Ni {
     background-color: var(--mbd-black2);
 }
-.form-3gdLxP:before {
+.form-3qe0Ni:before {
     background: transparent !important;
 }
 .scrollableContainer-15eg7h .divider-2rZFJK {
     bottom: 11px;
 }
-.channelTextArea-1FufC0 .scrollableContainer-15eg7h {
+.channelTextArea-1deLlK .scrollableContainer-15eg7h {
     background-color: var(--mbd-black4);
     scrollbar-width: none;
     padding-top: 12px;
     padding-bottom: 12px;
     border-radius: 0;
 }
-.channelTextArea-1FufC0 {
+.channelTextArea-1deLlK {
     right: 10px;
     margin-bottom: 0;
     background-color: var(--mbd-black4);
@@ -1323,7 +1323,7 @@
 .clipContainer-31nYlH {
     padding-top: 13px;
 }
-.wrapper-2SplAX {
+.wrapper-IjGAlW {
     position: relative;
     z-index: 1;
     left: -10px;
@@ -1680,7 +1680,7 @@
     background-color: var(--mbd-black2);
 }
 /* Threads & Events */
-.container-3XgAHv {
+.container-3s2w-i {
     background: var(--mbd-black2);
     border-radius: 0;
 }
@@ -1689,10 +1689,10 @@
     width: 100%;
     border-radius: 0;
 }
-.chat-2ZfjoI.threadSidebarOpen-1LSXvU {
+.chat-9g_3Xj.threadSidebarOpen-lv7sGl {
     border-radius: 0;
 }
-.resizeHandle-PBRzPC {
+.resizeHandle-2F4Beb {
     background-color: var(--mbd-accent);
 }
 .iconWrapper-3plkqh {
@@ -1817,7 +1817,7 @@
 .buttonColor-XIRMbp {
     background-color: var(--mbd-accent);
 }
-.member-48YF_l, .members-3WRCEx {
+.member-2iQhp7, .members-2y1nVj {
     background-color: var(--mbd-black4);
 }
 .userProfileInnerThemedNonPremium-2AJg-H .role-2TIOKu {
@@ -1954,7 +1954,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
     border-radius: 5px;
     animation: popout 300ms cubic-bezier(0.4, 0, 0, 1), opacity 100ms ease 100ms backwards;
 }
-.stop-animations .title-31SJ6t {
+.stop-animations .title-5wgnIa {
     -webkit-app-region: unset;
 }
 .header-1aIywd {
@@ -2657,7 +2657,7 @@ button.sortButton-n-cIAH.button-f2h6uQ.lookFilled-yCfaCM.sizeMin-DfpWCE.grow-2sR
 .newPostsButton-UaBhcU .text-md-medium-2avxhQ {
     color: #1863d2 !important;
 }
-.chat-2ZfjoI.threadSidebarOpen-1LSXvU .toolbar-3_r2xA {
+.chat-9g_3Xj.threadSidebarOpen-lv7sGl .toolbar-3_r2xA {
     margin-right: 0;
 }
 /* Discord forum channels END */
