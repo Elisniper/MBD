@@ -4,28 +4,28 @@
     opacity: 0; 
     } 
 }
-.container-YkUktl .avatarWrapper-1B9FTW[aria-expanded="true"]:before  {
+.container_ca50b9 .avatarWrapper_ba5175[aria-expanded="true"]:before  {
     transform: scale(1); 
 }
-.menu-1QACrS[id="status-picker"] .description-3Cwkxk {
+.menu_dc52c6[id="status-picker"] .description__76091 {
     display: none;
 }
-.menu-1QACrS[id="status-picker"] .separator-1So4YB {
+.menu_dc52c6[id="status-picker"] .separator-1So4YB {
     display: none;
 }
-.menu-1QACrS[id="status-picker"] .scroller-1bVxF5 {
+.menu_dc52c6[id="status-picker"] .scroller-1bVxF5 {
     background: transparent !important;
     box-shadow: none !important;
 
 }
-.menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-online"] .statusItem-2hiCNB {
+.menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-online"] .statusItem__3440f {
     margin-right: 6px;
 }
-.menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-idle"] .statusItem-2hiCNB, .menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-dnd"] .statusItem-2hiCNB, .menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-invisible"] .statusItem-2hiCNB {
+.menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-idle"] .statusItem__3440f, .menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-dnd"] .statusItem__3440f, .menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-invisible"] .statusItem__3440f {
     margin-right: 6px;
     margin-left: 5px;
 }
-.container-YkUktl .avatarWrapper-1B9FTW:before {
+.container_ca50b9 .avatarWrapper_ba5175:before {
     content: " ";
     display: block;
     position: fixed;
@@ -40,7 +40,7 @@
     box-shadow: 0 -5px 10px rgb(42 42 42 / 20%);
     z-index: 10;
 }
-.menu-1QACrS[id="status-picker"] {
+.menu_dc52c6[id="status-picker"] {
     background: transparent !important;
     box-shadow: none !important;
     width: 247px;
@@ -51,7 +51,7 @@
     transition: 300ms cubic-bezier(0.4, 0, 0, 1.1);
     animation: status-animation 300ms cubic-bezier(0.4, 0, 0, 1), opacity 100ms ease 100ms backwards;
 }
-.menu-1QACrS[id="status-picker"] .statusItem-2hiCNB {
+.menu_dc52c6[id="status-picker"] .statusItem__3440f {
     position: relative;
     color: transparent;
     float: left;
@@ -63,68 +63,68 @@
     transition: 180ms ease;
     z-index: 10;
 }
-.menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-online"] .status-2DiCMd {
+.menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-online"] .status-2DiCMd {
     background-color: #43B581 !important;
 }
-.menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-idle"] .status-2DiCMd {
+.menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-idle"] .status-2DiCMd {
 background-color: #FAA61A !important;
 }
-.menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-dnd"] .status-2DiCMd {
+.menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-dnd"] .status-2DiCMd {
     background-color: #F04747 !important;
 }
-.menu-1QACrS[id="status-picker"] .item-1OdjEX[id="status-picker-invisible"] .status-2DiCMd {
+.menu_dc52c6[id="status-picker"] .item-1OdjEX[id="status-picker-invisible"] .status-2DiCMd {
     background-color: var(--mbd-black1) !important;
 }
 
-.menu-1QACrS[id="status-picker"] .statusItem-2hiCNB:hover .icon-Lz4Y-_ {
+.menu_dc52c6[id="status-picker"] .statusItem__3440f:hover .icon_a65286 {
     opacity: 1;
     transform: scale(1.1);
     transition: all 200ms cubic-bezier(0, 0, 0, 1);
     z-index: 2;
 }
-.menu-1QACrS[id="status-picker"] .icon-Lz4Y-_ {
+.menu_dc52c6[id="status-picker"] .icon_a65286 {
     position: fixed;
     width: 32px;
     height: 32px;
 }
-.statusItem-2hiCNB[aria-label="Set a custom status"] {
+.statusItem__3440f[aria-label="Set a custom status"] {
     width: 100% !important;
     height: 32px !important;
     opacity: 0.6;
     top: -10px;
 }
-.statusItem-2hiCNB[aria-label="Set a custom status"]:hover {
+.statusItem__3440f[aria-label="Set a custom status"]:hover {
     opacity: 1;
     transition: 300ms ease;
 }
-.statusItem-2hiCNB[aria-label="Set a custom status"] .status-3TYC5W {
+.statusItem__3440f[aria-label="Set a custom status"] .status__0fce8 {
     color: #FFF;
     width: 115px;
 }
-.statusItem-2hiCNB[aria-label="Switch Accounts"] {
+.statusItem__3440f[aria-label="Switch Accounts"] {
     height: 100% !important;
     width: 100% !important;
     top: 1px;
     color: #FFF !important;
     opacity: 0.6;
 }
-.colorDefault-CDqZdO.focused-3qFvc8 .statusItem-2hiCNB[aria-label="Switch Accounts"] {
+.colorDefault-CDqZdO.focused-3qFvc8 .statusItem__3440f[aria-label="Switch Accounts"] {
     opacity: 1;
     transition: 200ms ease;
 }
-.clearStatusButton-GXA1lF[aria-label="Clear Status"] {
+.clearStatusButton__9346b[aria-label="Clear Status"] {
     color: rgb(100 100 100);
 }
-.customStatusItem-1qQzss.statusItem-2hiCNB, .customStatusWithEmoji-Y8lMLP.statusItem-2hiCNB {
+.customStatusItem__4ab00.statusItem__3440f, .customStatusWithEmoji_a585de.statusItem__3440f {
     width: 100% !important;
     height: 32px !important;
     top: -10px;
 }
-.customText-36Uwzc {
+.customText_c502ea {
     width: 100%;
     color: #FFF;
 }
-.customEmojiPlaceholder-3mRJqA {
+.customEmojiPlaceholder_fe98c9 {
     background-image: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRo%0D%0APSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTAg%0D%0AMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPiAgICA8cGF0aCBkPSJNMTEuOTkgMkM2LjQ3IDIgMiA2%0D%0ALjQ4IDIgMTJzNC40NyAxMCA5Ljk5IDEwQzE3LjUyIDIyIDIyIDE3LjUyIDIyIDEyUzE3LjUyIDIg%0D%0AMTEuOTkgMnpNMTIgMjBjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0z%0D%0ALjU4IDgtOCA4em0zLjUtOWMuODMgMCAxLjUtLjY3IDEuNS0xLjVTMTYuMzMgOCAxNS41IDggMTQg%0D%0AOC42NyAxNCA5LjVzLjY3IDEuNSAxLjUgMS41em0tNyAwYy44MyAwIDEuNS0uNjcgMS41LTEuNVM5%0D%0ALjMzIDggOC41IDggNyA4LjY3IDcgOS41IDcuNjcgMTEgOC41IDExem0zLjUgNi41YzIuMzMgMCA0%0D%0ALjMxLTEuNDYgNS4xMS0zLjVINi44OWMuOCAyLjA0IDIuNzggMy41IDUuMTEgMy41eiIvPjwvc3Zn%0D%0APg==) !important;
     background-position: 50% !important;
     background-size: 100% !important;
