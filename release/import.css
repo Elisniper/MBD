@@ -101,18 +101,18 @@
     opacity: 0; 
     } 
 }
-.layers__12c9f .layer_e552e0.baseLayer__13b6b {
+.layers_a23c37 .layer__2efaa.baseLayer__8fda3 {
     opacity: 1 !important;
     transform: none !important;
 }
-.layers_a40797 .layer_e552e0:not(.baseLayer__13b6b) {
+.layers_a23c37 .layer__2efaa:not(.baseLayer__8fda3) {
     width: 80%;
     height: 80%;
     z-index: 1000;
     margin: auto;
     border-radius: 5px;
 }
-.layers_a40797:has(.layer_e552e0[aria-hidden="true"]):before {
+.layers_a23c37:has(.layer__2efaa[aria-hidden="true"]):before {
     content: " ";
     position: absolute;
     transform: translate(-15%, -15%);
@@ -125,10 +125,10 @@
     animation: popout 300ms cubic-bezier(0.4, 0, 0, 1), opacity 100ms ease 100ms backwards;
 
 }
-.layer_e552e0 .standardSidebarView__1129a {
+.layer__2efaa .standardSidebarView__1129a {
     top: 0;
 }
-.layer_e552e0 {
+.layer__2efaa {
     background-color: var(--mbd-black2);
 }
 /* Close/ESC icon */
@@ -145,8 +145,8 @@
 .tools_c0ff70 .closeButton__34341 {
     transform: none;
 }
-.layers_a40797 .layer_e552e0:not(.baseLayer__13b6b) .closeButton__34341, .layers_a40797 .layer_e552e0:not(.baseLayer__13b6b) .tools_c0ff70,
-.layers_a40797 .layer_e552e0:not(.baseLayer__13b6b) .tools_c0ff70 .keybind__57645 {
+.layers_a23c37 .layer__2efaa:not(.baseLayer__8fda3) .closeButton__34341, .layers_a23c37 .layer__2efaa:not(.baseLayer__8fda3) .tools_c0ff70,
+.layers_a23c37 .layer__2efaa:not(.baseLayer__8fda3) .tools_c0ff70 .keybind__57645 {
     z-index: -1;
 }
 .contentRegionScroller__86c79 .toolsContainer_f5d55d {
@@ -318,7 +318,7 @@
 /* User Settings Menu END */
 
 /* Title bar START */
-.appMount_fae9dd, body, .titleBar__01af6, .bg__7adbf {
+.appMount_fae9dd, body, .titleBar__01af6, .bg__12180 {
     background-color: var(--mbd-black2);
 }
 .titleBar__01af6 {
