@@ -44,6 +44,7 @@
     position: relative;
     width: 240px;
     left: 22px;
+    top: 1px;
     background: transparent;
     box-shadow: none;
     border-radius: 0;
