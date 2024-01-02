@@ -1129,6 +1129,9 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.container__30406 {
+    background: var(--mbd-black3);
+}
 .message__80c10 .select_f32788 {
     background-color: var(--mbd-black2);
     border-color: var(--mbd-black2);
