@@ -1848,6 +1848,13 @@
 .searchHeader__19d87 {
     background-color: var(--mbd-black1);
 }
+.container_d6dad3 {
+    position: relative;
+    left: -90px;
+}
+.appAsidePanelWrapper__714a6:has(.searchResultsWrap__9f374) .container_d6dad3 {
+    left: 0px;
+}
 /* Server Search Tab END*/
 
 /* Server Members channel START */
