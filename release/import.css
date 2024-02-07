@@ -884,10 +884,7 @@
 /* Friends MAIN END */
 
 /*Nitro Main START*/
-.applicationStore_fc7d76 {
-    background-color: var(--mbd-black2);
-}
-.scroller_a1aadd {
+.shopScrollBackgroundPrimary_bb1f42, .pageWrapperBackgroundPrimary__74f14 {
     background-color: var(--mbd-black2);
 }
 .theme-dark .feature-2IUcBI, .scroller__52ae7 {
@@ -918,17 +915,11 @@
 .banner__79cec {
     max-width: inherit;
 }
-.perkCard__6fe60 {
+.darkCardBackground__82a32 {
     background-color: var(--mbd-black1);
 }
-.card_e97590 {
-    background-color: var(--mbd-black2);
-}
-.guildHeader__30707 {
-    background-color: var(--mbd-black3);
-}
-.tag__81d1d {
-    background-color: var(--mbd-accent);
+.heroBanner_e16ab1 {
+    background: var(--mbd-accent);
 }
 /*Nitro Main END*/
 
