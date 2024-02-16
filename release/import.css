@@ -704,28 +704,30 @@
     top: 33px;
 }
 /* Nitro Promotion/Trial badge */
-.container__8759a[aria-posinset="2"] .interactive_a868bc .badgeContainer_bc9a26 {
-    position: relative;
-    left: -10px;
-    bottom: 3px;
-}
-.container__8759a[aria-posinset="2"] .interactive_a868bc .badgeContainer_bc9a26 {
+.container__8759a[aria-posinset="2"] .interactive_a868bc .premiumTrialBadge_f2180d {
     position: relative;
     height: 18px;
     top: -7px;
+    left: -24px;
+    bottom: 3px;
+    padding-left: 15px;
+    padding-right: 12px;
     color: var(--header-secondary);
-    background-color: var(--mbd-black3);
     border-radius: 3px 3px 0 0;
     transform: translateY(-28px);
     transition: 150ms ease;
 }
-.container__8759a[aria-posinset="2"] .interactive_a868bc:hover .badgeContainer_bc9a26 {
-    background-color: var(--mbd-black1);
+.container__8759a[aria-posinset="2"] .interactive_a868bc:hover .premiumTrialBadge_f2180d {
     color: #eeeff0;
-    top: -4px;
     border-radius: 3px 3px 0 0;
     transform: translateY(0px);
     transition: 150ms ease-out;
+}
+.container__8759a[aria-posinset="2"] .interactive_a868bc .premiumTrialAcknowledgedBadge_b69948 {
+    padding-left: 6px;
+    padding-right: 7px;
+    background-color: var(--mbd-accent);
+    top: -8px;
 }
 /* Snowgiving button */
 .snowsgivingLink-1TZi3c {
