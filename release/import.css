@@ -1851,33 +1851,25 @@
 /* Server Search Tab END*/
 
 /* Server Members channel START */
-.sidebar__68062, .theme-dark .container_df3aa0, .theme-dark .page__0b66e, .theme-dark .sidebar__68062 {
+.sidebar__68062, .theme-dark .container_df3aa0, .theme-dark .sidebar__68062, .pageButton_bcd673:hover, .button_fb10b9, .memberRowContainer_f0d0e5:hover td, .otherRoles_a19529 {
     background-color: var(--mbd-black2);
+}
+.page__0b66e {
+    background-color: var(--mbd-black2) !important;
 }
 .mainTableContainer__5ffe0 {
     background-color: var(--mbd-black1);
 }
+
 .pageSizeSelection__9dcee .lookFilled__3dba3.select__0eb48 {
     background-color: var(--mbd-black2);
     border-color: var(--mbd-black2);
 }
-.pageButton_bcd673:hover {
-    background-color: var(--mbd-black2);
-}
 .theme-dark .activeButton__7a550, .theme-dark .activeButton__7a550:hover {
     background-color: var(--mbd-accent);
 }
-.button_fb10b9 {
-    background-color: var(--mbd-black2);
-}
 .button_fb10b9:hover {
     background-color: var(--mbd-black1);
-}
-.memberRowContainer_f0d0e5:hover td {
-    background-color: var(--mbd-black2);
-}
-.otherRoles_a19529 {
-    background-color: var(--mbd-black2);
 }
 .memberRowContainer_f0d0e5:hover td .otherRoles_a19529 {
     background-color: var(--mbd-black1);
