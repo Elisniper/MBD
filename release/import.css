@@ -48,7 +48,7 @@
     background-color: rgba(225, 225, 225, 0.1) !important;
     display: initial;
 }
-.auto_a48086::-webkit-scrollbar-track, .scroller__52ae7::-webkit-scrollbar-track {
+.auto__76cc7::-webkit-scrollbar-track, .scroller__52ae7::-webkit-scrollbar-track {
     background-color: transparent !important;
 }
 /* Scroll bars END */
@@ -1652,6 +1652,12 @@
 .guestBody-1S2A2E .lookFilled__3dba3.select__0eb48, .settingsContent-1BWQwf .lookFilled__3dba3.select__0eb48 {
     background-color: var(--mbd-black2);
     border-color: var(--mbd-black2);
+}
+.childButton__832dc {
+    background-color: var(--mbd-black2);
+}
+.childButton__832dc:hover {
+    background-color: var(--mbd-black3);
 }
 /* Sticker popout */
 .containerBackground__1e084 {
