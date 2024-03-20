@@ -12,6 +12,8 @@
     --mbd-black2: rgba(30,30,30 ,1);
     --mbd-black3: rgba(20,20,20 ,1);
     --mbd-black4: #101010;
+
+    --status-danger: var(--mbd-notification);
 }
 /* Theme info and version */
 .info__755e1:after {
