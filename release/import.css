@@ -669,7 +669,7 @@
 }
 /*
 */
-/* Friends, Nitro and Public server buttons start */
+/* Friends, Nitro, Shop and Public server buttons start */
 .container__3792d[aria-posinset="1"], .container__3792d[aria-posinset="2"] {
     display: inline-block;
     width: 108px;
@@ -698,6 +698,31 @@
     position: absolute;
     top: 31px;
     left: 36px;
+}
+
+.content__690c5:not(:has(.container__3792d[aria-posinset="2"])):has(.link__3a950[href="/shop"]) .container__3792d {
+    display: inline-block;
+    width: 108px;
+}
+.content__690c5:not(:has(.container__3792d[aria-posinset="2"])) .interactive__3e804:has(.link__3a950[href="/shop"]) {
+    transition: 150ms ease;
+    padding-bottom: 12px;
+    padding-right: 0;
+}
+.content__690c5:not(:has(.container__3792d[aria-posinset="2"])) .interactive__3e804:has(.link__3a950[href="/shop"]) .avatar__7bd22 {
+    left: 27px;
+    top: -5px;
+    position: relative;
+}
+.content__690c5:not(:has(.container__3792d[aria-posinset="2"])):has(.link__3a950[href="/shop"]) .link__3a950[href="/shop"] .content_b5e449 {
+    position: absolute;
+    top: 31px;
+    left: 36px;
+}
+/* Shop button */
+.shyButton__30111 {
+    background: radial-gradient(ellipse at 120%200%,var(--mbd-notification) 10%,transparent 70%);
+    background-clip: content-box;
 }
 /* Number Badge */
 .container__3792d[aria-posinset="1"] .interactive__3e804 .numberBadge__40d6f {
@@ -888,10 +913,11 @@
 /* Friends MAIN END */
 
 /*Nitro Main START*/
-.mainPageScroller_a3deff, .applicationStore__444b9, .allPerksScroller__2c9d5 {
+.mainPageScroller_a3deff, .applicationStore__444b9, .allPerksScroller__2c9d5, .shopScrollBackgroundPrimary__28f1d, .pageWrapperBackgroundPrimary__36469, 
+.scroller__49aa3, .applicationStore__444b9 {
     background-color: var(--mbd-black2);
 }
-.card_e97590, .container__18919, .cardProgressBar_b12055 {
+.card_e97590, .container__18919, .cardProgressBar_b12055, .theme-dark .feature-2IUcBI, .scroller_d4b86c {
     background-color: var(--mbd-black1);
 }
 .cardDescription__40255 {
