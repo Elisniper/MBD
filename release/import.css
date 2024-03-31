@@ -2786,3 +2786,8 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault__3545
 .bd-modal-footer .bd-button {
     margin: 0 4px;
 }
+
+/* BD Modal container */
+#bd-modal-container {
+    color: transparent;
+}
