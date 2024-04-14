@@ -73,7 +73,7 @@
 .fieldList__4e6dd, .background__4e802, .cardPrimary-3qRT__, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .upsellContainer-3qKRln, .connectContainer_e331e3,
 .accountList-Wii_T5, .accountBtnInner-2lm5s9, .connection__6dbd8, .cardWrapper_bc8d2a, .card__11580:hover, .noItemsCard__42af7, .noItemsCard__9781b, 
 .theme-dark .noItemsIcon__299fb, .theme-dark .noItemsIcon_ead6f9, .theme-dark .payment_f27ac6, .cardInput-33x7OF, .phoneField__47dd1 .inputField_c0d34f, .footer-3naVBw,
-.userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .userProfileInnerThemedNonPremium_ed9022 .topSection-13QKHs, .promotionCard_f4dd43, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
+.userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .userProfileInnerThemedNonPremium_b64fb4 .topSection-13QKHs, .promotionCard_f4dd43, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer__1842c, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout_a6e77f, .customizationSection__0f57e .inputWrapper_ecb776 .input_f27786, .theme-dark .customColorPicker_bbc020, .itemFilled__5a849,
 .profileCustomizationSection_c4a87a .bioTextArea_f46f71, .children_aba8cb .input_f27786, .premiumTrialAcknowledgedBadge-2QxbU_, .card__4dc22:not(.outline__16075), 
@@ -960,10 +960,10 @@
 /*Nitro Main END*/
 
 /* DM/Group calls START*/
-.content__01e65 .userProfileInner__61cc1:before {
+.content__01e65 .userProfileInner__8ff35:before {
     background-color: var(--mbd-black4);
 }
-.content__01e65 .overlayBackground__2666e {
+.content__01e65 .overlayBackground__345c9 {
     background-color: var(--mbd-black1);
 }
 .profilePanel_e2cafe {
@@ -1829,13 +1829,13 @@
     background-color: var(--mbd-black1);
 }
 /* Server user list popout */
-.userProfileInnerThemedNonPremium_ed9022 {
+.userProfileInnerThemedNonPremium_b64fb4 {
     background: var(--mbd-black1);
 }
-.userProfileInnerThemedNonPremium_ed9022 .overlayBackground__2666e {
+.userProfileInnerThemedNonPremium_b64fb4 .overlayBackground__345c9 {
     background-color: var(--mbd-black2);
 }
-.userProfileInnerThemedNonPremium_ed9022 .profileBadges__1f2ab {
+.userProfileInnerThemedNonPremium_b64fb4 .profileBadges__1f2ab {
     background-color: var(--mbd-black2);
 }
 .avatar-2OC07D {
@@ -1848,7 +1848,7 @@
 .member_b44d5d, .members__573eb {
     background-color: var(--mbd-black4);
 }
-.userProfileInnerThemedNonPremium_ed9022 .role_d81130 {
+.userProfileInnerThemedNonPremium_b64fb4 .role_d81130 {
     background: var(--mbd-black1);
 }
 .userProfileInnerThemedWithBanner-2624Yx .textarea__0461c, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .textarea__0461c, .theme-light ::placeholder  {
@@ -2324,7 +2324,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault__3545
 }
 .channelList_fcef42, .header_c118ee, .container_bc2742, .channelRow__013aa, .channelCoverage__760f9, .channelCoverageDetails__9f0ab, .container_ecc97e, .pillItemSelected__2ede3,
 .actionItem__872dc, .resourceChannel__94ad2, .badExampleIcon__6e2b2, .suggestedChannels__0a3d8, .addActionItem__3881a:hover, .onboardingStepContainer__03a55, .chatHeaderBar_b11c70,
-.sidebarCardWrapper__98124, .testimonialHeroContainer_a66dec, .row__4f559, .prompt__671aa, .userCardInner__4fd8f, .clickableAction__9e970:hover .action__94060 {
+.sidebarCardWrapper__98124, .testimonialHeroContainer_a66dec, .row__4f559, .prompt__671aa, .userCardInner_e36852, .clickableAction__9e970:hover .action__94060 {
     background-color: var(--mbd-black1);
 }
 .actionItemEmojiWrapper__51171, .resourceChannelIcon__71b2f, .addActionItem__3881a:active {
