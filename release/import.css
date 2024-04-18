@@ -1255,7 +1255,7 @@
 .form_d8a4a1 {
     background-color: var(--mbd-black2);
 }
-.form_d8a4a1:before {
+.form_d8a4a1:before, .form_d8a4a1:after {
     background: transparent !important;
 }
 .scrollableContainer_ff917f .divider__855e3 {
