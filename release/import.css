@@ -77,7 +77,7 @@
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer__1842c, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout_a6e77f, .customizationSection__0f57e .inputWrapper_ecb776 .input_f27786, .theme-dark .customColorPicker_bbc020, .itemFilled__5a849,
 .profileCustomizationSection_c4a87a .bioTextArea_f46f71, .children_aba8cb .input_f27786, .premiumTrialAcknowledgedBadge-2QxbU_, .card__4dc22:not(.outline__16075), 
-.dropCriteria__7ffa8, .container_d5dec4, .container_db1b74, .container__5a2c3, .box__6431e, .enableCard_f36203, .wrapper_ba4346, .content__3ea16 {
+.dropCriteria__7ffa8, .container_d5dec4, .container__7d3e2, .container__5a2c3, .box__6431e, .enableCard_f36203, .wrapper_ba4346, .mainTableContainer_d09fd4, .movedTable_dbcb19 {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -342,8 +342,8 @@
 /* Title bar control buttons */
 .winButton_f17fb6 {
     position: relative;
-    top: 12px;
-    border-radius: 50%;
+    top: 13px;
+    border-radius: 4px;
     width: 26px;
     height: 26px;
     margin-right: 2px;

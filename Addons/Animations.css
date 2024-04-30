@@ -59,3 +59,19 @@
     background-color: var(--mbd-black3);
     animation: 150ms ease, add-friend 250ms cubic-bezier(0,0,0,1);
 }
+
+/* App directory & App Animation */
+@keyframes fadein-anim {
+    0% {
+        opacity: 0;
+    } 
+    100% {
+        opacity: 1;
+    }
+}
+.theme-dark .directoryContainer__36395 {
+    animation: fadein-anim 300ms ease-in-out both;
+}
+.app_de4237 {
+    animation: fadein-anim 400ms ease-in-out both;
+}
