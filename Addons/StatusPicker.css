@@ -56,7 +56,9 @@
     top: 1px;
     box-shadow: none;
 }
-.accountProfilePopoutWrapper_d4887f .userPopoutInner_ac0960.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, .accountProfilePopoutWrapper_d4887f .userProfileInnerNonPremium-1XjSjn, .accountProfilePopoutWrapper_d4887f .userProfileInnerPremiumWithoutBanner-37uB4Q {
+.accountProfilePopoutWrapper_d4887f .userPopoutInner_ac0960.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, 
+.accountProfilePopoutWrapper_d4887f .userProfileInnerNonPremium-1XjSjn, 
+.accountProfilePopoutWrapper_d4887f .userProfileInnerPremiumWithoutBanner-37uB4Q {
     background: var(--mbd-black4);
 }
 .accountProfilePopoutWrapper_d4887f .userProfileInnerThemedNonPremium-1gT-zY {
@@ -73,4 +75,25 @@
 }
 .accountProfilePopoutWrapper_d4887f .pencilContainer_ae6d25 {
     right: 33%;
+}
+.userProfileInnerThemedNonPremium_b64fb4 {
+    background: var(--mbd-black1);
+}
+.userProfileInnerThemedNonPremium_b64fb4 .overlayBackground__345c9 {
+    background-color: var(--mbd-black2);
+}
+.userProfileInnerThemedNonPremium_b64fb4 .profileBadges__1f2ab {
+    background-color: var(--mbd-black2);
+}
+.userProfileInnerThemedNonPremium_b64fb4 .role_d81130 {
+    background: var(--mbd-black1);
+}
+.userProfileInnerThemedWithBanner-2624Yx .textarea__0461c, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .textarea__0461c, .theme-light ::placeholder  {
+    background-color: transparent !important;
+}
+.userProfileInnerThemedWithBanner-2624Yx .connectedAccountContainer__5972d, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .connectedAccountContainer__5972d {
+    background-color: transparent;
+}
+.userProfileInnerThemedWithBanner-2624Yx .messageInputContainer-2rGDH8 .input_f27786, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .messageInputContainer-2rGDH8 .input_f27786 {
+    background-color: transparent;
 }
