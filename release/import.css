@@ -66,7 +66,6 @@
 .theme-dark .tooltipPrimary__51b23 .tooltipPointer_f7411c, .theme-light .tooltipPrimary__51b23 .tooltipPointer_f7411c  {
     border-top-color: var(--mbd-black1);
 }
-/* User Settings Menu START */
 
 /*COLOR CHANGES*/
 /* Black 1*/
@@ -77,7 +76,8 @@
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer__1842c, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
 .decorationGridItem-3CoeNN, .popout_a6e77f, .customizationSection__0f57e .inputWrapper_ecb776 .input_f27786, .theme-dark .customColorPicker_bbc020, .itemFilled__5a849,
 .profileCustomizationSection_c4a87a .bioTextArea_f46f71, .children_aba8cb .input_f27786, .premiumTrialAcknowledgedBadge-2QxbU_, .card__4dc22:not(.outline__16075), 
-.dropCriteria__7ffa8, .container_d5dec4, .container__7d3e2, .container__5a2c3, .box__6431e, .enableCard_f36203, .wrapper_ba4346, .mainTableContainer_d09fd4, .movedTable_dbcb19 {
+.dropCriteria__7ffa8, .container_d5dec4, .container__7d3e2, .container__5a2c3, .box__6431e, .enableCard_f36203, .wrapper_ba4346, .mainTableContainer_d09fd4, .movedTable_dbcb19,
+.shopScroll_caa423, .pageWrapper__18871 {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -958,6 +958,12 @@
     background: var(--mbd-accent);
 }
 /*Nitro Main END*/
+
+/* Shop  START */
+.shopCard__3d319[style*="background-color: var(--background-floating);"] {
+    background-color: var(--mbd-black2) !important;
+}
+/* Shop  END */
 
 /* DM/Group calls START*/
 .content__01e65 .userProfileInner__8ff35:before {
