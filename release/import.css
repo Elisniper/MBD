@@ -1274,13 +1274,17 @@
     padding-bottom: 12px;
     border-radius: 0;
 }
+.channelTextAreaContainer__37a67 {
+    margin-left: -10px;
+}
 .channelTextArea_c2094b {
-    right: 10px;
     margin-bottom: 0;
     background-color: var(--mbd-black4);
-    padding-right: 10px;
     border-radius: 0;
     box-shadow: 0 1px 8px #101010;
+}
+.channelTextArea_c2094b .buttons__7ecff {
+    padding-right: 5px;
 }
 .channelAttachmentArea__5e46a {
     display: flex;
