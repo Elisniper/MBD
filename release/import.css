@@ -533,7 +533,7 @@
     border-color: #d0d0d0;
 }
 .theme-dark .container__26baa.themed_b152d4, .searchBar__621ec {
-    background: var(--mbd-accent);
+    background: var(--mbd-accent) !important;
     box-shadow: none;
     height: 52px;
 }
