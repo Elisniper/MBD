@@ -70,7 +70,7 @@
 /*COLOR CHANGES*/
 /* Black 1*/
 .fieldList_b69b77, .background_b69b77, .cardPrimary-3qRT__, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .upsellContainer-3qKRln, .connectContainer_e2a436,
-.accountList-Wii_T5, .accountBtnInner-2lm5s9, .connection_e2a436, .cardWrapper_bc8d2a, .card__11580:hover, .noItemsCard_a206c7, .noItemsCard_e70817, 
+.accountList-Wii_T5, .accountBtnInner-2lm5s9, .connection_e2a436, .cardWrapper_f9902b, .card__11580:hover, .noItemsCard_a206c7, .noItemsCard_e70817, 
 .theme-dark .noItemsIcon_a206c7, .theme-dark .noItemsIcon_e70817, .theme-dark .payment_a28a08, .cardInput-33x7OF, .phoneField_d4eb58 .inputField_d4eb58, .footer-3naVBw,
 .userPopout-2j1gM4, .bodyInnerWrapper-2bQs1k, .userProfileInnerThemedNonPremium_c69a7b .topSection-13QKHs, .promotionCard_e8af36, .profileBannerPreview-3mLIdO, .selectGuild-2A4oJC:hover,
 .optionBox-1UOevl, .container--8P6Tr, .metadataContainer_e2a436, .accountBtnInner-1DCgBm, .decorationPreview-1VSc8m, .smallDecorationPreviewsContainer-3c2ziH,
@@ -81,7 +81,7 @@
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
-.contentRegionScroller_c25c6d, .theme-dark .gemIndicatorContainer_b03ca0, .accountButtonInner_e2a436, .previewMessage_c31d36, .theme-dark .selectableItem__5e076:hover,
+.contentRegionScroller_c25c6d, .theme-dark .gemIndicatorContainer_b03ca0, .accountButtonInner_e2a436, .previewMessage_c31d36, .theme-dark .selectableItem_d40acf:hover,
 .addressSection_d96f24 .children_a6ae9b .inputWrapper-1YNMmM .inputDefault-3FGxgL, .addressSection_d96f24 .lookFilled-1GseHa.select-1Ia3hD, 
 .theme-dark .hoverablePayment_a28a08:hover, .theme-dark .expandedInfo_a28a08, .accountBtn-3pgcgr .accountBtnInner-3ttD-i, .pencilContainer_c3e427:hover, 
 .option_f6639d[aria-selected=true]:not(.option_f6639d.multi_f6639d), .option_f6639d.focused_f6639d, .option_f6639d:focus, .option_f6639d:hover, 
@@ -424,8 +424,8 @@
 /*COLOR CHANGES*/
 /* Black 1*/
 .selected-22ukbQ, .option_b0286e:hover, .option_b0286e[aria-selected=true], .theme-dark .dim-2Uxgxb span, .theme-dark .dim-2Uxgxb .key-N5VmHN, 
-.theme-dark .calendarPicker__47c85 .react-datepicker__day--disabled, .theme-dark .calendarPicker__47c85 .react-datepicker__day--outside-month,
-.theme-dark .calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--disabled:hover {
+.theme-dark .calendarPicker_be05cd .react-datepicker__day--disabled, .theme-dark .calendarPicker_be05cd .react-datepicker__day--outside-month,
+.theme-dark .calendarPicker_be05cd .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker_be05cd .react-datepicker__day.react-datepicker__day--disabled:hover {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -433,7 +433,7 @@
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
-.container-3ssFyj, .container_eedf95, .theme-dark .focused_eedf95, .theme-dark .calendarPicker__47c85 .react-datepicker__header, .theme-dark .calendarPicker__47c85 .react-datepicker {
+.container-3ssFyj, .container_eedf95, .theme-dark .focused_eedf95, .theme-dark .calendarPicker_be05cd .react-datepicker__header, .theme-dark .calendarPicker_be05cd .react-datepicker {
     background-color: var(--mbd-black3);
 }
 /*
@@ -485,7 +485,7 @@
     display: flex;
     flex-direction: column;
 }
-.notice__5fd4c {
+.notice_be03aa {
     height: 52px;
     box-shadow: none;
     display: flex;
@@ -514,14 +514,14 @@
 .notice-2olXi7 {
     background-color: var(--mbd-notification);
 }
-.notice__5fd4c .button_e2ecbf:nth-child(3) {
+.notice_be03aa .button_e2ecbf:nth-child(3) {
     /* lDisable' button when testing roles */
     right: 130px;
 }
-.button__33db6 {
+.button_be03aa {
     top: 0;
 }
-.closeButton__90904 {
+.closeButton_be03aa {
     top: 8px;
     right: 110px;
 }
@@ -573,10 +573,10 @@
 .datePicker_b0286e .datePickerHint_b0286e .hintValue_b0286e, .datePicker_b0286e .datePickerHint_b0286e .hintValue_b0286e:hover {
     background-color: var(--mbd-accent);
 }
-.calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--selected:after {
+.calendarPicker_be05cd .react-datepicker__day.react-datepicker__day--selected:after {
     background-color: var(--mbd-accent);
 }
-.calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--keyboard-selected, .calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--selected:hover, .calendarPicker__47c85 .react-datepicker__day:hover {
+.calendarPicker_be05cd .react-datepicker__day.react-datepicker__day--keyboard-selected, .calendarPicker_be05cd .react-datepicker__day.react-datepicker__day--selected:hover, .calendarPicker_be05cd .react-datepicker__day:hover {
     border-radius: 0;
     color: #fff;
     background-color: var(--mbd-black4);
@@ -1006,7 +1006,7 @@
 .wrapper_d880dc.minimum_d880dc {
     background-color: var(--mbd-black3);
 }
-.theme-dark .quickSelectPopout__56a98 {
+.theme-dark .quickSelectPopout_abbf45 {
     background: var(--mbd-black1);
 }
 .theme-dark .quickSelectPopoutOption_b852b1:hover {
@@ -1641,7 +1641,7 @@
 .card_f9902b {
     background-color: var(--mbd-black1);
 }
-.notice__5fd4c {
+.notice_be03aa {
     border-radius: 0;
 }
 .guildSidebar_a74b6f {
@@ -1739,7 +1739,7 @@
 .iconWrapper_ec583a {
     background-color: var(--mbd-black1);
 }
-.privateThreadFeaturePill__0bd55 {
+.privateThreadFeaturePill_fb4810 {
     background-color: var(--mbd-black1);
 }
 .container_c15230 {
@@ -2033,7 +2033,7 @@
 .side_a0 .themed_a0.selected_a0.item_a0, .side_a0 .themed_a0.item_a0:hover:not(.disabled-1nofHP), 
 .side_a0 .themed_a0.item_a0:active:not(.disabled-1nofHP), .container_cc7b67, .container_cc7b67:hover, .roleRow_a930f1:hover:not(.roleRowDisableHover_a930f1),
 .container__33507, .roleRow-3LoHQ6:hover:not(.roleRowDisableHover-2TXfy-), .theme-dark .tierBody_da77bd, .upsellFooter-1H_OCF, .perksList-34peAu, .theme-dark .iconWrapper__0d13e,
-.theme-dark .tierInProgress_a4fd01, .theme-dark .perksModal-CLcR1c, .theme-dark .tierMarkerBackground-G8FoN4, .copyInput_f549fd, .featureCard_b1a8d5, .css-xpql1x-control,
+.theme-dark .tierInProgress_a4fd01, .theme-dark .perksModal-CLcR1c, .theme-dark .tierMarkerBackground-G8FoN4, .copyInput_d7e343, .featureCard_b1a8d5, .css-xpql1x-control,
 .css-3vaxre-menu, .theme-dark .progress_e5cdf3, .backgroundOptionInner_ad7d79, .keybindShortcut-3zF1P9 span, .theme-dark .notDetected_fd966d, .theme-light .notDetected_fd966d,
 .memberRow_fe3229:hover, .memberRow_fe3229:active, .theme-dark .default_a467ac, .availabilityIndicator_bdfce3, .checkboxWrapper-2fDzaA.row-31nALW, 
 .checkboxWrapper-2fDzaA.row-31nALW:hover:not(.checked-1pZh2h), .checkboxWrapper-2fDzaA.row-31nALW:active:not(.checked-1pZh2h), .checkboxWrapper-2fDzaA.row-31nALW.checked-1pZh2h, 
@@ -2444,7 +2444,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
 .progress-24WBU3 .progressBar_c6473a.xsmall-14LPsL.animating-2CraY5[style*="background-color: var(--status-danger);"] {
     background-color: var(--mbd-notification) !important;
 }
-.notice__5fd4c .button_e2ecbf.backButton_e2ecbf.button_dd4f85.lookOutlined_dd4f85.colorWhite_dd4f85.grow_dd4f85 {
+.notice_be03aa .button_e2ecbf.backButton_e2ecbf.button_dd4f85.lookOutlined_dd4f85.colorWhite_dd4f85.grow_dd4f85 {
     left: 8px;
 }
 .top_a0 .brand_a0.item_a0:hover {
