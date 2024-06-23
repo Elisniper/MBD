@@ -77,7 +77,8 @@
 .decorationGridItem-3CoeNN, .popout_f6639d, .customizationSection_b3a5c2 .inputWrapper_f8bc55 .input_f8bc55, .theme-dark .customColorPicker_bbc020, .itemFilled_eb92a8,
 .profileCustomizationSection_bad983 .bioTextArea_ccf27d, .children_a6ae9b .input_f8bc55, .premiumTrialAcknowledgedBadge-2QxbU_, .card_a298b8:not(.outline_a298b8), 
 .dropCriteria_e8af36, .container_b01337, .container_a2e886, .box_f70f48, .enableCard_c55991, .wrapper_bfc2c6, .mainTableContainer_dd2627, .movedTable_dd2627,
-.shopScroll_e77fa3, .pageWrapper_e77fa3, .container_d7c696, .iconContainer_e677b7, .container_c18ec9, .cardPrimary_a298b8, .marker_f7ea1b .empty_f7ea1b, .marker_f7ea1b {
+.shopScroll_e77fa3, .pageWrapper_e77fa3, .container_d7c696, .iconContainer_e677b7, .container_c18ec9, .cardPrimary_a298b8, .marker_f7ea1b .empty_f7ea1b, .marker_f7ea1b,
+.content_cc6017 {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -85,7 +86,7 @@
 .addressSection_d96f24 .children_a6ae9b .inputWrapper-1YNMmM .inputDefault-3FGxgL, .addressSection_d96f24 .lookFilled-1GseHa.select-1Ia3hD, 
 .theme-dark .hoverablePayment_a28a08:hover, .theme-dark .expandedInfo_a28a08, .accountBtn-3pgcgr .accountBtnInner-3ttD-i, .pencilContainer_c3e427:hover, 
 .option_f6639d[aria-selected=true]:not(.option_f6639d.multi_f6639d), .option_f6639d.focused_f6639d, .option_f6639d:focus, .option_f6639d:hover, 
-.customColorPicker_bbc020 .input_f8bc55, .row_e677b7, .stepNumber_f70f48, .table_df16c1, .circle_d7c696 {
+.customColorPicker_bbc020 .input_f8bc55, .row_e677b7, .stepNumber_f70f48, .table_df16c1, .circle_d7c696, .perks_fcea2f, .upsellFooter_a26a1a, .value_cc6793 {
     background-color: var(--mbd-black2);
 }
 /* Black 3*/
@@ -473,6 +474,14 @@
 .headerWrapper_d880dc {
     /* top bar controlls while in DM/Group call */
     height: 52px;
+}
+.container_ed4410:not(:has(.container_d1c246)) .participants_cb3dd1 .toolbar_e44302 {
+    /* top toolbar controlls while in stage channel (Chat pannel is not open) */
+    margin-right: 80px;
+}
+.container_ed4410:has(.container_f7ece4) .participants_cb3dd1 .toolbar_e44302 {
+    /* top toolbar controlls while in stage channel (Requests pannel is open) */
+    margin-right: 0;
 }
 .headerWrapper_d880dc .subtitleContainer_c7b3af {
     height: inherit;
@@ -1840,6 +1849,19 @@
 }
 .form_fb4810 .inputDefault_f8bc55 {
     background-color: var(--mbd-black1);
+}
+/* Stage channel */
+.container_f7ece4, .container_dc3fc4 {
+    background-color: var(--mbd-black1);
+}
+.container_dc3fc4:hover, .buttonContainer_f7ece4 {
+    background-color: var(--mbd-black2);
+}
+.buttonContainer_f7ece4:hover {
+    background-color: var(--mbd-black3);
+}
+.sidebarOrChatVisible_ed4410, .container_f7ece4 {
+    border-radius: 0;
 }
 /* User popout */
 .userProfileOuterUnthemed_c69a7b .userProfileInnerThemedNonPremium_c69a7b, 
