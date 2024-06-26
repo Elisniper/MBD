@@ -67,8 +67,9 @@
 .accountProfilePopoutWrapper_b2ca13 .userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
     background: transparent;
 }
-.accountProfilePopoutWrapper_b2ca13 .menu_d90b3d {
-    background: transparent;
+.accountProfilePopoutWrapper_b2ca13 .menus_d4e7c2 .flexible_d90b3d, .activity_cd74cc {
+    background: var(--mbd-black2);
+    border-radius: 8px;
 }
 .submenuPaddingContainer_d90b3d .submenu_d90b3d {
     background-color: rgb(40 40 40);

@@ -1875,7 +1875,7 @@
 .userProfileOuterUnthemed_c69a7b .wrapper_cb78f1 .lookFilled_dd4f85.colorPrimary_dd4f85 {
     background-color: var(--mbd-black1);
 }
-.userProfileOuterThemed_c69a7b .lookFilled_dd4f85.colorPrimary_dd4f85 {
+.userProfileOuterThemed_c69a7b .lookFilled_dd4f85.colorPrimary_dd4f85, .userProfileOuterThemed_c69a7b .lookFilled_dd4f85.colorBrand_dd4f85 {
     background-color: var(--profile-gradient-button-color);
 }
 /* User popout Top buttons */
