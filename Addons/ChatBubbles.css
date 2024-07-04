@@ -221,7 +221,7 @@
 .container_f1c3d9 .cozy_f9f2ca.wrapper_f9f2ca:not(.groupStart_d5deea).message_c06487:after {
     border-right-color: transparent;
 }
-.messageContainer_ddb5b4, .messages_c06487 {
+.messageContainer_ddb5b4, .messages_c06487, .wrapper_b75bb9 {
     background-color: transparent;
 }
 .container_ddb5b4 {
