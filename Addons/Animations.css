@@ -1,9 +1,9 @@
 /* Pin Button */
-.iconWrapper_e44302.clickable_e44302.selected_e44302[aria-label="Pinned Messages"] {
+.iconWrapper_fc4f04.clickable_fc4f04.selected_fc4f04[aria-label="Pinned Messages"] {
     transform: rotate(-45deg);
     transition: 100ms ease-in-out;
 }
-.iconWrapper_e44302.clickable_e44302[aria-label="Pinned Messages"] {
+.iconWrapper_fc4f04.clickable_fc4f04[aria-label="Pinned Messages"] {
     transform: rotate(0deg);
     transition: 100ms ease-in-out;
 }
