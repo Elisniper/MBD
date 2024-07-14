@@ -2453,9 +2453,12 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
 .actionItemEmojiWrapper_e88228, .resourceChannelIcon__71b2f, .addActionItem_e88228:active {
     background: var(--mbd-black2);
 }
-.formGroup-2tDVkh .lookFilled_f6639d.select_f6639d, .theme-dark .container_f1fd9c, .theme-dark .header_f1fd9c, .theme-dark .emptyPage_c6b11b, .theme-dark .scrollerContainer_c6b11b,
+.formGroup-2tDVkh .lookFilled_f6639d.select_f6639d, .theme-dark .header_f1fd9c, .theme-dark .emptyPage_c6b11b, .theme-dark .scrollerContainer_c6b11b,
 .termsFieldBody_cd377c, .navButtons_cd377c {
     background-color: var(--mbd-black2);
+}
+.theme-dark .container_f1fd9c {
+    background-color: var(--mbd-black2) !important;
 }
 .channelRow_a33fd3:hover:not(.disabled_a33fd3), .pillContainer_a18ec1, .reviewHeader_addbba, .row_b53f4f:hover {
     background-color: var(--mbd-black3);
@@ -2763,7 +2766,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
 .container_b55df8, .channelRow_f04d06, .profileCard_c6b11b, .prompt_c6b11b {
     background-color: var(--mbd-black1);
 }
-.theme-dark .container_c2efea, .role_c6b11b {
+.theme-dark .container_c2efea, .role_c6b11b, .pageBody_c2efea {
     background-color: var(--mbd-black2);
 }
 .channelRow_f04d06:hover:not(.disabled_f04d06) {
