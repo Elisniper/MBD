@@ -975,6 +975,9 @@
 .shopCard_c23530[style*="background-color: var(--background-floating);"] {
     background-color: var(--mbd-black2) !important;
 }
+.cardContainer_d3ddd1 .caretButton_d3ddd1 {
+    z-index: 1;
+}
 /* Shop  END */
 
 /* DM/Group calls START*/
