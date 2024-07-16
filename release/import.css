@@ -978,6 +978,9 @@
 .cardContainer_d3ddd1 .caretButton_d3ddd1 {
     z-index: 1;
 }
+.theme-dark .popularPicksGradient_e77fa3 {
+    background: transparent;
+}
 /* Shop  END */
 
 /* DM/Group calls START*/
