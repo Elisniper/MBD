@@ -2615,11 +2615,18 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
     background: var(--mbd-black3);
     z-index: 1;
 }
+.theme-dark .sidebarContainer_a3a4ce {
+    background: transparent;
+    z-index: 1;
+}
 .sidebar_a4d4d9 .thin_eed6a8.scrollerBase_eed6a8 {
     box-shadow: 0 1px 8px #101010;
 }
 .pageWrapper_a3a4ce, .scroller_a39aa3 {
     background-color: var(--mbd-black1);
+}
+.pageWrapper_a3a4ce .scroller_a3a4ce {
+    padding-top: 60px;
 }
 .theme-dark .card_eb1ca6, .theme-dark .iconMask_eb1ca6, .container_f11cbf {
     background-color: var(--mbd-black2);
@@ -2671,6 +2678,12 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
 }
 .headerContent-2Z-1wE .searchBox__56feb .searchBoxInput__56498 {
     background-color: transparent;
+}
+.categoryPill_f69601.selected_f69601 {
+    background-color: var(--mbd-accent);
+}
+.searchBox_d83b4d {
+    background-color: var(--mbd-black2);
 }
 /* Add server & Discover END */
 
