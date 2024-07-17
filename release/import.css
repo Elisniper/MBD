@@ -115,6 +115,9 @@
     margin: auto;
     border-radius: 5px;
 }
+.layers_a01fb1 .layer_d4b6c5:not(.baseLayer_d4b6c5):has(.shop_e77fa3) {
+    padding: 0;
+}
 .layers_a01fb1:has(.layer_d4b6c5[aria-hidden="true"]):before {
     content: " ";
     position: absolute;
@@ -544,11 +547,15 @@
     color: black;
     border-color: #d0d0d0;
 }
-.theme-dark .container_fc4f04.themed_fc4f04, .searchBar_f0963d {
+.theme-dark .container_fc4f04.themed_fc4f04, .searchBar_f0963d, .content_a4d4d9 .shop_e77fa3 .theme-.headerBar_d8354cdark {
     background: var(--mbd-accent) !important;
     box-shadow: none;
     height: 52px;
 }
+.shop_e77fa3 .theme-dark.headerBar_d8354c {
+    background: transparent !important;
+}
+
 .theme-dark .outerContainer-2qLQSo .container_fc4f04.themed_fc4f04 {
     z-index: 0;
 }
