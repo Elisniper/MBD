@@ -988,6 +988,9 @@
 .theme-dark .popularPicksGradient_e77fa3 {
     background: transparent;
 }
+.cardText_c23530 {
+    z-index: 0;
+}
 /* Shop  END */
 
 /* DM/Group calls START*/
