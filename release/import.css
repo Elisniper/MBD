@@ -994,15 +994,24 @@
 /* Shop  END */
 
 /* DM/Group calls START*/
-.content_a7d72e .userProfileInner_c69a7b:before {
+.content_a7d72e .userProfileOuterUnthemed_c69a7b {
     background-color: var(--mbd-black4);
 }
 .content_a7d72e .overlayBackground_c69a7b {
     background-color: var(--mbd-black1);
 }
-.profilePanel_b433b4 {
+.content_a7d72e .userPanelOuter_c69a7b {
     box-shadow: 0 1px 8px #101010;
     width: 240px;
+}
+.content_a7d72e .userPanelInner_c69a7b, .content_a7d72e .inner_f867f9 {
+    border-radius: 0;
+}
+.content_a7d72e .footer_be6801 {
+    height: 68px;
+}
+.content_a7d72e .footer_be6801 .button_dd4f85 {
+    height: 100%;
 }
 .root_cbf230 {
     background: var(--mbd-black4);
