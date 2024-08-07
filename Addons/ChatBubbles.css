@@ -97,21 +97,21 @@
 .mentioned_d5deea.message_d5deea.groupStart_d5deea {
     background-color: rgb(51 45 32) !important;
 }
-.button_ef319f {
+.button_f7e168 {
     height: 18px;
 }
-.button_ef319f.selected_ef319f {
+.button_f7e168.selected_f7e168 {
     color: #FFF;
     background-color: transparent;
 }
-.button_ef319f:active {
+.button_f7e168:active {
     color: #FFF;
     background-color: transparent;
 }
-.full-motion .wrapper_ef319f:hover, .wrapper_ef319f {
+.full-motion .wrapper_f7e168:hover, .wrapper_f7e168 {
     box-shadow: none;
 }
-.wrapper_ef319f {
+.wrapper_f7e168 {
     height: 26px;
 }
 .container_a3b500 {
@@ -121,7 +121,7 @@
 .message_d5deea:not(.groupStart_d5deea) .buttons_d5deea.container_a3b500 {
     top: 0;
 }
-.button_ef319f:hover, .wrapper_ef319f {
+.button_f7e168:hover, .wrapper_f7e168 {
     background-color: rgb(43 43 43);
     border-radius: 0;
 }
@@ -131,7 +131,7 @@
 .theme-dark .container_f2bfbb, .theme-dark .reactors_f2bfbb {
     background-color: var(--mbd-black1);
 }
-.button_ef319f.dangerous_ef319f {
+.button_f7e168.dangerous_f7e168 {
     color: var(--mbd-notification);
 }
 .reactions_f61c73 {
@@ -242,7 +242,7 @@
     left: -50px;
 }
 /* Mod view */
-.sidebarContianer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca, .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca {
+.sidebarContainer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca, .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca {
     position: relative;
     margin: 16px 0 0 60px;
     padding: 8px 10px;
@@ -251,13 +251,13 @@
     border-bottom: none !important;
     overflow: visible !important;
 }
-.sidebarContianer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca:after, .searchResult_ddc613.cozy_f9f2ca.wrapper_f9f2ca:after {
+.sidebarContainer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca:after, .searchResult_ddc613.cozy_f9f2ca.wrapper_f9f2ca:after {
     border-right-color: var(--mbd-black2)
 }
-.sidebarContianer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca .avatar_f9f2ca, .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca .avatar_f9f2ca {
+.sidebarContainer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca .avatar_f9f2ca, .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca .avatar_f9f2ca {
     left: -55px;
 }
-.sidebarContianer_d2194f .innerContainer_f328ee li>div {
+.sidebarContainer_d2194f .innerContainer_f328ee li>div {
     background: transparent !important;
     box-shadow: none;
 }
