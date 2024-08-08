@@ -744,7 +744,7 @@
     background-clip: content-box;
 }
 /* Number Badge */
-.container_d91ad9[aria-posinset="1"] .interactive_c91bad .numberBadge__40d6f {
+.container_d91ad9[aria-posinset="1"] .interactive_c91bad .numberBadge_df8943 {
     position: absolute;
     left: 82px;
     top: 33px;
@@ -1119,6 +1119,9 @@
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-position: center;
     transition: all 100ms ease;
+}
+.tutorialContainer_f9623d .wrapper_c5f96a foreignObject[mask*="url(#72217d41-d024-4dba-86d8-739d7b130af9)"] {
+    mask-image: none;
 }
 .tutorialContainer_f9623d .listItem_c96c45:first-child .childWrapper_f90abb {
     background-color: transparent;
