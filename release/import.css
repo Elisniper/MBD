@@ -63,6 +63,9 @@
 .theme-dark .tooltipPrimary_b6c360, .theme-light .tooltipPrimary_b6c360   {
     background-color: var(--mbd-black1);
 }
+.theme-dark .tooltipContent_b6c360 {
+    color: #caccce;
+}
 .theme-dark .tooltipPrimary_b6c360 .tooltipPointer_b6c360, .theme-light .tooltipPrimary_b6c360 .tooltipPointer_b6c360  {
     border-top-color: var(--mbd-black1);
 }
