@@ -847,6 +847,9 @@
     border: none;
     transition: 200ms ease-in-out;
 }
+.inset_ac5d22 {
+    background-color: transparent;
+}
 .theme-dark .outer_ac5d22.active_ac5d22, .theme-dark .outer_ac5d22.interactive_ac5d22:hover {
     background-color: var(--mbd-black3);
     transition: 100ms ease;
@@ -1519,6 +1522,12 @@
 .contentWrapper_af5dbb {
     background-color: var(--mbd-black1);
 }
+.container_b56bbc, .header_b56bbc {
+    background-color: transparent;
+}
+.header_b56bbc .searchBar_b56bbc {
+    background-color: var(--mbd-black3);
+}
 .wrapper_dc0b29 {
     background-color: var(--mbd-black1);
 }
@@ -1748,13 +1757,13 @@
 }
 /* App/commands icon */
 .channelAppLauncher_df39bd {
-    background: var(--mbd-black4);
     margin: 0px;
 }
 .button_df39bd {
-    background: transparent;
+    background: var(--mbd-black4);
     width: 52px;
     height: 68px;
+    border-radius: 0;
 }
 .content_a4d4d9:not(:has(.content_a7d72e .userPanelOuter_c69a7b)):not(:has(.membersWrap_cbd271)):not(:has(.searchResultsWrap_c2b47d)):not(:has(.chat_fe669e)):not(:has(.sidebarContainer_d2194f)):not(:has(.container_d1c246)) .channelAppLauncher_df39bd {
     margin: 0px;
@@ -1770,6 +1779,11 @@
 }
 .clickable_b78bb6:hover {
     background-color: var(--mbd-black3);
+}
+.attachedBars_d0696b {
+    position: relative;
+    margin-right: -52px;
+    z-index: 5;
 }
 /* Sticker popout */
 .containerBackground_ccd3df {
