@@ -2742,11 +2742,38 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
 .searchBox_d83b4d {
     background-color: var(--mbd-black2);
 }
-
+.headerBar_accde0 .searchBar_e06425 {
+    max-width: 200px;
+    min-width: 200px;
+    background-color: var(--mbd-accent);
+}
+.headerBar_accde0 .searchIcon_e06425 {
+    position: absolute;
+    left: -48px;
+}
+@media screen and (max-width: 1250px) {
+    .headerBar_accde0 .searchBar_e06425 {
+        flex: none;
+        position: absolute;
+        left: -220px;
+        max-width: 200px;
+        min-width: 200px;
+        background: var(--mbd-accent);
+    }
+}
+.container_e462a4 {
+    background-color: transparent;
+}
+.theme-dark .card_e32e6f {
+    background-color: var(--mbd-black1);
+}
+.theme-dark .card_e32e6f:hover {
+    background-color: var(--mbd-black3);
+}
 /* Quests */
 .scroller_b91a2d {
     margin-top: 52px;
-    background: var(--mbd-black1);
+    background: var(--mbd-black2);
 }
 .headerBar_accde0, .dragRegion_fc867b, .tabs_a853ca {
     height: 52px;
