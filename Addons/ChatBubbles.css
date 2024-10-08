@@ -110,9 +110,13 @@
 }
 .full-motion .wrapper_f7e168:hover, .wrapper_f7e168 {
     box-shadow: none;
+    border: none;
 }
 .wrapper_f7e168 {
-    height: 26px;
+    height: 28px;
+    padding: 0;
+    margin: 0;
+    border: none;
 }
 .container_a3b500 {
     padding: 0;
@@ -124,6 +128,10 @@
 .button_f7e168:hover, .wrapper_f7e168 {
     background-color: rgb(43 43 43);
     border-radius: 0;
+    background-clip: content-box;
+}
+.hoverBarButton_e986d9:hover .icon_e986d9 {
+    transform: none;
 }
 .scrollableContainer_d0696b {
     background: var(--mbd-black2);
