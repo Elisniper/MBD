@@ -2743,6 +2743,8 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
     background-color: var(--mbd-black2);
 }
 .headerBar_accde0 .searchBar_e06425 {
+    position: absolute;
+    right: 90px;
     max-width: 200px;
     min-width: 200px;
     background-color: var(--mbd-accent);
@@ -2778,13 +2780,13 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault_c858c
 .headerBar_accde0, .dragRegion_fc867b, .tabs_a853ca {
     height: 52px;
 }
-.headerBar_accde0 .backdrop_accde0, .headerBar_accde0:after {
+.headerBar_accde0 .backdrop_accde0, .headerBar_accde0:after, .headerBar_accde0.search_eed148 {
     background: transparent;
 }
 .headerBar_accde0 .top_a0 .item_a0 {
     margin-top: 16px;
 }
-.container_a97111, .rewardDescriptionContainer_c2d7e2 {
+.container_a97111, .rewardDescriptionContainer_c2d7e2, .container_b120dc {
     background-color: var(--mbd-black2);
 }
 /* Add server & Discover END */
