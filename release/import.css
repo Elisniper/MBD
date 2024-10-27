@@ -1332,6 +1332,9 @@
 .channelTextArea_a7d72e .buttons_bdf0de {
     padding-right: 5px;
 }
+.stackedBars_bdf0de {
+    background: transparent;
+}
 .channelAttachmentArea_e8c527 {
     display: flex;
     gap: 25px;
@@ -1758,18 +1761,24 @@
 /* App/commands icon */
 .channelAppLauncher_df39bd {
     margin: 0px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 45px;
+    bottom: auto;
 }
 .button_df39bd {
-    background: var(--mbd-black4);
+    background: transparent;
     width: 52px;
     height: 68px;
     border-radius: 0;
 }
-.content_a4d4d9:not(:has(.content_a7d72e .userPanelOuter_c69a7b)):not(:has(.membersWrap_cbd271)):not(:has(.searchResultsWrap_c2b47d)):not(:has(.chat_fe669e)):not(:has(.sidebarContainer_d2194f)):not(:has(.container_d1c246)) .channelAppLauncher_df39bd {
-    margin: 0px;
-}
 .content_a4d4d9:not(:has(.content_a7d72e .userPanelOuter_c69a7b)):not(:has(.membersWrap_cbd271)):not(:has(.searchResultsWrap_c2b47d)):not(:has(.chat_fe669e)):not(:has(.sidebarContainer_d2194f)):not(:has(.container_d1c246)) .button_df39bd {
     border-radius: 0;
+    background: transparent;
+}
+.content_a4d4d9 .channelTextArea_a7d72e .buttons_bdf0de {
+    margin-right: 35px;
 }
 .contentWrapper_f7506e {
     background-color: var(--mbd-black1);
