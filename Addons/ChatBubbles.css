@@ -213,12 +213,14 @@
     background-color: var(--mbd-black2);
     border-bottom: none !important;
     overflow: visible !important;
+    border-radius: 0 5px 5px 5px;
 }
 .recentMentionsPopout_ddb5b4 .cozy_f9f2ca.wrapper_f9f2ca:not(.groupStart_d5deea) {
     margin: 0 0 0 60px;
     padding-left: 10px;
     padding-top: 1px;
     padding-bottom: 3px;
+    border-radius: 0 5px 5px 5px;
 }
 .recentMentionsPopout_ddb5b4 .cozy_f9f2ca.wrapper_f9f2ca:after, .messagesPopoutWrap_ac90a2 .cozy_f9f2ca.wrapper_f9f2ca:after {
     border-right-color: var(--mbd-black2)
