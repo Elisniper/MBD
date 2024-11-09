@@ -40,7 +40,7 @@
 .accountProfilePopoutWrapper_b2ca13 .menu_d90b3d {
     background: transparent;
 }
-.accountProfilePopoutWrapper_b2ca13 .userPopoutOuter_c69a7b.userProfileOuterUnthemed_c69a7b {
+.accountProfilePopoutWrapper_b2ca13 .outer_c69a7b:not(.custom-profile-theme) {
     position: relative;
     width: 240px;
     left: 22px;
@@ -49,25 +49,21 @@
     box-shadow: none;
     border-radius: 0;
 }
-.accountProfilePopoutWrapper_b2ca13 .userPopoutOuter_c69a7b.userProfileOuterThemed_c69a7b {
+.accountProfilePopoutWrapper_b2ca13 .outer_c69a7b:has(.custom-profile-theme) {
     position: relative;
     width: 232px;
     left: 22px;
     top: 1px;
     box-shadow: none;
 }
-.accountProfilePopoutWrapper_b2ca13 .userPopoutInner_c69a7b.userProfileInner-3F03PX.userProfileInnerUnthemed-1XxIZu.userProfileInnerWithBanner-3CJ1Og, 
-.accountProfilePopoutWrapper_b2ca13 .userProfileInnerNonPremium-1XjSjn, 
-.accountProfilePopoutWrapper_b2ca13 .userProfileInnerPremiumWithoutBanner-37uB4Q {
+.accountProfilePopoutWrapper_b2ca13 .inner_c69a7b, 
+.accountProfilePopoutWrapper_b2ca13 .outer_c69a7b:not(.custom-profile-theme) .inner_c69a7b {
     background: var(--mbd-black4);
 }
-.accountProfilePopoutWrapper_b2ca13 .userProfileInnerThemedNonPremium-1gT-zY {
-    background: var(--mbd-black4);
-}
-.accountProfilePopoutWrapper_b2ca13 .userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
+.accountProfilePopoutWrapper_b2ca13 .overlay_c69a7b {
     background: transparent;
 }
-.accountProfilePopoutWrapper_b2ca13 .menus_ad5fac .flexible_d90b3d, .activity_cd74cc {
+.accountProfilePopoutWrapper_b2ca13 .overlay_c69a7b.card_ae1fa2 {
     background: var(--mbd-black2);
     border-radius: 8px;
 }
@@ -77,19 +73,19 @@
 .accountProfilePopoutWrapper_b2ca13 .pencilContainer_c3e427 {
     right: 33%;
 }
-.accountProfilePopoutWrapper_b2ca13 .bannerSVGWrapper_b32cc2 .popoutBanner_c3e427 {
+.accountProfilePopoutWrapper_b2ca13 .banner_d5fdb1 {
     width: 240px;
 }
-.userProfileOuterUnthemed_c69a7b {
+.outer_c69a7b:not(.custom-profile-theme) {
     background: var(--mbd-black1);
 }
-.userProfileOuterUnthemed_c69a7b .biteSizeOverlayBackground_c69a7b {
+.outer_c69a7b:not(.custom-profile-theme) .biteSizeOverlayBackground_c69a7b {
     background-color: var(--mbd-black2);
 }
-.userProfileOuterUnthemed_c69a7b .profileBadges_f89da9 {
+.outer_c69a7b:not(.custom-profile-theme) .profileBadges_f89da9 {
     background-color: var(--mbd-black2);
 }
-.userProfileOuterUnthemed_c69a7b .role_f9575e {
+.outer_c69a7b:not(.custom-profile-theme) .role_f9575e {
     background: var(--mbd-black1);
 }
 .userProfileInnerThemedWithBanner-2624Yx .textarea_dde0a8, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .textarea_dde0a8, .theme-light ::placeholder  {

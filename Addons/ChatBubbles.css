@@ -260,6 +260,7 @@
     background-color: var(--mbd-black2);
     border-bottom: none !important;
     overflow: visible !important;
+    border-radius: 0 5px 5px 5px;
 }
 .sidebarContainer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca:after, .searchResult_ddc613.cozy_f9f2ca.wrapper_f9f2ca:after {
     border-right-color: var(--mbd-black2)
@@ -270,4 +271,10 @@
 .sidebarContainer_d2194f .innerContainer_f328ee li>div {
     background: transparent !important;
     box-shadow: none;
+}
+.sidebarContainer_d2194f .searchResult_ddc613 .cozy_f9f2ca.wrapper_f9f2ca .spinningCircleInner_b6db20.inner_b6db20 {
+    width: 12px;
+    height: 10px;
+    top: -2px;
+    left: -14px;
 }
