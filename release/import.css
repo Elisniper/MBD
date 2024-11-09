@@ -1002,7 +1002,8 @@
 /* Shop  END */
 
 /* DM/Group calls START*/
-.content_a7d72e .outer_c69a7b:not(.custom-profile-theme) {
+.content_a7d72e .outer_c69a7b:not(.custom-profile-theme),
+.content_a7d72e .outer_c69a7b:not(.custom-profile-theme) .inner_c69a7b {
     background-color: var(--mbd-black4);
 }
 .content_a7d72e .overlayBackground_c69a7b {
