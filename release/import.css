@@ -81,7 +81,7 @@
 .profileCustomizationSection_bad983 .bioTextArea_ccf27d, .children_a6ae9b .input_f8bc55, .premiumTrialAcknowledgedBadge-2QxbU_, .card_a298b8:not(.outline_a298b8), 
 .dropCriteria_e8af36, .container_b01337, .container_a2e886, .box_f70f48, .enableCard_c55991, .wrapper_bfc2c6, .mainTableContainer_dd2627, .movedTable_dd2627,
 .shopScroll_e77fa3, .pageWrapper_e77fa3, .container_d7c696, .iconContainer_e677b7, .container_c18ec9, .cardPrimary_a298b8, .marker_f7ea1b .empty_f7ea1b, .marker_f7ea1b,
-.content_cc6017 {
+.content_cc6017, .perkCard_d611db {
     background-color: var(--mbd-black1);
 }
 /* Black 2*/
@@ -682,7 +682,7 @@
 
 /* Black 2*/
 .peopleColumn_c2739c, .searchBar_e0840f, .container_bf550a, .partyMemberOverflow_b448f2, .inviteBannerUpsell-1t_LYM, .theme-dark .inviteBannerUpsell-1t_LYM, .input_f4e139,
-.theme-dark .applicationStreamingPreviewWrapper_cd82a7, .theme-dark .separator_cd82a7, .forumPost_c53f2f, .outerContainer-2qLQSo, .shop_e77fa3, .friendRequestsButton_c0c071,
+.theme-dark .applicationStreamingPreviewWrapper_cd82a7, .theme-dark .separator_cd82a7, .forumPost_c53f2f, .outerContainer-2qLQSo, .friendRequestsButton_c0c071,
 .tertiary_e258f5 {
     background-color: var(--mbd-black2);
 }
@@ -988,6 +988,10 @@
 /*Nitro Main END*/
 
 /* Shop  START */
+.shop_e77fa3, .shop_ebba41 {
+    background-color: var(--mbd-black2)
+}
+
 .shopCard_c23530[style*="background-color: var(--background-floating);"] {
     background-color: var(--mbd-black2) !important;
 }
@@ -999,6 +1003,9 @@
 }
 .cardText_c23530 {
     z-index: 0;
+}
+.cardPrimary_a298b8 .avatar_f9f2ca {
+    left: -51px;
 }
 /* Shop  END */
 
@@ -1187,6 +1194,12 @@
 }
 .wrapper_f90abb.selected_f90abb .acronym_fb7739, .wrapper_f90abb:hover .acronym_fb7739 {
     background-color: var(--mbd-accent);
+}
+.footer_d71945 {
+    margin-top: 0px;
+    background: var(--mbd-black1);
+    padding-bottom: 4px;
+    padding-top: 8px;
 }
 /* Server List END */
 
@@ -2189,13 +2202,13 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .theme-dark .tierHeade
 .stop-animations .title_a7d72e {
     -webkit-app-region: unset;
 }
-.header_a50853 {
+.gradient_e74e54 {
     background: center 15%/90% auto url(https://discord.com/assets/a81e1a44f42b5939d6e007d37b4fb48c.svg) no-repeat,linear-gradient(359.37deg,rgba(0,0,0,.5) 12.68%,hsla(0,0%,100%,0) 50.4%),linear-gradient(159.15deg,var(--mbd-accent) 8.49%,var(--mbd-accent) 32.21%,var(--mbd-accent) 42.9%,var(--mbd-accent) 66.06%,var(--mbd-accent) 71.4%);
 }
 .tierCard_e3ebb9, .tierCardCurrentTier_e3ebb9 {
     background-image: linear-gradient(45deg,var(--mbd-black2),var(--mbd-black2));
 }
-.scroller_a50853, .lowerBodyContentWrapper_a50853 {
+.scroller_a50853, .lowerBodyContentWrapper_a50853, .guildContainer_e0d799 {
     background: var(--mbd-black1);
 }
 .headerWave_a586c4 {
