@@ -1,9 +1,9 @@
 /* Pin Button */
-.iconWrapper_fc4f04.clickable_fc4f04.selected_fc4f04[aria-label="Pinned Messages"] {
+.iconWrapper__9293f.clickable__9293f.selected__9293f[aria-label="Pinned Messages"] {
     transform: rotate(-45deg);
     transition: 100ms ease-in-out;
 }
-.iconWrapper_fc4f04.clickable_fc4f04[aria-label="Pinned Messages"] {
+.iconWrapper__9293f.clickable__9293f[aria-label="Pinned Messages"] {
     transform: rotate(0deg);
     transition: 100ms ease-in-out;
 }
@@ -16,11 +16,11 @@
         transform:scaleY(1);
     }
 }
-.container__23c08, .container_f1c3d9, .userPopout-2j1gM4, .browser_f542fc, .messagesPopoutWrap_ac90a2, .wrapper_d8cdac, .recentMentionsPopout_ddb5b4 {
+.container__23c08, .container__2692d, .userPopout-2j1gM4, .browser_d98031, .messagesPopoutWrap__45690, .wrapper__8ef02, .recentMentionsPopout__95796 {
     animation: menu-anim 240ms ease-in-out;
     transform-origin: top;
 }
-.positionLayer_af5dbb .emojiPicker_c6ee36 {
+.positionLayer__08434 .emojiPicker_c0e32c {
     animation: menu-anim 240ms ease-in-out;
     transform-origin: top;
 }
@@ -30,14 +30,14 @@
         transform: scale(1, 0.8); 
     } 
 }
-.menu_d90b3d[aria-label="Server Actions"], .menu_d90b3d[aria-label="Message Actions"], .menu_d90b3d[aria-label="User Settings Actions"], .menu_d90b3d[aria-label="Channel Actions"], 
-.menu_d90b3d[aria-label="Text area Actions"], .menu_d90b3d[aria-label="Server Role Actions"].menu_d90b3d[aria-label="Server Actions"], .menu_d90b3d[aria-label="Message Actions"], 
-.menu_d90b3d[aria-label="User Settings Actions"], .menu_d90b3d[aria-label="Channel Actions"], .menu_d90b3d[aria-label="Text area Actions"], 
-.menu_d90b3d[aria-label="Server Role Actions"], .menu_d90b3d[aria-label="Thread Actions"] {
+.menu_c1e9c4[aria-label="Server Actions"], .menu_c1e9c4[aria-label="Message Actions"], .menu_c1e9c4[aria-label="User Settings Actions"], .menu_c1e9c4[aria-label="Channel Actions"], 
+.menu_c1e9c4[aria-label="Text area Actions"], .menu_c1e9c4[aria-label="Server Role Actions"].menu_c1e9c4[aria-label="Server Actions"], .menu_c1e9c4[aria-label="Message Actions"], 
+.menu_c1e9c4[aria-label="User Settings Actions"], .menu_c1e9c4[aria-label="Channel Actions"], .menu_c1e9c4[aria-label="Text area Actions"], 
+.menu_c1e9c4[aria-label="Server Role Actions"], .menu_c1e9c4[aria-label="Thread Actions"] {
     animation: opacity 50ms ease, context-new 240ms cubic-bezier(0, 0, 0, 1);
     transform-origin: top;
 }
-.menu_d90b3d, .scroller-1bVxF5 {
+.menu_c1e9c4, .scroller-1bVxF5 {
     background: rgb(40 40 40);
     border-radius: 2px;
     padding: 0px 2px;
@@ -54,7 +54,7 @@
         transform: translate(0, -230px); 
     } 
 }
-.header_c96274 {
+.header__94b08 {
     border-bottom: 0;
     background-color: var(--mbd-black3);
     animation: 150ms ease, add-friend 250ms cubic-bezier(0,0,0,1);
@@ -72,6 +72,6 @@
 .theme-dark .directoryContainer_da3f59 {
     animation: fadein-anim 300ms ease-in-out both;
 }
-.app_a01fb1 {
+.app__160d8 {
     animation: fadein-anim 400ms ease-in-out both;
 }
