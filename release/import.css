@@ -1208,6 +1208,9 @@
     background-color: var(--mbd-black4);
     box-shadow: 0 1px 8px #101010;
 }
+.theme-dark .content__37e49 {
+    background-color: transparent;
+}
 .container__37e49 {
     height: 67px;
 }
