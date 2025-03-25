@@ -998,7 +998,7 @@
 .cardContainer_d3ddd1 .caretButton_d3ddd1 {
     z-index: 1;
 }
-.theme-dark .popularPicksGradient_e77fa3 {
+.theme-dark .popularPicksGradient_e77fa3, .backgroundSecondary__08415 {
     background: transparent;
 }
 .cardText_c3d04b {
@@ -1603,6 +1603,9 @@
     border-color: var(--mbd-accent) !important;
 }
 .selected__91a9d .layout__91a9d {
+    background-color: transparent;
+}
+.selected__91a9d .childContainer__91a9d {
     background-color: var(--mbd-black1);
 }
 .clickable__91a9d.container__91a9d:hover, .clickable__91a9d.container__91a9d:hover .muted__91a9d {
@@ -2728,9 +2731,8 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault__506b
     margin-top: 52px;
     padding-top: 8px;
 }
-.clickable__91a9d:hover .layout__91a9d, .clickable__91a9d:active .layout__91a9d {
-    background-color: var(--mbd-black1);
-    cursor: pointer;
+.clickable__91a9d:hover .childContainer__91a9d {
+    background-color: transparent;
 }
 .new__689fa {
     background-color: var(--mbd-black1);
