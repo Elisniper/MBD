@@ -51,7 +51,7 @@
 .message__5126c:not(.groupStart__5126c).mentioned__5126c {
     background-color: rgb(51 45 32) !important;
 }
-.theme-dark .message__5126c.selected__5126c, .theme-dark.mouse-mode.full-motion .message__5126c:hover {
+.visual-refresh .message__5126c.selected__5126c, .visual-refresh.mouse-mode.full-motion .message__5126c:hover {
     background: var(--mbd-black1);
 }
 .message__5126c:not(.groupStart__5126c) {
@@ -136,7 +136,7 @@
 .scrollableContainer__74017 {
     background: var(--mbd-black2);
 }
-.theme-dark .container_cc2dff, .theme-dark .reactors_cc2dff {
+.visual-refresh .container_cc2dff, .visual-refresh .reactors_cc2dff {
     background-color: var(--mbd-black1);
 }
 .button_f7ecac.dangerous_f7ecac {
@@ -209,7 +209,7 @@
 .message__89466 .cozy_c19a55.wrapper_c19a55:after {
     border-right-color: var(--mbd-black2);
 }
-.theme-dark .message__89466 {
+.visual-refresh .message__89466 {
     background-color: transparent;
     box-shadow: none;
 }
