@@ -1230,10 +1230,13 @@
     height: inherit;
     margin: 0;
 }
+.visual-refresh .sidebar_c48ade:after {
+    display: none;
+}
 .visual-refresh .content__37e49 {
     background-color: transparent;
 }
-.container__37e49 {
+.visual-refresh .container__37e49 {
     height: 67px;
 }
 .badge_a629d4 {
@@ -1365,8 +1368,8 @@
 .visual-refresh .channelTextArea_f75fb0 .scrollableContainer__74017 {
     background-color: var(--mbd-black4);
     scrollbar-width: none;
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     border-radius: 0;
 }
 .channelTextAreaContainer_bdf0de {
