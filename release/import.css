@@ -1218,7 +1218,7 @@
 .sidebar_c48ade .panels_c48ade {
     width: calc(var(--custom-guild-sidebar-width) - var(--custom-guild-list-width));
     left: 72px;
-    height: 73px;
+    min-height: 73px;
     bottom: 0;
     border-radius: 0;
     border: none;
@@ -1228,7 +1228,6 @@
     background-color: var(--mbd-black4);
     box-shadow: 0 1px 8px #101010;
     height: inherit;
-    width: inherit;
     margin: 0;
 }
 .visual-refresh .content__37e49 {
