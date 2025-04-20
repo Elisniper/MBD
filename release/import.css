@@ -1218,7 +1218,6 @@
 .sidebar_c48ade .panels_c48ade {
     width: calc(var(--custom-guild-sidebar-width) - var(--custom-guild-list-width));
     left: 72px;
-    min-height: 73px;
     bottom: 0;
     border-radius: 0;
     border: none;
@@ -1237,7 +1236,7 @@
     background-color: transparent;
 }
 .visual-refresh .container__37e49 {
-    height: 67px;
+    height: 68px;
 }
 .badge_a629d4 {
     background-color: var(--mbd-black1);
@@ -1253,6 +1252,10 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
+.visual-refresh .container__2637a {
+    background: var(--mbd-black3);
+    margin-bottom: -4px;
+}
 .container__6e9be {
     background: var(--mbd-black3);
 }
