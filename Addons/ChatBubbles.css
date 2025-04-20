@@ -51,7 +51,7 @@
 .message__5126c:not(.groupStart__5126c).mentioned__5126c {
     background-color: rgb(51 45 32) !important;
 }
-.visual-refresh .message__5126c.selected__5126c, .visual-refresh.mouse-mode.full-motion .message__5126c:hover {
+.theme-dark.visual-refresh .message__5126c.selected__5126c, .theme-dark.mouse-mode.full-motion.visual-refresh .message__5126c:hover {
     background: var(--mbd-black1);
 }
 .message__5126c:not(.groupStart__5126c) {
@@ -125,7 +125,7 @@
 .message__5126c:not(.groupStart__5126c) .buttons__5126c.container__040f0 {
     top: 0;
 }
-.button_f7ecac:hover, .wrapper_f7ecac {
+.button_f7ecac:hover, .visual-refresh .wrapper_f7ecac {
     background-color: rgb(43 43 43);
     border-radius: 0;
     background-clip: content-box;
