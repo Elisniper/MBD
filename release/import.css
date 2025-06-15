@@ -554,7 +554,7 @@
 .shop__6db1d .visual-refresh.headerBar__80679 {
     background: transparent !important;
 }
-.visual-refresh .container__133bf {
+.visual-refresh .homeWrapper__0920e {
     background-color: transparent;
     border-top: none;
 }
@@ -992,10 +992,12 @@
 /*Nitro Main END*/
 
 /* Shop  START */
-.shop__6db1d, .shop__08415 {
+.visual-refresh .shop__6db1d, .visual-refresh .shop__08415 {
     background-color: var(--mbd-black2)
 }
-
+.visual-refresh .shop__6db1d {
+    border-top: 0;
+}
 .shopCard_c3d04b[style*="background-color: var(--background-floating);"] {
     background-color: var(--mbd-black2) !important;
 }
