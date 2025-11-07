@@ -554,8 +554,7 @@
 .shop__6db1d .visual-refresh.headerBar__80679 {
     background: transparent !important;
 }
-.visual-refresh .homeWrapper__0920e {
-    background-color: transparent;
+.container__955a3 {
     border-top: none;
 }
 .visual-refresh .outerContainer-2qLQSo .container__9293f.themed__9293f {
@@ -625,27 +624,27 @@
     border-radius: 3px;
     transform-origin: bottom;
 }
-.container__133bf .tabBar__133bf .item__133bf.selected_b3f026:after {
+.container__133bf .tabBar__133bf .item__133bf.selected_aa8da2:after {
     transition: 180ms cubic-bezier(0,0,0,1),opacity 1ms ease;
     transform: scale(1,1);
     transform-origin: bottom;
 }
-.container__133bf .tabBar__133bf .item__133bf.selected_b3f026 ~ .item__133bf:after {    
+.container__133bf .tabBar__133bf .item__133bf.selected_aa8da2 ~ .item__133bf:after {    
     transform: translate(-80px) scale(2.5,1);
     transition: 180ms cubic-bezier(1,0,0,0.7),opacity 100ms;
     opacity: 0;
 }
-.container__133bf .tabBar__133bf .item__133bf:not(.selected_b3f026)::after {
+.container__133bf .tabBar__133bf .item__133bf:not(.selected_aa8da2)::after {
     transform: translate(80px) scale(2.5,1);
     transition: 180ms cubic-bezier(1,0,0,0.7),opacity 100ms;
     opacity: 0;
 }
-.container__133bf .side_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled_b3f026), .container__133bf .topPill_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled_b3f026) {
+.container__133bf .tabBar__133bf .item__133bf:hover:not(.disabled_b3f026), .container__133bf .topPill_aa8da2 .item__133bf:hover:not(.disabled_b3f026) {
     transition: 100ms ease-out;
     background-color: transparent;
     color: #FFF !important;
 }
-.container__133bf .tabBar__133bf .item__133bf.selected_b3f026 {
+.container__133bf .tabBar__133bf .item__133bf.selected_aa8da2 {
     background-color: transparent !important;
     color: #FFF;
 }
@@ -675,7 +674,7 @@
 /* Black 1*/
 .section__00943, .noResults_cba592, .scroller_cba592, .tag_fea832, .scroller__2692d, .scroller__95796, .primary_a41c2a:hover:not(.disabled__4d064),
 .secondary__45d4f, .quickswitcher_ac6cb0, .visual-refresh .bd-server-card, .bd-placeholder-card, .snowsgivingLink-1TZi3c:hover, .container__23c08, 
-.expandedTabSection_f0cd33 .topPill-3DJJNV .themed_b3f026.selected_b3f026.item_b3f026, .bigPerkCard-1uwmWV, .smallPerkCard-2sX_--, .activityCard-3EABg3,
+.expandedTabSection_f0cd33 .topPill-3DJJNV .themed_b3f026.selected_aa8da2.item_b3f026, .bigPerkCard-1uwmWV, .smallPerkCard-2sX_--, .activityCard-3EABg3,
 .celebrateCardContainer-MAdnBam, .flipCardOpened-hiYLHX, .messageRequestItem_abb9ad.active_abb9ad, .messageRequestItem_abb9ad:hover, .selected_f391e3, 
 .friendRequestsButton__523aa:hover, .tertiary__06eda:hover:not(.disabled__06eda) {
     background-color: var(--mbd-black1);
@@ -1187,7 +1186,7 @@
 }
 .wrapper_ef3116 .scroller_ef3116 {
     padding-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 84px;
 }
 .visual-refresh .wrapper_ef3116 {
     margin-bottom: 0px;
@@ -1241,7 +1240,7 @@
     background-color: transparent;
 }
 .visual-refresh .container__37e49 {
-    height: 68px;
+    background-color: var(--mbd-black2);
 }
 .badge_a629d4 {
     background-color: var(--mbd-black1);
@@ -1257,7 +1256,7 @@
 
 /* Server Tabs MAIN START */
 /* Chat & server channels  */
-.visual-refresh .container__2637a {
+.privateChannels_e6b769 {
     background: var(--mbd-black3);
     margin-bottom: -4px;
 }
@@ -1308,11 +1307,11 @@
     margin-top: 2px;
     padding: 12px 16px 0px 10px;
 }
-.visual-refresh .sidebarList_c48ade {
+.sidebarList__5e434 {
     border-radius: 0;
     border: none;
 }
-.visual-refresh .header_f37cb1 {
+.visual-refresh .searchBar_e6b769, .container__2637a .header_f37cb1 {
     background-color: var(--mbd-accent);
     box-shadow: none;
     height: 52px;
@@ -1321,13 +1320,13 @@
     z-index: 3;
     border-bottom: 0;
 }
-.clickable_f37cb1 .header_f37cb1:hover {
+.clickable_f37cb1 .searchBar_e6b769:hover {
     background-color: var(--mbd-accent);
 }
-.clickable_f37cb1 .selected_f37cb1, .hasBanner_f37cb1 .header_f37cb1 {
+.clickable_f37cb1 .selected_f37cb1, .hasBanner_f37cb1 .searchBar_e6b769 {
     background-color: transparent !important;
 }
-.clickable_f37cb1, .selected_f37cb1 .header_f37cb1 {
+.clickable_f37cb1, .selected_f37cb1 .searchBar_e6b769 {
     background-color: var(--mbd-accent) !important;
 }
 .scroller__629e4 {
@@ -1714,7 +1713,7 @@
     background-color: var(--mbd-black3);
     color: var(--interactive-active);
 }
-.expandedTabSection_f0cd33 .themed_b3f026.selected_b3f026.item_b3f026 {
+.expandedTabSection_f0cd33 .themed_b3f026.selected_aa8da2.item_b3f026 {
     background-color: var(--mbd-black1);
 }
 .isUnread__908e2 {
@@ -2030,18 +2029,18 @@
     transform-origin: bottom;
 }
 /*Top button background transition*/
-.tabBar_d1d9f3 .tabBarItem_d1d9f3.selected_b3f026:after {
+.tabBar_d1d9f3 .tabBarItem_d1d9f3.selected_aa8da2:after {
     transition: 180ms cubic-bezier(0,0,0,1),opacity 1ms ease;
     transform: scale(1,1);
     transform-origin: bottom;
 }
 
-.tabBar_d1d9f3 .tabBarItem_d1d9f3.selected_b3f026 ~ .tabBarItem_d1d9f3:after {    
+.tabBar_d1d9f3 .tabBarItem_d1d9f3.selected_aa8da2 ~ .tabBarItem_d1d9f3:after {    
     transform: translate(-80px) scale(1.2,1);
     transition: 180ms cubic-bezier(1,0,0,0.7),opacity 100ms;
     opacity: 0;
 }
-.tabBar_d1d9f3 .tabBarItem_d1d9f3:not(.selected_b3f026)::after {
+.tabBar_d1d9f3 .tabBarItem_d1d9f3:not(.selected_aa8da2)::after {
     transform: translate(80px) scale(1.2,1);
     transition: 180ms cubic-bezier(1,0,0,0.7),opacity 100ms;
     opacity: 0;
@@ -2049,11 +2048,11 @@
 .tabBar_d1d9f3 .tabBarItem_d1d9f3 .text-sm-normal__95a78 {
     transition: 200ms ease;
 }
-.tabBar_d1d9f3 .tabBarItem_d1d9f3:hover:not(.selected_b3f026) .text-sm-normal__95a78 {
+.tabBar_d1d9f3 .tabBarItem_d1d9f3:hover:not(.selected_aa8da2) .text-sm-normal__95a78 {
     transition: 100ms ease-out;
     color: #FFF !important;
 }
-.tabBar_d1d9f3 .tabBarItem_d1d9f3.selected_b3f026 .text-sm-normal__95a78 {
+.tabBar_d1d9f3 .tabBarItem_d1d9f3.selected_aa8da2 .text-sm-normal__95a78 {
     color: #FFF;
 }
 
@@ -2179,7 +2178,7 @@
 .upsellContainer__4cfe2, .backgroundAccent-2YeFtZ, .developerPortalCtaWrapper_bf485f, .checklistContainer-12xGp5, .container__812a7, .exampleContainer_b34334, .optionContainer_b34334,
 .emojiButtonContainer-1n1BNw, .previewContainer__5579e, .editCircle__5ea8c, .avatarUploaderInnerSquareDisabled_e04502, .descriptionBox__981f7, .visual-refresh .changeDetails__43dab,
 .lookOutlined-3yKVGo.colorPrimary-2AuQVo:hover, .itemFilled-1cPbtg, .guildFeatureAvailabilityIndicator_cd0bbe, .lookOutlined-3yKVGo.colorPrimary-2AuQVo:active, 
-.side_b3f026 .themed_b3f026.selected_b3f026.item_b3f026, .side_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled-1nofHP), 
+.side_b3f026 .themed_b3f026.selected_aa8da2.item_b3f026, .side_b3f026 .themed_b3f026.item_b3f026:hover:not(.disabled-1nofHP), 
 .side_b3f026 .themed_b3f026.item_b3f026:active:not(.disabled-1nofHP), .visual-refresh .container_d8f25b, .container_d8f25b:hover, .roleRow_a930f1:hover:not(.roleRowDisableHover_a930f1),
 .container__33507, .roleRow-3LoHQ6:hover:not(.roleRowDisableHover-2TXfy-), .visual-refresh .tierBody_f15dca, .upsellFooter-1H_OCF, .perksList-34peAu, .visual-refresh .iconWrapper__0d13e,
 .visual-refresh .tierInProgress_c44edb, .visual-refresh .perksModal-CLcR1c, .visual-refresh .tierMarkerBackground-G8FoN4, .copyInput_fffc15, .featureCard_bebc5b, .css-xpql1x-control,
@@ -2412,7 +2411,7 @@ input.inputDefault-3FGxgL.input-2g-os5.inputInner-vW14RT, .visual-refresh .tierH
     opacity: 1;
     color: var(--mbd-notification);
 }
-.top-K_jibn .brand_b3f026.item_b3f026:active, .top-K_jibn .brand_b3f026.selected_b3f026.item_b3f026 {
+.top-K_jibn .brand_b3f026.item_b3f026:active, .top-K_jibn .brand_b3f026.selected_aa8da2.item_b3f026 {
     border-bottom-color: var(--mbd-accent);
 }
 .top-K_jibn .brand_b3f026.item_b3f026:hover {
@@ -2602,7 +2601,7 @@ textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault__506b
 .top_b3f026 .brand_b3f026.item_b3f026:hover {
     border-bottom-color: rgb(255 255 255 / 30%);
 }
-.top_b3f026 .brand_b3f026.item_b3f026:active, .top_b3f026 .brand_b3f026.selected_b3f026.item_b3f026 {
+.top_b3f026 .brand_b3f026.item_b3f026:active, .top_b3f026 .brand_b3f026.selected_aa8da2.item_b3f026 {
     border-bottom-color: #FFF;
 }
 .optionButtonWrapper__270d7.selected__270d7 {
