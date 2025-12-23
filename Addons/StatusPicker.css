@@ -5,7 +5,7 @@
     opacity: 0; 
     } 
 }
-.container__37e49 .avatarWrapper__37e49:before {
+._37e49614b9f110a9-container ._37e49614b9f110a9-avatarWrapper:before {
     content: " ";
     display: block;
     position: fixed;
@@ -20,7 +20,7 @@
     box-shadow: 0 -5px 10px rgb(42 42 42 / 20%);
     z-index: 10;
 }
-.container__37e49 .avatarWrapper__37e49[aria-expanded="true"]:before  {
+._37e49614b9f110a9-container ._37e49614b9f110a9-avatarWrapper[aria-expanded="true"]:before  {
     transform: scale(1); 
 }
 */
@@ -34,14 +34,14 @@
 .submenu-1apzyU, .submenu-1apzyU .scroller-1bVxF5 {
     background: rgb(40 40 40) !important;
 }
-.accountProfilePopoutWrapper__37e49 .scroller-1bVxF5, .menu_c1e9c4[aria-label="Set Status"] {
+.accountProfilePopoutWrapper__37e49 .scroller-1bVxF5, .c1e9c47c23f12ca3-menu[aria-label="Set Status"] {
     background: transparent;
     box-shadow: none !important;
 }
-.accountProfilePopoutWrapper__37e49 .menu_c1e9c4 {
+.accountProfilePopoutWrapper__37e49 .c1e9c47c23f12ca3-menu {
     background: transparent;
 }
-.accountProfilePopoutWrapper__37e49 .outer_c0bea0:not(.custom-user-profile-theme) {
+.accountProfilePopoutWrapper__37e49 .c0bea05627c5dc35-outer:not(.custom-user-profile-theme) {
     position: relative;
     width: 240px;
     left: 22px;
@@ -50,52 +50,52 @@
     box-shadow: none;
     border-radius: 0;
 }
-.accountProfilePopoutWrapper__37e49 .outer_c0bea0:has(.custom-user-profile-theme) {
+.accountProfilePopoutWrapper__37e49 .c0bea05627c5dc35-outer:has(.custom-user-profile-theme) {
     position: relative;
     width: 232px;
     left: 22px;
     top: 1px;
     box-shadow: none;
 }
-.accountProfilePopoutWrapper__37e49 .inner_c0bea0, 
-.accountProfilePopoutWrapper__37e49 .outer_c0bea0:not(.custom-user-profile-theme) .inner_c0bea0 {
+.accountProfilePopoutWrapper__37e49 .c0bea05627c5dc35-inner, 
+.accountProfilePopoutWrapper__37e49 .c0bea05627c5dc35-outer:not(.custom-user-profile-theme) .c0bea05627c5dc35-inner {
     background: var(--mbd-black4);
 }
-.accountProfilePopoutWrapper__37e49 .overlay_c0bea0 {
+.accountProfilePopoutWrapper__37e49 .c0bea05627c5dc35-overlay {
     background: transparent;
 }
-.accountProfilePopoutWrapper__37e49 .overlay_c0bea0.card__39ec2 {
+.accountProfilePopoutWrapper__37e49 .c0bea05627c5dc35-overlay._39ec2e3dfb4fd2f2-card {
     background: var(--mbd-black2);
     border-radius: 8px;
 }
-.submenuPaddingContainer_c1e9c4 .submenu_c1e9c4 {
+.c1e9c47c23f12ca3-submenuPaddingContainer .subc1e9c47c23f12ca3-menu {
     background-color: rgb(40 40 40);
 }
 .accountProfilePopoutWrapper__37e49 .pencilContainer_c3e427 {
     right: 33%;
 }
-.accountProfilePopoutWrapper__37e49 .banner__68edb {
+.accountProfilePopoutWrapper__37e49 ._68edb95846a37624-banner {
     width: 240px;
 }
 */
-.outer_c0bea0:not(.custom-user-profile-theme) {
+.c0bea05627c5dc35-outer:not(.custom-user-profile-theme) {
     background: var(--mbd-black1);
 }
-.outer_c0bea0:not(.custom-user-profile-theme) .biteSizeOverlayBackground_c69a7b {
+.c0bea05627c5dc35-outer:not(.custom-user-profile-theme) .biteSizeOverlayBackground_c69a7b {
     background-color: var(--mbd-black2);
 }
-.outer_c0bea0:not(.custom-user-profile-theme) .profileBadges_f89da9 {
+.c0bea05627c5dc35-outer:not(.custom-user-profile-theme) .profileBadges_f89da9 {
     background-color: var(--mbd-black2);
 }
-.outer_c0bea0:not(.custom-user-profile-theme) .role_dfa8b6 {
+.c0bea05627c5dc35-outer:not(.custom-user-profile-theme) .dfa8b6b94cddb191-role {
     background: var(--mbd-black1);
 }
 .userProfileInnerThemedWithBanner-2624Yx .textarea_dde0a8, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .textarea_dde0a8, .theme-light ::placeholder  {
     background-color: transparent !important;
 }
-.userProfileInnerThemedWithBanner-2624Yx .connectedAccountContainer_e6abe8, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .connectedAccountContainer_e6abe8 {
+.userProfileInnerThemedWithBanner-2624Yx .e6abe833ac70fcae-connectedAccountContainer, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .e6abe833ac70fcae-connectedAccountContainer {
     background-color: transparent;
 }
-.userProfileInnerThemedWithBanner-2624Yx .messageInputContainer-2rGDH8 .input__0f084, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .messageInputContainer-2rGDH8 .input__0f084 {
+.userProfileInnerThemedWithBanner-2624Yx .messageInputContainer-2rGDH8 ._0ed4fc708cdbac0d-input, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .messageInputContainer-2rGDH8 ._0ed4fc708cdbac0d-input {
     background-color: transparent;
 }
