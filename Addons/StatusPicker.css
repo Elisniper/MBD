@@ -5,7 +5,7 @@
     opacity: 0; 
     } 
 }
-.container__37e49 .avatarWrapper__69074:before {
+.container_g6VwXp .avatarWrapper_vYyt7U:before {
     content: " ";
     display: block;
     position: fixed;
@@ -20,7 +20,7 @@
     box-shadow: 0 -5px 10px rgb(42 42 42 / 20%);
     z-index: 10;
 }
-.container__37e49 .avatarWrapper__69074[aria-expanded="true"]:before  {
+.container_g6VwXp .avatarWrapper_vYyt7U[aria-expanded="true"]:before  {
     transform: scale(1); 
 }
 */
@@ -34,14 +34,14 @@
 .submenu-1apzyU, .submenu-1apzyU .scroller-1bVxF5 {
     background: rgb(40 40 40) !important;
 }
-.accountProfilePopoutWrapper__37e49 .scroller-1bVxF5, .menu_c1e9c4[aria-label="Set Status"] {
+.accountProfilePopoutWrapper__37e49 .scroller-1bVxF5, .menu_M3qk4j[aria-label="Set Status"] {
     background: transparent;
     box-shadow: none !important;
 }
-.accountProfilePopoutWrapper__37e49 .menu_c1e9c4 {
+.accountProfilePopoutWrapper__37e49 .menu_M3qk4j {
     background: transparent;
 }
-.accountProfilePopoutWrapper__37e49 .outer_c0bea0:not(.custom-user-profile-theme) {
+.accountProfilePopoutWrapper__37e49 .outer_P1YEjQ:not(.custom-user-profile-theme) {
     position: relative;
     width: 240px;
     left: 22px;
@@ -50,52 +50,52 @@
     box-shadow: none;
     border-radius: 0;
 }
-.accountProfilePopoutWrapper__37e49 .outer_c0bea0:has(.custom-user-profile-theme) {
+.accountProfilePopoutWrapper__37e49 .outer_P1YEjQ:has(.custom-user-profile-theme) {
     position: relative;
     width: 232px;
     left: 22px;
     top: 1px;
     box-shadow: none;
 }
-.accountProfilePopoutWrapper__37e49 .inner_c0bea0, 
-.accountProfilePopoutWrapper__37e49 .outer_c0bea0:not(.custom-user-profile-theme) .inner_c0bea0 {
+.accountProfilePopoutWrapper__37e49 .inner_P1YEjQ, 
+.accountProfilePopoutWrapper__37e49 .outer_P1YEjQ:not(.custom-user-profile-theme) .inner_P1YEjQ {
     background: var(--mbd-black4);
 }
-.accountProfilePopoutWrapper__37e49 .overlay_c0bea0 {
+.accountProfilePopoutWrapper__37e49 .overlay_P1YEjQ {
     background: transparent;
 }
-.accountProfilePopoutWrapper__37e49 .overlay_c0bea0.card__39ec2 {
+.accountProfilePopoutWrapper__37e49 .overlay_P1YEjQ.card_Bu4Al8 {
     background: var(--mbd-black2);
     border-radius: 8px;
 }
-.submenuPaddingContainer_c1e9c4 .subc1e9c47c23f12ca3-menu {
+.submenuPaddingContainer_M3qk4j .subc1e9c47c23f12ca3-menu {
     background-color: rgb(40 40 40);
 }
 .accountProfilePopoutWrapper__37e49 .pencilContainer_c3e427 {
     right: 33%;
 }
-.accountProfilePopoutWrapper__37e49 .banner__68edb {
+.accountProfilePopoutWrapper__37e49 .banner_s9bWOi {
     width: 240px;
 }
 */
-.outer_c0bea0:not(.custom-user-profile-theme) {
+.outer_P1YEjQ:not(.custom-user-profile-theme) {
     background: var(--mbd-black1);
 }
-.outer_c0bea0:not(.custom-user-profile-theme) .biteSizeOverlayBackground_c69a7b {
+.outer_P1YEjQ:not(.custom-user-profile-theme) .biteSizeOverlayBackground_c69a7b {
     background-color: var(--mbd-black2);
 }
-.outer_c0bea0:not(.custom-user-profile-theme) .profileBadges_f89da9 {
+.outer_P1YEjQ:not(.custom-user-profile-theme) .profileBadges_f89da9 {
     background-color: var(--mbd-black2);
 }
-.outer_c0bea0:not(.custom-user-profile-theme) .role_b4b2c3 {
+.outer_P1YEjQ:not(.custom-user-profile-theme) .role_p3g15p {
     background: var(--mbd-black1);
 }
-.userProfileInnerThemedWithBanner-2624Yx .textarea__9daae, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .textarea__9daae, .theme-light ::placeholder  {
+.userProfileInnerThemedWithBanner-2624Yx .textarea_7NTkEC, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .textarea_7NTkEC, .theme-light ::placeholder  {
     background-color: transparent !important;
 }
-.userProfileInnerThemedWithBanner-2624Yx .connectedAccountContainer_e6abe8, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .connectedAccountContainer_e6abe8 {
+.userProfileInnerThemedWithBanner-2624Yx .connectedAccountContainer_XvCt_s, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .connectedAccountContainer_XvCt_s {
     background-color: transparent;
 }
-.userProfileInnerThemedWithBanner-2624Yx .messageInputContainer-2rGDH8 .input__0ed4f, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .messageInputContainer-2rGDH8 .input__0ed4f {
+.userProfileInnerThemedWithBanner-2624Yx .messageInputContainer-2rGDH8 .input_b-mzk1, .userProfileInnerThemedPremiumWithoutBanner-1yMS1H .messageInputContainer-2rGDH8 .input_b-mzk1 {
     background-color: transparent;
 }
